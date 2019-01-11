@@ -1,0 +1,177 @@
+<mjml version="3.3.3">
+    <mj-head>
+        <mj-title>Glam wedding inspo and…goats at a wedding?</mj-title>
+        <mj-attributes>
+        </mj-attributes>
+        <mj-style inline="inline">
+          .mobileLb {
+                display: none
+            }
+
+            @media all and (max-width: 480px) {
+            .no-padding-xs,
+            .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+            .email-title-wrapper td {
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+            }
+            .desktopLb {
+                display: none !important;
+            }
+
+            .mobileLb {
+                display: block !important;
+                text-align: center!important;
+                align: center !important;
+            }
+            }
+
+            }
+            @media all and (min-width: 480px) {
+            .email-title-wrapper td {
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            }
+            }
+            
+        </mj-style>
+
+    </mj-head>
+  <mj-body background-color="#ffffff" color="#55575d" font-family="Arial, sans-serif" width="640px">
+    <!-- BAR -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/Logo-1.png" width="250px" href="http://www.todaysbride.ca"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- BAR -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" vertical-align="top">
+      <mj-column width="640px">
+        <mj-divider border-width="1px" border-style="solid" border-color="#000" />
+      </mj-column>
+    </mj-section>
+    <!-- LEADERBOARD 1 -->
+    <!-- <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column width="640px">
+        <mj-image css-class="desktopLb" align="center" padding="0px"  href="https://www.todaysbride.ca/ad/em_TB_LB_1/640x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_TB_LB_1&sz=640x90"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px"  href="https://www.todaysbride.ca/ad/em_TB_LB_1/300x90/"  src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_TB_LB_1&sz=300x90"></mj-image>
+        </mj-text>
+      </mj-column>
+    </mj-section> -->
+    <!-- Feature -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+
+      <mj-column width="640px">
+
+        <mj-image align="center" padding="0px" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/GlamMasters3.jpg" width="640px" href="https://www.todaysbride.ca/articles/glam-masters-bold-wedding-inspiration/"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="28px" padding="0px 25px 0px 25px"><a href="https://www.todaysbride.ca/articles/glam-masters-bold-wedding-inspiration/" style="text-decoration:none;color:#55575d">Glam masters: décor and fashion inspiration
+          </a></mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- LEADERBOARD 2 -->
+    <!-- <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column width="640px">
+        <mj-image css-class="desktopLb" href="https://www.todaysbride.ca/ad/em_TB_LB_2/640x90/"  align="center" padding="0px" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_TB_LB_2&sz=640x90"></mj-image>
+        <mj-image css-class="mobileLb"  href="https://www.todaysbride.ca/ad/em_TB_LB_2/300x90/" align="center" padding="0px" width="300px" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_TB_LB_2&sz=300x90"></mj-image>
+        </mj-text>
+      </mj-column>
+    </mj-section> -->
+    <!-- First Row of News Stories -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="320px">
+        <mj-image align="center" padding="5px" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/AnimalRules2.jpg" href="https://www.todaysbride.ca/articles/7-things-to-remember-when-having-animals-at-your-wedding/"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="28px" padding="0px 25px 0px 25px"><a href="https://www.todaysbride.ca/articles/7-things-to-remember-when-having-animals-at-your-wedding/" style="text-decoration:none;color:#55575d">7 rules for including animals in your wedding</a></mj-text>
+      </mj-column>
+      <mj-column width="320px">
+        <mj-image align="center" padding="5px" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/RealWedding-6.jpg" href="https://www.todaysbride.ca/articles/a-rustic-wedding-full-of-charm/"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="28px" padding="0px 25px 0px 25px"><a href="https://www.todaysbride.ca/articles/a-rustic-wedding-full-of-charm/" style="text-decoration:none;color:#55575d">A real wedding with rustic charm</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Second Row of News Stories -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column width="320px">
+        <mj-image align="center" padding="5px" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/SouthAfrica2-min.jpg" href="https://www.todaysbride.ca/articles/into-the-wild-a-south-african-honeymoon/"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="28px" padding="0px 25px 0px 25px"><a href="https://www.todaysbride.ca/articles/into-the-wild-a-south-african-honeymoon/" style="text-decoration:none;color:#55575d">Planning a South African honeymoon</a></mj-text>
+      </mj-column>
+      <mj-column width="320px">
+        <mj-image align="center" padding="5px" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/beauty-1-1.jpg" href="https://www.todaysbride.ca/articles/beauty-looks-for-all-seasons/"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="28px" padding="0px 25px 0px 25px"><a href="https://www.todaysbride.ca/articles/beauty-looks-for-all-seasons/" style="text-decoration:none;color:#55575d">Beauty looks for all seasons
+</a></mj-text>
+
+      </mj-column>
+
+
+    </mj-section>
+
+    <!-- LEADERBOARD 3 -->
+    <!-- <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+
+      <mj-column width="640px">
+
+        <mj-image css-class="desktopLb"  href="https://www.todaysbride.ca/ad/em_TB_LB_3/640x90/" align="center" padding="0px" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_TB_LB_3&sz=640x90"></mj-image>
+        <mj-image css-class="mobileLb"   href="https://www.todaysbride.ca/ad/em_TB_LB_3/300x90/" align="center" padding="0px" width="300px" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_TB_LB_3&sz=300x90"></mj-image>
+        </mj-text>
+
+      </mj-column>
+    </mj-section> -->
+    <!-- BAR -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" vertical-align="top">
+      <mj-column width="640px">
+        <mj-divider border-width="1px" border-style="solid" border-color="#000" />
+      </mj-column>
+    </mj-section>
+    <!-- First Row of News Stories -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column css-class="staticRow">
+        <mj-image css-class="staticRowImage" align="center" padding="5px" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/TB_enews_contest_200x112.5.jpg" href="https://www.todaysbride.ca/ss19-contest/"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="15px" padding="0px 25px 0px 25px"><a href="https://www.todaysbride.ca/ss19-contest/" style="text-decoration:none;color:#55575d">Win A Bahamas Honeymoon</a></mj-text>
+      </mj-column>
+      <mj-column css-class="staticRow">
+        <mj-image css-class="staticRowImage" align="center" padding="5px" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/Destination_Weddings_200x112.5.jpg" href="https://www.todaysbride.ca/destination-weddings/"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="15px" padding="0px 25px 0px 25px"><a href="https://www.todaysbride.ca/destination-weddings/" style="text-decoration:none;color:#55575d">Destination Weddings</a></mj-text>
+      </mj-column>
+      <!-- <mj-column css-class="staticRow">
+        <mj-image css-class="staticRowImage" align="center" padding="5px" src="https://dev-todaysbride.pantheonsite.io/wp-content/uploads/2018/10/featured-image-340x200.png" href="http://www.todaysbride.ca/articles/decor-inspiration-colour-outside-the-lines"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="15px" padding="0px 25px 0px 25px"><a href="http://www.todaysbride.ca/articles/decor-inspiration-colour-outside-the-lines" style="text-decoration:none;color:#55575d">Gift Registry</a></mj-text>
+      </mj-column> -->
+      <mj-column css-class="staticRow">
+        <mj-image  css-class="staticRowImage" align="center" padding="5px" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/Reception_Venues_200x112.5.jpg" href="https://www.todaysbride.ca/vendor-search-result/?vendor_city=gta&vendor_cat=venuess"></mj-image>
+        <mj-text align="center" color="#55575d" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif;" font-size="14px" line-height="15px" padding="0px 25px 0px 25px"><a href="https://www.todaysbride.ca/vendor-search-result/?vendor_city=gta&vendor_cat=venues" style="text-decoration:none;color:#55575d">GTA Reception Venue</a></mj-text>
+      </mj-column>
+
+
+    </mj-section>
+    <!-- Second Row of News Stories -->
+    </mj-section>
+    <!-- BAR -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" vertical-align="top">
+      <mj-column width="640px">
+        <mj-divider border-width="1px" border-style="solid" border-color="#000" />
+      </mj-column>
+    </mj-section>
+    <!-- Social Icons -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="0px" background-size="auto" text-align="center" vertical-align="top">
+      <mj-column width="80px" padding="0px" css-class="socialIcons">
+        <mj-image css-class="socialIcons" href="https://www.facebook.com/todaysbridemagcanada" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/light-facebook-96.png">
+      </mj-column>
+      <mj-column width="80px" padding="0px" css-class="socialIcons">
+        <mj-image css-class="socialIcons" href="http://twitter.com/Todaysbridemag" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/light-twitter-96.png">
+      </mj-column>
+      <mj-column width="80px" padding="0px" css-class="socialIcons">
+        <mj-image css-class="socialIcons"href="http://www.pinterest.com/todaysbridemag" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/light-pinterest-96.png">
+      </mj-column>
+      <mj-column width="80px" padding="0px" css-class="socialIcons">
+        <mj-image  css-class="socialIcons"href="https://www.instagram.com/todaysbridemag/" src="https://www.todaysbride.ca/wp-content/uploads/2019/01/light-instagram-96.png">
+      </mj-column>
+    </mj-section>
+    <!-- BAR -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" vertical-align="top">
+      <mj-column width="640px">
+        <mj-divider border-width="1px" border-style="solid" border-color="#000" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

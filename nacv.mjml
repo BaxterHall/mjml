@@ -1,0 +1,317 @@
+<mjml version="3.3.3">
+    <mj-head>
+        <mj-title>The NACV Report</mj-title>
+        <mj-attributes>
+            <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif"></mj-all>
+            <mj-text font-size="14px"></mj-text>
+        </mj-attributes>
+        <mj-style inline="inline">
+            .title{
+                font-weight:700;
+                color:#2B3990;
+            }
+            .BBAd{
+            min-width:300px;
+            width:300px;
+            }
+            @media all and (max-width: 480px) {
+            .no-padding-xs,
+            .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+            .email-title-wrapper td {
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+            }
+            .besideBB{
+            width:100%
+            }
+            .BBAd{
+            min-width:300px;
+            width:100%;
+            }
+            }
+            @media all and (min-width: 480px) {
+            .email-title-wrapper td {
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            }
+            }
+        </mj-style>
+
+    </mj-head>
+    <mj-body background-color="#ffffff" color="#55575d" font-family="Arial, sans-serif" width="640px">
+        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+             <mj-column width="100%">
+                <mj-image align="center" src="https://www.todaystrucking.com/wp-content/uploads/2018/01/NACVS_logo_400px-wide-250x84.png"
+                    width="640px" href="http://www.nacvshow.com"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+           <mj-column width="100%">
+                <mj-image src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_LW_LB_T&sz=728x90&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_LB_T/728x90/" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+            <mj-column css-class="besideBB" width="50%">
+                <mj-text css-class="title">
+                    AN ELECTRIC YEAR </mj-text>
+                <mj-text> December 26, 2018 Vol. 15 No. 25 </mj-text>
+                <mj-text> With the end of 2018 very near at hand, this is the moment when folks like me wrap up the
+                    year and
+                    talk about its highlights. I’ll be no different.
+                </mj-text>
+                <mj-text>
+                    You could legitimately call 2018 the year of the BEV, or battery electric vehicle. The buzz
+                    was
+                    constant, but for the most part it was a lot of very serious enthusiasm and a ton of
+                    engineering
+                    effort without a whole lot of wheels on the ground commercially. Many trials, many demo
+                    units, and
+                    much momentum.
+                </mj-text>
+            </mj-column>
+            <mj-column css-class="besideBB" width="50%">
+                <mj-image css-class="BBAd" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_LW_BB3&sz=300x250&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_BB3/300x250" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+         <mj-column width="100%">
+                <mj-text>
+                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
+                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
+                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
+                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
+                    are significant. Customers confirm that these trucks really work, the manufacturer says.
+                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
+                    seemingly oblivious to the cold and snow.
+                </mj-text>
+                <mj-text>
+                    As well, BYD has quite a few fully electric trucks on trials and many buses working now,
+                    and the class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport
+                    Services recently added five of the plug-in electric Fusos to its final-mile fleet. Fuso is
+                    a real player, well proven, from a strong manufacturer. I would be willing to bet that Hunt
+                    adds more of them. These first five eCanters will be used for home deliveries in Santa Fe
+                    Springs, Calif., and the greater Houston area.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+            <mj-column width="50%">
+                <mj-text>
+                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all electric,
+                    coming this year
+                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
+                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option with a DC
+                    charger. Operating costs for the eCanter can be as much as $2000 lower than diesel for each 12,000
+                    miles driven, the carrier says.
+                </mj-text>
+                <mj-text>
+                    You could legitimately call 2018 the year of the BEV, or battery electric vehicle. The buzz
+                    was
+                    constant, but for the most part it was a lot of very serious enthusiasm and a ton of
+                    engineering
+                    effort without a whole lot of wheels on the ground commercially. Many trials, many demo
+                    units, and
+                    much momentum.
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%" css-class="imgBorder">
+                <mj-image src="https://www.todaystrucking.com/wp-content/uploads/2018/12/Freightliner-eM2-18C0514_02-crop-400.jpg" />
+                <mj-text css-class="imgCaption"  font-size="12px">A Freightliner eM2 was delivered to Penske Leasing this month, set for full production in 2021.<hr/>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+           <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+           <mj-column width="100%">
+                <mj-text>
+                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all
+                    electric, coming this year
+                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
+                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option
+                    with a DC charger. Operating costs for the eCanter can be as much as $2000 lower than
+                    diesel for each 12,000 miles driven, the carrier says.
+                </mj-text>
+                <mj-text>
+                    “The eCanter demonstrates that the future of electric trucks is very possible and is no
+                    longer a prototype but a real truck delivering real goods daily,” said Justin Palmer,
+                    president and CEO of Mitsubishi Fuso Truck of America, Inc.”
+                    As well, BYD has quite a few fully electric trucks on trials and many buses working now, and the
+                    class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport Services recently added
+                    five of the plug-in electric Fusos to its final-mile fleet. Fuso is a real player, well proven,
+                    from a strong manufacturer. I would be willing to bet that Hunt adds more of them. These first five
+                    eCanters will be used for home deliveries in Santa Fe Springs, Calif., and the greater Houston
+                    area.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+                <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+            <mj-column width="640px">
+                <mj-image src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_LW_LB_M&sz=728x90&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_LB_M/728x90/"  />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+            <mj-column css-class="besideBB" width="50%">
+                <mj-text>
+                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
+                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
+                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
+                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
+                    are significant. Customers confirm that these trucks really work, the manufacturer says.
+                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
+                    seemingly oblivious to the cold and snow.
+                </mj-text>
+            </mj-column>
+        <mj-column width="50%">
+                <mj-image css-class="BBAd" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_LW_BB2&sz=300x250&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_BB2/300x250" />
+
+            </mj-column>
+        </mj-section>
+             <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+             <mj-column width="100%">
+                <mj-text>
+                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
+                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
+                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
+                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
+                    are significant. Customers confirm that these trucks really work, the manufacturer says.
+                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
+                    seemingly oblivious to the cold and snow.
+                </mj-text>
+                <mj-text>
+                    As well, BYD has quite a few fully electric trucks on trials and many buses working now,
+                    and the class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport
+                    Services recently added five of the plug-in electric Fusos to its final-mile fleet. Fuso is
+                    a real player, well proven, from a strong manufacturer. I would be willing to bet that Hunt
+                    adds more of them. These first five eCanters will be used for home deliveries in Santa Fe
+                    Springs, Calif., and the greater Houston area.
+                </mj-text>
+                </mj-column>
+        </mj-section>
+         <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+            <mj-column width="50%">
+                <mj-text>
+                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all electric,
+                    coming this year
+                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
+                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option with a DC
+                    charger. Operating costs for the eCanter can be as much as $2000 lower than diesel for each 12,000
+                    miles driven, the carrier says.
+                </mj-text>
+                <mj-text>
+                    You could legitimately call 2018 the year of the BEV, or battery electric vehicle. The buzz
+                    was
+                    constant, but for the most part it was a lot of very serious enthusiasm and a ton of
+                    engineering
+                    effort without a whole lot of wheels on the ground commercially. Many trials, many demo
+                    units, and
+                    much momentum.
+                </mj-text>
+            </mj-column>
+              <mj-column width="50%" css-class="imgBorder">
+                <mj-image src="https://www.todaystrucking.com/wp-content/uploads/2018/12/continental-1stDandelionTruckTire_2_crop-400.jpg" />
+               <mj-text css-class="imgCaption"  font-size="12px">A Russian dandelion is a viable alternative to the rubber tree in building tires, says Continental. Who knew?<hr/></mj-text>
+            </mj-column>
+        </mj-section>
+
+         <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+             <mj-column width="100%">
+                <mj-text>
+                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all
+                    electric, coming this year
+                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
+                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option
+                    with a DC charger. Operating costs for the eCanter can be as much as $2000 lower than
+                    diesel for each 12,000 miles driven, the carrier says.
+                </mj-text>
+                <mj-text>
+                    “The eCanter demonstrates that the future of electric trucks is very possible and is no
+                    longer a prototype but a real truck delivering real goods daily,” said Justin Palmer,
+                    president and CEO of Mitsubishi Fuso Truck of America, Inc.”
+                    As well, BYD has quite a few fully electric trucks on trials and many buses working now, and the
+                    class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport Services recently added
+                    five of the plug-in electric Fusos to its final-mile fleet. Fuso is a real player, well proven,
+                    from a strong manufacturer. I would be willing to bet that Hunt adds more of them. These first five
+                    eCanters will be used for home deliveries in Santa Fe Springs, Calif., and the greater Houston
+                    area.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+           <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+            <mj-column width="100%">
+                <mj-text>
+                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
+                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
+                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
+                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
+                    are significant. Customers confirm that these trucks really work, the manufacturer says.
+                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
+                    seemingly oblivious to the cold and snow.
+                </mj-text>
+            </mj-column>
+        </mj-section>    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+            <mj-column width="50%">
+                <mj-text>
+                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all electric,
+                    coming this year
+                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
+                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option with a DC
+                    charger. Operating costs for the eCanter can be as much as $2000 lower than diesel for each 12,000
+                    miles driven, the carrier says.
+                </mj-text>
+                <mj-text>
+                    You could legitimately call 2018 the year of the BEV, or battery electric vehicle. The buzz
+                    was
+                    constant, but for the most part it was a lot of very serious enthusiasm and a ton of
+                    engineering
+                    effort without a whole lot of wheels on the ground commercially. Many trials, many demo
+                    units, and
+                    much momentum.
+                </mj-text>
+            </mj-column>
+             <mj-column width="50%" css-class="imgBorder">
+                <mj-image src="https://www.todaystrucking.com/wp-content/uploads/2018/12/lion-electric-Screen-Shot-400.jpg" />
+                <mj-text css-class="imgCaption"  font-size="12px">AThe eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all electric, coming this year<hr/></mj-text>
+            </mj-column>
+        </mj-section>
+    
+           <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+            <mj-column>
+                <mj-text>
+                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
+                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
+                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
+                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
+                    are significant. Customers confirm that these trucks really work, the manufacturer says.
+                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
+                    seemingly oblivious to the cold and snow.
+                </mj-text>
+                <mj-text>
+                    As well, BYD has quite a few fully electric trucks on trials and many buses working now,
+                    and the class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport
+                    Services recently added five of the plug-in electric Fusos to its final-mile fleet. Fuso is
+                    a real player, well proven, from a strong manufacturer. I would be willing to bet that Hunt
+                    adds more of them. These first five eCanters will be used for home deliveries in Santa Fe
+                    Springs, Calif., and the greater Houston area.
+                </mj-text>
+                <mj-text>
+                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all
+                    electric, coming this year
+                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
+                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option
+                    with a DC charger. Operating costs for the eCanter can be as much as $2000 lower than
+                    diesel for each 12,000 miles driven, the carrier says.
+                </mj-text>
+                <mj-text>
+                    “The eCanter demonstrates that the future of electric trucks is very possible and is no
+                    longer a prototype but a real truck delivering real goods daily,” said Justin Palmer,
+                    president and CEO of Mitsubishi Fuso Truck of America, Inc.”
+                    As well, BYD has quite a few fully electric trucks on trials and many buses working now, and the
+                    class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport Services recently added
+                    five of the plug-in electric Fusos to its final-mile fleet. Fuso is a real player, well proven,
+                    from a strong manufacturer. I would be willing to bet that Hunt adds more of them. These first five
+                    eCanters will be used for home deliveries in Santa Fe Springs, Calif., and the greater Houston
+                    area.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
