@@ -1,0 +1,68 @@
+<mjml>
+    <mj-head>
+        <mj-title>31 cakes that are almost too pretty to eat</mj-title>
+        <mj-attributes>
+        </mj-attributes>
+        <mj-style inline="inline">
+            @media all and (max-width: 480px) {
+            .no-padding-xs,
+            .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+            .email-title-wrapper td {
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+            }
+            }
+
+            }
+            @media all and (min-width: 480px) {
+            .email-title-wrapper td {
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            }
+            }
+            
+        </mj-style>
+  <mj-preview> POSSIBILITÉ DE MARKETING POUR EXPOSANTS
+  <mj-text>Souhaitez-vous améliorer de manière exponentielle les résultats des efforts que vous déployez dans ExpoCam?  Maintenant vous le pouvez, grâce au tournage d’une vidéo directement à votre kiosque à l’heure et au jour qui vous conviennent!</mj-preview>
+    </mj-head>
+  <mj-body background-color="#ffffff" color="#55575d" font-family="Arial, sans-serif">
+  <mj-section>
+  <mj-column width="100%">
+  <mj-image src="https://www.expocam.ca/wp-content/uploads/2019/03/EXPOCAM-4-Screens-v2-1024x768.png" href="#"/>
+  </mj-column>
+  </mj-section>
+    <mj-section>
+  <mj-column width="100%">
+  <mj-text align="center" font-size="20px" font-weight="700">POSSIBILITÉ DE MARKETING POUR EXPOSANTS</mj-text>
+  <mj-text>Souhaitez-vous améliorer de manière exponentielle les résultats des efforts que vous déployez dans ExpoCam?  Maintenant vous le pouvez, grâce au tournage d’une vidéo directement à votre kiosque à l’heure et au jour qui vous conviennent!</mj-text>
+   <mj-text>Notre équipe expérimentée peut enregistrer votre représentant commercial le plus éloquent et le plus persuasif, offrant ainsi aux visiteurs une visite virtuelle guidée de votre kiosque, permettant de dévoiler un nouveau produit ou d’effectuer une démonstration du produit.</mj-text>
+    <mj-text>Dès que l’enregistrement sera terminé, notre équipe d’éditeurs créatifs se mettra au travail pour vous créer une vidéo dynamique de 3 minutes, que vous pourrez utiliser longtemps après avoir fermé votre kiosque.</mj-text>
+     </mj-column>
+  </mj-section>
+<mj-section>
+  <mj-column width="75%">
+   <mj-text align="center" font-size="17px">L’offre comprend également 2 000 $ en promotion GRATUITE</mj-text>
+      <mj-text padding-left="50px">
+            <ul>
+              <li>
+              Placement sur les vidéothèques des fournisseurs de Transport Routier, Today’s Trucking et Truck News [Valeur de 1 500 $]
+              </li>
+              <br/>
+              <li>
+              Inclusion dans divers bulletins électroniques post-exposition de l’industrie [Valeur de 500 $]
+              </li>
+                <br/>
+                <li>
+              Publication sur tous les médias sociaux d’ExpoCam
+              </li>
+            </ul>
+          </mj-text>
+  </mj-column>
+  </mj-section>
+<mj-section>
+  <mj-column width="100%" >
+   <mj-button align="center" background-color="#ff0000" href="#">Cliquez-ici pour en savoir plus sur cette offre alléchante</mj-button>
+  </mj-column>
+  </mj-section>
+  </mj-body>
+</mjml>

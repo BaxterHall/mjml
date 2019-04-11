@@ -1,0 +1,57 @@
+<mjml version="3.3.3">
+  <mj-head>
+    <mj-title>Porte Ouverte du département de Pièces chez Atlas Camions Usagés</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+      <mj-preview>Portes ouvertes
+Nouveau département de pièces
+Nous sommes fier de vous inviter à l’ouverture officielle de notre nouveau département de pièces pour camions & remorques</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+  
+    <mj-section>
+      <mj-column background-color="#eff0f0">
+        <mj-image href="https://www.atlasusedtrucks.com/" src="https://www.transportroutier.ca/wp-content/uploads/2019/01/Atlas-Porte-Ouverte-Janvier_19-1.png" />
+        <mj-text align="center" font-size="30px" font-weight="900" color="#0c72b9">Portes ouvertes</mj-text>
+        <mj-text align="center" font-size="14px" font-weight="900" color="#000">Nouveau département de pièces</mj-text>
+        <mj-text align="center" font-size="14px" font-weight="400" color="#000">Nous sommes fier de vous inviter à l’ouverture officielle de notre nouveau département de pièces
+          pour camions & remorques</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="900" color="#000">On vous attend au 4 À 7
+          31 janvier 2019
+          401 rue St-Paul à Repentigny</mj-text>
+        <mj-text align="center" font-size="14px" font-weight="400" color="#000">Profitez de ce 4 à 7 pour venir visiter nos
+          bureaux et rencontrer notre équipe
+          de pièces et vente.</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="900" color="#000">Buffet &amp; Rafraichissement
+          Prix de présence sur place</mj-text>
+        <mj-text align="center" font-size="14px" font-weight="900" color="#0c72b9">Atlas Camions Usagés</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="400" color="#000">450-585-0123</mj-text>
+        <mj-text align="center" font-size="14px" font-weight="900" color="#000" padding-bottom="20px"><a href="https://www.atlasusedtrucks.com/" style="text-decoration:none;color:#000">www.atlasusedtrucks.com</a><br/></mj-text>
+
+
+      </mj-column>
+      <mj-column background-color="#fff">
+        <mj-image src="https://www.transportroutier.ca/wp-content/uploads/2019/01/logos.png" />
+        <mj-text align="center" font-size="14px" font-weight="400" color="#000">Fondée en 1997, Camions Atlas Used Trucks
+          continu d’être en expansion. Depuis plusieurs
+          années, l’entreprise achète, prépare et vend
+          des camions de toutes marques et modèles.
+          Celle-ci est fière d’y ajouter un département de
+          pièces et de vous annoncer que l’équipe Atlas
+          est officiellement <strong>franchisé VitrXpert division camions lourds.</strong> Avec plus de 140
+          succursales réparties dans toutes les régions
+          du Québec, incluant une flotte d’unité mobile,
+          nous sommes en mesure de changer votre
+          pare-brise à l’endroit désiré, le tout, avec un
+          personnel qualifié.</mj-text>
+        <mj-text align="center" font-size="13px" font-weight="900" color="#0c72b9">Chez Atlas, on écrase la compétition!</mj-text>
+        <mj-text align="center" font-size="13px" font-weight="400" color="#000">401 rue St-Paul,<br />
+          Repentigny, QC, J5Z 2H9</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

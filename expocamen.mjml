@@ -1,0 +1,70 @@
+<mjml>
+    <mj-head>
+        <mj-title>31 cakes that are almost too pretty to eat</mj-title>
+        <mj-attributes>
+        </mj-attributes>
+        <mj-style inline="inline">
+            @media all and (max-width: 480px) {
+            .no-padding-xs,
+            .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+            .email-title-wrapper td {
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+            }
+            }
+
+            }
+            @media all and (min-width: 480px) {
+            .email-title-wrapper td {
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            }
+            }
+            
+        </mj-style>
+  <mj-preview>AN EXCITING EXHIBITOR MARKETING OPPORTUNITY  Would you like to exponentially magnify the results from the effort you’re putting into ExpoCam?  Now you can, with a video shot in your booth at a day and time that’s convenient for you!</mj-preview>
+    </mj-head>
+  <mj-body background-color="#ffffff" color="#55575d" font-family="Arial, sans-serif">
+  <mj-section>
+  <mj-column width="100%">
+   <mj-text align="center" font-size="20px" font-weight="700">AN EXCITING EXHIBITOR MARKETING OPPORTUNITY </mj-text>
+  <mj-image src="https://www.expocam.ca/wp-content/uploads/2019/03/EXPOCAM-4-Screens-v2-1024x768.png" href="https://portfolio.newcom.ca/expocam365-en/"/>
+  </mj-column>
+  </mj-section>
+    <mj-section>
+  <mj-column width="100%">
+  <mj-text>Would you like to exponentially magnify the results from the effort you’re putting into ExpoCam?  Now you can, with a video shot in your booth at a day and time that’s convenient for you!</mj-text>
+   <mj-text>Our experienced crew can tape your most eloquent and persuasive sales representative giving viewers a virtual guided tour of your booth, introducing a new product or giving the viewers a product demonstration.</mj-text>
+    <mj-text>As soon as the show’s over, our team of creative editors will get to work crafting you a dynamic 3-minute video you’ll be able to leverage long after you’ve packed up your booth.</mj-text>
+     </mj-column>
+  </mj-section>
+<mj-section>
+  <mj-column width="75%">
+   <mj-text align="center" font-size="17px">INCLUDES PROMOTION VALUED AT $2,000</mj-text>
+      <mj-text padding-left="50px">
+            <ul>
+              <li>
+              Placement on the ExpoCam365 exhibitor video gallery
+              </li>
+              <br/>
+              <li>
+                Placement on Transport Routier, Today’s Trucking and Truck News video libraries [$1,500 VALUE]
+              </li>
+                <br/>
+                <li>
+                Inclusion in various post-show industry e-newsletters [$500 VALUE]
+              </li><br/>
+                <li>
+                Posting to all ExpoCam social media properties
+              </li>
+            </ul>
+          </mj-text>
+  </mj-column>
+  </mj-section>
+<mj-section>
+  <mj-column width="100%" >
+   <mj-button align="center" background-color="#ff0000" href="https://portfolio.newcom.ca/expocam365-en/">Click Here</mj-button>
+  </mj-column>
+  </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-title>Is posting your insurance job ad on 100’s of sites a good thing?e!</mj-title>
+    <mj-attributes>
+    </mj-attributes>
+    <mj-style inline="inline">
+      @media all and (max-width: 480px) {
+
+        .no-padding-xs,
+        .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+        .email-title-wrapper td {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+      }
+
+      @media all and (min-width: 480px) {
+        .email-title-wrapper td {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+    </mj-style>
+    <mj-preview>Is posting your insurance job ad on 100’s of sites a good thing?
+  </mj-head>
+  <mj-body background-color="#ffffff" color="#55575d" font-family="Arial, sans-serif" width="600px">
+    <!-- BAR -->
+    <mj-section background-color="#fff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="600px">
+        <mj-image src="https://media.canadianunderwriter.ca/uploads/2019/02/header-1.jpg" href="https://www.insuranceworks.ca/">
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding-top="0px" text-align="center" vertical-align="top">
+      <mj-column padding="0px" width="500px">
+        <mj-text color="#1d4ca0" align="center" font-size="14px" font-weight="700">When you need to hire for insurance, there is only one place
+          where it makes sense to advertise</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding-top="0px" text-align="center" vertical-align="top">
+      <mj-column padding="0px" width="600px" padding-bottom="0px">
+        <mj-text color="#000" align="center" font-size="14px">Other job sites make all types of claims, but there is only one InsuranceWorks.ca</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding-top="0px" text-align="center" vertical-align="top">
+      <mj-column padding="0px" width="500px">
+        <mj-text color="#000" align="center" font-size="14px" padding="5px">&#8226 InsuranceWorks.ca focues exclusively on
+          insurance industry jobs. Period.</mj-text>
+        <mj-text color="#000" align="center" font-size="14px" padding="5px">&#8226 We know all the ins and outs of insurance and what skills and designations are needed for each role.</mj-text>
+        <mj-text color="#000" align="center" font-size="14px" padding="5px">&#8226 And we've got <strong>50,000 registered insurance candidates</strong>, with 5 - 10 new resumes each day!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding-top="0px" text-align="center" vertical-align="top">
+      <mj-column padding="0px" width="400px">
+        <mj-image src="https://media.canadianunderwriter.ca/uploads/2019/02/learmorebutton.jpg" width="100px" src="https://www.insuranceworks.ca/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding-top="0px" text-align="center" vertical-align="top">
+      <mj-column padding-top="0px" width="400px">
+        <mj-text color="#1d4ca0" align="center" font-size="14px" font-weight="700">Go to where the REAL insurance talent is!</mj-text>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding-top="0px" text-align="center" vertical-align="top">
+      <mj-column padding-top="0px" width="500px">
+        <mj-text color="#000" align="center" font-size="14px" padding="5px"><em>Hiring with InsuranceWorks is easy!</em></mj-text>
+        <mj-text color="#000" align="center" font-size="14px" padding="10px">&#8226 Manage jobs and candidates in one place</mj-text>
+        <mj-text color="#000" align="center" font-size="14px" padding="5px">&#8226 Promotion of your posting on LinkedIn Job Slots for a day</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding-top="0px" text-align="center" vertical-align="top">
+      <mj-column padding="0px" background-color="#d5ddf0" width="400px">
+        <mj-text align="center" font-size="14px" padding="5px" color="#1d4ca0" font-style="italic">LIMITED TIME OFFER</mj-text>
+        <mj-text color="#1d4ca0" align="center" font-size="14px" font-weight="700" padding-bottom="5px">Go to where the REAL insurance talent is!</mj-text>
+        <mj-text color="#1d4ca0" align="center" font-size="14px" padding="0px" padding-bottom="20px">Use offer code <strong>IWORKS10E</strong>. Expires <strong>March 15, 2019</strong></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding-top="0px" padding-bottom="0px" text-align="center" vertical-align="top">
+      <mj-column padding="0px" width="400px">
+        <mj-image src="https://media.canadianunderwriter.ca/uploads/2019/02/starthiringnow.jpg" width="130px" src="https://www.insuranceworks.ca/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="600px">
+        <mj-image src="https://media.canadianunderwriter.ca/uploads/2019/02/InsuranceWorks–FinalEmail–1.jpg" href="https://www.insuranceworks.ca/">
+      </mj-column>
+    </mj-section>
+  </mj-body>

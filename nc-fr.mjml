@@ -1,0 +1,49 @@
+<mjml>
+    <mj-head>
+        <mj-title>Newcom Creative Services</mj-title>
+        <mj-attributes>
+        </mj-attributes>
+        <mj-style inline="inline">
+            @media all and (max-width: 480px) {
+            .no-padding-xs,
+            .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+            .email-title-wrapper td {
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+            }
+            }
+
+            }
+            @media all and (min-width: 480px) {
+            .email-title-wrapper td {
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            }
+            }
+            
+        </mj-style>
+  <mj-preview>Besoin De Marketing Pour Le Salon? Faites Appel Aux Experts Qui Vous Apportent Expocam &amp; Transport Routier</mj-preview>
+    </mj-head>
+  <mj-body background-color="#ffffff" color="#55575d">
+  <mj-section padding="0px">
+    <mj-column padding="0px">
+               <mj-image src="https://portfolio.newcom.ca/wp-content/uploads/2019/03/creativeservicesnewcomfrench2.png" href="https://portfolio.newcom.ca" padding="0px"/>
+    </mj-column>
+  </mj-section>
+    <mj-section>
+  <mj-column>
+  <mj-text align="center" font-size="20px" padding="0px">Avez-vous besoin de conception de kiosques, de bannières, </mj-text>
+<mj-text align="center" font-size="20px" padding="0px">de brochures commerciales, d’une vidéo promotionnelle </mj-text>
+<mj-text align="center" font-size="20px" padding="0px">ou d’une nouvelle marque à ExpoCAM?</mj-text>
+  <mj-text align="center" font-size="48px" padding="0px" padding-top="20px" color="#f5b218" font-weight="700">DÉCOUVREZ</mj-text>
+    <mj-text align="center" font-size="48px" padding="0px" color="#f5b218" font-weight="700">
+CE QUE <em>NEWCOM</em></mj-text>
+<mj-text align="center" font-size="48px" padding="0px" color="#f5b218" font-weight="700">PEUT FAIRE</mj-text>
+<mj-text align="center" font-size="48px" padding="0px" padding-bottom="20px"color="#f5b218" font-weight="700">POUR VOUS.</mj-text>
+  <mj-image src="https://portfolio.newcom.ca/wp-content/uploads/2019/03/newcomlogo.png" href="#" width="200px"/>
+       <mj-text align="center" font-size="14px" letter-spacing="5px" ><a href="https://portfolio.newcom.ca" style="text-decoration:none;color:#000">NEWCOM.CA/CREATIVE</a> | <a href="mailto:creative@newcom.ca" style="text-decoration:none;color:#000">CREATIVE@NEWCOM.CA</a></mj-text>
+     </mj-column>
+  </mj-section>
+
+  </mj-body>
+</mjml>
