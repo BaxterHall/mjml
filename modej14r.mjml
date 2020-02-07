@@ -1,0 +1,158 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Complete your show guide listing today.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+
+      @media only screen and (max-width:480px) {
+        .noMob {
+          display: none !important;
+          mso-hide: all !important;
+        }
+
+
+        .yesMob {
+          display: inline-block !important;
+          text-align: center !important;
+          align: center !important;
+
+
+        }
+
+        .mobPad {
+          padding-top: 10px !important;
+          ;
+          text-align: center !important;
+          align: center !important;
+        }
+
+        .centerMe {
+          text-align: center !important;
+          align: center !important;
+        }
+
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+    </mj-style>
+    <mj-preview>Exhibitors from across Canada and around the globe. . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#e2e5e7" color="#fff" font-family="Arial, sans-serif" width="640px">
+    <mj-section css-class="noMob" padding="0px" background-color="#fff">
+      <mj-column css-class="noMob" background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2019/12/modebannerfull2.png" href="http://www.mode-accessories.com" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column css-class="yesMob" padding="0px" width="100%">
+        <mj-image padding="0px" css-class="yesMob" align="center" src="https://www.mode-accessories.com/wp-content/uploads/2019/12/modemobilebanner.png" href="http://www.mode-accessories.com" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="0px">
+      <mj-column width="100%">
+        <mj-text font-size="35px" font-weight="400" color="#cd1b69" align="center">Need another reason
+          to get excited for Mode?</mj-text>
+        <mj-text color="#000" font-size="35px" font-weight="400" color="#000" align="center">Here’s three!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#d6ebf2" padding="0px">
+      <mj-column css-class="noMob" background-color="#d6ebf2" padding="0px" width="25%">
+        <mj-image css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2020/01/freeparking2.jpg" href="https://www.mode-accessories.com/show-features/"width="177px" padding="0px" />
+      </mj-column>
+      <mj-column background-color="#d6ebf2" padding="0px" width="75%">
+        <mj-text color="#5181ae" font-size="20px" padding-top="20px" padding-bottom="0px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#5181ae;font-weight:600">FREE PARKING*</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#000">Collect your free parking pass *with proof of
+            purchase of a minimum of $300 wholesale at
+            the show on the same day as your parking tag.</a></mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f8d8e3" direction="ltr" padding="0px">>
+
+      <mj-column background-color="#f8d8e3" padding="0px" width="70%">
+        <mj-text color="#cb1263" font-size="20px" padding-top="20px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#cb1263;font-weight:600">SIP + SHOP</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#000">Enjoy a cocktail while shopping the latest trends
+            on Monday, January 27 from 4:00 pm - 6:00 pm.</a></mj-text>
+      </mj-column>
+      <mj-column css-class="noMob" background-color="#f8d8e3" padding="0px" width="30%">
+        <mj-image css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2020/01/woman2.jpg" href="https://www.mode-accessories.com/show-features/" width="177px" padding="0px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#d9dfed" padding="0px">
+      <mj-column css-class="noMob" background-color="#d9dfed" padding="0px" width="30%">
+        <mj-image css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2020/01/box2.jpg" href="https://www.mode-accessories.com/buyer-prizes/" width="177px" padding="0px" />
+      </mj-column>
+      <mj-column background-color="#d9dfed" padding="0px" width="70%">
+        <mj-text color="#1a477f" font-size="20px" align="left"><a  href="https://www.mode-accessories.com/buyer-prizes/"style="text-decoration:none;color:#1a477f;font-weight:600">A CHANCE TO WIN PRIZES</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left"><a  href="https://www.mode-accessories.com/buyer-prizes/"style="text-decoration:none;color:#000">All buyers will receive ballots with their badge.
+            Simply drop off your ballot in one of the ballot
+            boxes located throughout the show for your
+            chance to win one of our exhibitor products.</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="0px">
+      <mj-column width="100%">
+        <mj-text font-size="30px" font-weight="400" color="#cd1b69" align="center">EXCITED YET?</mj-text>
+        <mj-text color="#000" font-size="20px" font-weight="400" color="#000" align="center">Visit our website to plan your visit.</mj-text>
+        <mj-text color="#000" font-size="25px" font-weight="400" color="#000" align="center"><a href="https://www.mode-accessories.com/" style="text-decoration:none;color:#000">mode-accessories.com</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column background-color="#839dc2" padding="0px" width="100%">
+        <mj-text color="#fff" font-size="30px" align="center"><a href="https://www.instagram.com/explore/tags/modeshowcanada/" style="text-decoration:none;color:#fff">#modeshowcanada</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px" padding-bottom="30px">
+      <mj-column padding="20px" width="100%">
+        <mj-text align="center">
+
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://www.facebook.com/modeshowcanada" style="text-decoration:none;">
+            <img src="https://www.mode-accessories.com/wp-content/uploads/2019/11/faceface.png" />
+          </a>
+
+          &nbsp; &nbsp; &nbsp;
+          <a href="https://www.instagram.com/modeshowcanada/" style="text-decoration:none;">
+            <img src="https://www.mode-accessories.com/wp-content/uploads/2019/11/insta.png" />
+          </a>
+          &nbsp; &nbsp; &nbsp;
+          <a href="https://twitter.com/modeshowcanada" style="text-decoration:none;">
+            <img src="https://www.mode-accessories.com/wp-content/uploads/2019/11/tweetweet.png" />
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

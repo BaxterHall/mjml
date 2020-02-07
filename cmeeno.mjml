@@ -1,0 +1,45 @@
+<mjml>
+  <mj-head>
+    <mj-title>CMEE Attende</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>SORRY WE MISSED YOU Your feedback
+is important to us.
+Please follow this link to complete our quick survey. </mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/att-header.png" href="https://www.cmeexpo.ca" />
+      </mj-column>
+    </mj-section>
+       <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/sorry.png" />
+      </mj-column>
+    </mj-section>
+      <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/att-clickhere.png" href="https://www.surveymonkey.com/r/7MNPW7B" />
+      </mj-column>
+    </mj-section>
+          <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/att-savethedate.png" href="https://www.cmeexpo.ca/"/>
+      </mj-column>
+    </mj-section>
+         <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/att-fordetails.png" href="https://www.cmeexpo.ca" />
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/att-footer.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

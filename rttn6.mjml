@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-title>RTTN - eblast</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mjml>
+      <mj-head>
+        <mj-title>RTTN - eblast</mj-title>
+        <mj-attributes>
+          <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+        </mj-attributes>
+        <mj-style inline="inline">
+        </mj-style>
+        <mj-preview>SECURE YOUR EXHIBIT SPACE!
+          Meet more than 900 potential candidates in one day!</mj-preview>
+      </mj-head>
+      <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+        <mj-section padding="0px">
+          <mj-column padding="0px" width="100%">
+            <mj-image padding="0px" width="640px" src="https://www.rttnexpo.com/wp-content/uploads/2019/07/RTTN-Exhibit-Space-Eblast.png" href="rttnexpo.com/why-attend" />
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0px">
+          <mj-column background-color="#fff" padding="0px" width="100%">
+            <mj-text align="center" font-size="40px" color="red" font-weight="700" padding-bottom="0px">LOOKING FOR A JOB IN</mj-text>
+            <mj-text align="center" color="#000" font-weight="700" font-size="40px" padding-bottom="0px">Trucking or Logistics?</mj-text>
+            <mj-text align="center" color="#000" font-size="20px">900+ job opportunities for Professional drivers,
+              Mechanics, Warehouse staff, Office staff and more... </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-column padding="0px" width="100%">
+          <mj-button background-color="#000" font-size="20px" href="http://conx.is/RTTN19Promo2">CLICK HERE TO REGISTER</mj-button>
+          <mj-text align="center" color="red" font-weight="700" font-size="25px" padding-bottom="0px">GET DIRECT INTERVIEWS AND GET HIRED</mj-text>
+        </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff" padding="0px">
+          <mj-column padding="0px" width="100%">
+            <mj-image src="https://www.rttnexpo.com/wp-content/uploads/2019/07/bar.png" />
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff" padding="0px">
+          <mj-column padding="0px" width="100%">
+            <mj-text align="center" font-size="30px" font-weight="700">FREE ENTRY <span style="color:red;">&middot;</span> FREE PARKING</mj-text>
+            <mj-text align="center" font-size="30px"><a href="https://www.rttnexpo.com" style="text-decoration:none;color:red;font-weight:700">www.rttnexpo.com</a></mj-text>
+            <mj-text align="center" font-size="25px" font-weight="400">SATURDAY, SEPTEMBER 14, 2019 &middot; 11 AM - 5PM</mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff" padding="0px">
+          <mj-column padding="0px" width="100%">
+            <mj-image padding="0px" src="https://www.rttnexpo.com/wp-content/uploads/2019/07/foot.png" />
+          </mj-column>
+        </mj-section>
+      </mj-body>
+    </mjml>
+    <mj-preview>SECURE YOUR EXHIBIT SPACE!
+      Meet more than 900 potential candidates in one day!</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.rttnexpo.com/wp-content/uploads/2019/08/header.png" href="http://rttnexpo.com/why-attend" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-text align="center" font-size="20px" color="red" font-weight="700" padding-bottom="0px">SATURDAY, SEPTEMBER 14, 2019 • 11 AM – 5 PM</mj-text>
+        <mj-text align="center" color="#000" font-weight="400" font-size="15px" padding-bottom="0px">International Centre | Conference Centre, 6900 Airport Rd, Mississauga, ON
+          <hr />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-text align="center" font-size="40px" color="red" font-weight="700">LOOKING FOR A JOB IN</mj-text>
+        <mj-text align="center" color="#000" font-weight="700" font-size="40px">Trucking or Logistics?</mj-text>
+        <mj-text align="center" font-size="40px" color="red" font-weight="700">900+ job opportunities</mj-text>
+        <mj-text align="center" color="#000" font-weight="700" font-size="25px">for Professional drivers, Mechanics,<br />
+          Warehouse staff, Office staff and more... </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0px" width="100%">
+        <mj-button background-color="#000" font-size="20px" href="http://conx.is/RTTN19Promo2">REGISTER HERE FOR FREE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image src="https://www.rttnexpo.com/wp-content/uploads/2019/08/sponsors.png" />
+         <mj-text align="center" font-size="30px" color="red" font-weight="700">and more…</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text align="center" font-size="30px" font-weight="700">FREE ENTRY <span style="color:red;">&middot;</span> FREE PARKING</mj-text>
+        <mj-text align="center" font-size="30px"><a href="https://www.rttnexpo.com" style="text-decoration:none;color:red;font-weight:700">www.rttnexpo.com</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400">SATURDAY, SEPTEMBER 14, 2019 &middot; 11 AM - 5PM</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.rttnexpo.com/wp-content/uploads/2019/08/footer.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,32 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Calibri, Arial, sans-serif" font-size="16px"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>Saint John has the only convention facilities on the world-famous Bay of Fundy.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif">
+    <mj-section css-class="full" padding="0px">
+      <mj-column>
+        <mj-text>Happy Monday,</mj-text>
+        <mj-text>Hope you had a wonderful summer! We are getting into the busy fall season and I’m happy to announce <span style="color:#6e96b9">Our 2020 Media Kits are now available! Reply to this email to request your copy!</span></mj-text>
+        <mj-text>We are currently working on the <span style="font-weight:700">November issues of Oral Health + Oral Hygiene magazine.</span></mj-text>
+        <mj-text>Oral Health journal has been published for over 100 years and reaches EVERY dentist, dental lab and third & fourth year dental students in Canada with an AAM verified circulation of approx. 22,500 names. </mj-text>
+        <mj-text font-weight="700">The November "Prosthodontics” issue of Oral Health is set to close for space on October 4th with a material deadline of October 11th. </mj-text>
+        <mj-text>Oral Hygiene magazine reaches EVERY hygienist across Canada with an AAM verified circulation of approx. 19,500 names. </mj-text>
+        <mj-text font-weight="700">The November issue of Oral Hygiene is set to close for space on October 14th with a material deadline of October 21st. </mj-text>
+        <mj-text><span style="font-weight:700">*New in 2020* </span>We are pleased to bring out a <span style="font-weight:700">Native Article Package</span>that is booked exclusively for the month. Included with your media buy is an article posting on the <a href="https://www.oralhealthgroup.com" style="color:#6e96b9">www.oralhealthgroup.com</a> website, inclusion as a news item in our weekly enewsletter for the month and an email blast to our full email list of dentists and hygienists. Bonus: A Social Media Boost is included.</mj-text>
+        <mj-text>Please do not hesitate to contact me before the October closing dates with questions or a request for a quote.</mj-text>
+        <mj-text font-weight="700" padding-bottom="0px" color="#6e96b9">Holly Power</mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px">Account Manager, Oral Health Group - a Division of Newcom Media Inc.</mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px">Cell: 647-970-5643 </mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px"><a href="mailto:holly@newcom.ca" style="color:#6e96b9">holly@newcom.ca </mj-text>
+         <mj-text padding-top="0px" padding-bottom="0px"><a href="mttps://www.oralhealthgroup.com" style="color:#6e96b9">www.oralhealthgroup.com</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

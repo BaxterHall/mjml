@@ -1,0 +1,60 @@
+<mjml>
+  <mj-head>
+    <mj-title>TB - Liberty Grand E-blast - Jan 13/Jan 16/ Jan 23</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+
+    </mj-style>
+    <mj-preview>The Ivoclar Vivadent FormSelector is the simplest chairside tool
+      on the market for selecting the right tooth size and shape
+      for the denture patient</mj-preview>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/01/header.jpg" href="https://www.morethanadenture.ca/form-selector" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="65%">
+        <mj-text>The Ivoclar Vivadent <em>FormSelector</em> is the simplest chairside tool
+          on the market for selecting the <span style="color:#1cadda;font-weight:700">right tooth size and shape
+            for the denture patient.</span></mj-text>
+        <mj-text padding-bottom="0px"><span style="color:#1cadda;font-weight:700">Experience the benefits of the <em>FormSelector</em> today!</span></mj-text>
+        <mj-text>
+          <ul ul style="padding: 0; Margin: 0 0 0 20px;">
+            <li style="Margin: 2px 0 2px 0;">Easy and efficient tool for tooth mould selection</li>
+            <li style="Margin: 2px 0 2px 0;">Takes the guesswork out of identifying face shapes</li>
+            <li style="Margin: 2x 0 2px 0;">Provides predictable esthetic results for you and your
+              patient</li>
+            <li style="Margin: 2px 0 2px 0;">Improves communication with your dental laboratory</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0px" width="35%">
+        <mj-image padding="0px" width="236px" src="https://media.oralhealthgroup.com/uploads/2020/01/clickherebox.jpg" href="https://www.morethanadenture.ca/form-selector" />
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-text align="center" font-size="19px" color="#1cadda" font-weight="700">See how simple this tool can be for your practice!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="50%">
+      <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/01/specialoffer.jpg" href="https://www.morethanadenture.ca/form-selector" />
+      </mj-column>
+         <mj-column padding="0px" width="50%">
+<mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/01/videostill.jpg" href="https://www.morethanadenture.ca/form-selector" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/01/footer.jpg" href="https://www.morethanadenture.ca/form-selector" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

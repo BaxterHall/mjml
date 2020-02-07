@@ -1,0 +1,137 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Complete your show guide listing today.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+     
+
+      @media only screen and (max-width:480px) {
+        .noMob {
+          display: none !important;
+          mso-hide: all !important;
+        }
+
+
+        .yesMob {
+          display: inline-block !important;
+          text-align: center !important;
+          align: center !important;
+
+
+        }
+
+        .mobPad {
+          padding-top: 10px !important;
+          ;
+          text-align: center !important;
+          align: center !important;
+        }
+
+        .centerMe {
+          text-align: center !important;
+          align: center !important;
+        }
+
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+    </mj-style>
+    <mj-preview> Your feedback is important to us. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#fff" font-family="Arial, sans-serif" width="640px">
+    <mj-section css-class="noMob" padding="0px" background-color="#fff">
+      <mj-column css-class="noMob" background-color="#fff" padding-top="20px" width="100%">
+        <mj-image padding="0px" css-class="noMob" src="https://media.canadianunderwriter.ca/uploads/2020/01/April-Risk-issue-3-1.jpg" width="640px" href="https://www.canadianunderwriter.ca" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column css-class="yesMob" padding="0px" width="100%">
+        <mj-image padding="0px" css-class="yesMob" align="center" src="https://media.canadianunderwriter.ca/uploads/2020/01/header.jpg" href="https://www.canadianunderwriter.ca/" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-divider width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="0px">
+      <mj-column width="50%">
+        <mj-text font-size="17px" font-weight="400" color="#000" padding-bottom="0px" align="left">Reach engaged risk
+          professionals in a premium
+          editorial environment</mj-text>
+        <mj-text font-size="14px" font-weight="400" color="#000" padding-bottom="0px" align="left">As insurance prices increase and coverages evaporate, brokers
+          are having trouble fnding insurance through traditional means.
+          Alternative forms of risk transfer are grabbing the attention of risk
+          professionals looking for emerging risk solutions. In this issue,
+          Canadian Underwriter will map out new ways to transfer risk and
+          present targeted opportunities to showcase your solution.</mj-text>
+        <mj-text font-size="14px" font-weight="700" color="#000" padding-bottom="0px" align="left">PACKAGE HIGHLIGHTS:</mj-text>
+        <mj-text font-size="14px" font-weight="400" color="#000" padding-top="2px" padding-bottom="0px" align="left">WHAT'S NEW IN</mj-text>
+        <mj-table>
+          <tr style="padding:0px">
+            <td style="padding: 0 5px 0 0;" width="50%"><span style="color:red">&#x27A4;</span> Captives</td>
+            <td style="padding: 0 5px 0 0;"  width="50%"><span style="color:red">&#x27A4;</span> Insurance Pools </td>
+            
+          </tr>
+          <tr>
+       <td style="padding: 0 5px 0px 0;"  width="50%"><span style="color:red">&#x27A4;</span> Parametrics</td>
+             <td style="padding: 20px 15px 0 0;"  width="50%"><span style="color:red">&#x27A4;</span> Insurance-linked Securities (ILS)</td>
+          </tr>
+        </mj-table>
+       <mj-text font-size="14px" font-weight="700" color="#000"  align="left">BREAKTHROUGH OPPORTUNITIES:</mj-text>
+        <mj-text font-size="12px" font-weight="400" color="#000"  align="left"><span style="color:red">&#x27A4;</span> DOMINANT PACKAGE (Print) </mj-text>
+                <mj-text font-size="12px" font-weight="400" color="#000" align="left"> <span style="color:red">&#x27A4;</span>ALTERNATIVE RISK (Online) </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+            <mj-image  width="244px" src="https://media.canadianunderwriter.ca/uploads/2020/01/cover.jpg"/>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column  padding="0px" width="100%">
+        <mj-image padding="0px"  align="center" src="https://media.canadianunderwriter.ca/uploads/2020/01/keydates.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column  padding="0px" width="40%">
+       <mj-text font-size="18px" font-weight="700" color="red"  align="left">CONTACT YOUR
+SALES CONSULTANT
+TO BOOK YOUR
+SPACE TODAY!</mj-text>
+      </mj-column>
+       <mj-column  padding="0px" width="30%">
+        <mj-text font-size="14px" font-weight="700" color="#000" padding-bottom="0px" align="left">Sandra Parente</mj-text>
+        <mj-text font-size="12px" font-weight="400" color="#000" padding-top="2px" padding-bottom="0px" align="left"><a href="mailto:sandra@newcom.ca" style="text-decoration:none;color:#000">sandra@newcom.ca</mj-text>
+        <mj-text font-size="11px" font-weight="400" color="#000" padding-top="2px" padding-bottom="0px"  align="left">MANAGING DIRECTOR </mj-text>
+        <mj-text font-size="11px" font-weight="700" color="#000" padding-top="2px" padding-bottom="0px"  align="left">(416) 510-5114</mj-text>
+      </mj-column>
+       <mj-column  padding="0px" width="30%">
+<mj-text font-size="14px" font-weight="700" color="#000" padding-bottom="0px" align="left">Pam Chodda Young </mj-text>
+            <mj-text font-size="12px" font-weight="400" color="#000" padding-top="2px" padding-bottom="0px" align="left"><a href="mailto:pam@newcom.ca" style="text-decoration:none;color:#000">pam@newcom.ca</mj-text>
+        <mj-text font-size="11px" font-weight="400" color="#000" padding-top="2px" padding-bottom="0px"  align="left">ADVERTISING & MARKETING CONSULTANT </mj-text>
+        <mj-text font-size="12px" font-weight="700" color="#000" padding-top="2px" padding-bottom="0px"  align="left">(416) 510-5122</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column  padding="0px" width="50%">
+        <mj-image padding="0px"  align="center" src="https://media.canadianunderwriter.ca/uploads/2020/01/cufooter2.jpg" href="https://www.canadianunderwriter.ca/" />
+      </mj-column>
+         <mj-column  padding="0px" width="50%">
+        <mj-image padding="0px" align="center" src="https://media.canadianunderwriter.ca/uploads/2020/01/claimsfopoter.jpg" href="https://www.canadianunderwriter.ca/claimscanada/" />
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>

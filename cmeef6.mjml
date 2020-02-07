@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-title>CMEE 2020 - eblast</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>Nominate your industry peers for the 2020 Hall of Fame.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#D3D3D3" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2020/02/cmeeheader.png" href="https://www.cmeexpo.ca/halloffame/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="50px" color="#7d7d7d" font-weight="700"><a href="https://www.cmeexpo.ca/hall-of-fame-event/" style="text-decoration:none;color:#7d7d7d">GET YOUR
+            NOMINATION IN</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" padding-top="10px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2020/02/chair.png" width="640px" href="https://www.cmeexpo.ca/halloffame/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%" padding-top="20px">
+        <mj-text align="center" font-size="40px" color="#d2232a" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/" style="text-decoration:none;color:#d2232a">CALL FOR NOMINATIONS
+            IS NOW OPEN</a></mj-text>
+        <mj-text align="center" font-size="30px" font-weight="700"><a href="https://www.cmeexpo.ca/hall-of-fame-event/" style="text-decoration:none;color:#000">Nominations close May 4, 2020</a></mj-text>
+
+        <mj-text align="center" padding-top="30px" font-size="25px" font-weight="400">Canadian Meetings +<br />
+          Events Industry Awards</mj-text>
+        <mj-text align="center" padding-top="30px" color="#d2232a" font-size="30px" font-weight="700">CATEGORIES</mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/#industry-planner" style="text-decoration:none;color:#000">Planner</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/#the-big-idea" style="text-decoration:none;color:#000">The Big Idea</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/#industry-volunteer" style="text-decoration:none;color:#000">Volunteer</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/#industry-innovator" style="text-decoration:none;color:#000">Innovator</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/#industry-mentor" style="text-decoration:none;color:#000">Mentor</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/#industry-builder" style="text-decoration:none;color:#000">Builder</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/#rising-star" style="text-decoration:none;color:#000">Rising Star</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400"><a href="https://www.cmeexpo.ca/hall-of-fame-event/#industry-veteran" style="text-decoration:none;color:#000">Veteran</a></mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-image width="198px" src="https://www.cmeexpo.ca/wp-content/uploads/2020/02/cmeelogo.png" />
+        <mj-text align="center" padding-top="30px" font-size="35px" font-weight="700"><a href="https://www.cmeexpo.ca/halloffame/" style="text-decoration:none;color:#d2232a">cmeexpo.ca/HallofFame</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/fullblackbar.png" href="https://www.cmeexpo.ca" />
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px" padding-bottom="30px">
+      <mj-column background-color="#fff" padding="20px" width="100%">
+        <mj-text align="center"> &nbsp; &nbsp; &nbsp;
+          <a href="https://www.instagram.com/cmeexpo/" style="text-decoration:none;">
+            <img src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/instagram.png" />
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://twitter.com/CMEexpo" style="text-decoration:none;">
+            <img src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/twitter.png" />
+          </a> &nbsp; &nbsp; &nbsp;
+          <a href="https://www.facebook.com/CMEexpo/" style="text-decoration:none;">
+            <img src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/facebook.png" />
+          </a>
+
+          &nbsp; &nbsp; &nbsp;
+          <a href="https://www.linkedin.com/company/cmeexpo/" style="text-decoration:none;">
+            <img src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/linkedin.png" />
+          </a>
+          &nbsp; &nbsp; &nbsp;
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

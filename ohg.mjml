@@ -1,0 +1,231 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG PRoduct Spotlight</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>Elevate your practice and skills with our advertisers’ innovative products,
+      services and technologies, as seen in the latest issues from Oral Health Group.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://media.oralhealthgroup.com/uploads/2019/08/spotlight_header.jpg" href="http" />
+        <mj-text color="#597399" align="center" font-size="16px">Elevate your practice and skills with our advertisers’ innovative products,
+          services and technologies, as seen in the latest issues from Oral Health Group.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-divider border-width="2px" border-style="solid" border-color="#597399" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text css-class="text" color="#597399" font-weight="700" font-size="16px">
+          <a href="https://www.philips.ca/c-m-pe/dental-professionals/about-us/contact-northamerica" style="text-decoration:none;font-weight:700;color:#597399">Philips - DiamondClean Smart</a>
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image href="https://www.philips.ca/c-m-pe/dental-professionals/about-us/contact-northamerica" src="https://media.oralhealthgroup.com/uploads/2019/08/Philips_rev.jpg" width="200px" />
+      </mj-column>
+      <mj-column background-color="#fff" width="50%">
+        <mj-text css-class="text" color="#616060">
+          The DiamondClean Smart is our best toothbrush, for complete care. Feel confident with 100% coverage: Personalized coaching, Smart brush head recognition, Smart brush head sensors, 5 modes, 3 intensities.<br />
+          <b>Call Now 1-800-278-8282</b></mj-text>
+        <mj-button css-class="text" width="200px" href="https://www.philips.ca/c-m-pe/dental-professionals/about-us/contact-northamerica" font-size="13px" align="left" background-color="#fff" color="#597399" border="2px solid #537399" color="#597399">LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-divider border-width="2px" border-style="solid" border-color="#597399" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text css-class="text" color="#597399" font-weight="700" font-size="16px">
+          <a href="https://www.voco.dental/us/products/direct-restoration/self-etch-adhesive/futurabond-u.aspx" style="text-decoration:none;font-weight:700;color:#597399">
+            VOCO - Futurabond U </a>
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image href="https://www.voco.dental/us/products/direct-restoration/self-etch-adhesive/futurabond-u.aspx" src="https://media.oralhealthgroup.com/uploads/2019/08/Voco_rev.jpg" width="200px" />
+      </mj-column>
+      <mj-column background-color="#fff" width="50%">
+        <mj-text css-class="text" color="#616060">
+          VOCO’s Futurabond U is the world’s only truly universal dental adhesive in a SingleDose delivery system. It is indicated for all direct or indirect materials in self, selective or total-etch modes and for all light, dual and self-cure resin materials.</mj-text>
+        <mj-button css-class="text" width="200px" href="https://www.voco.dental/us/products/direct-restoration/self-etch-adhesive/futurabond-u.aspx" font-size="13px" align="left" background-color="#fff" color="#597399" border="2px solid #537399" color="#597399">LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-divider border-width="2px" border-style="solid" border-color="#597399" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text css-class="text" color="#597399" font-weight="700" font-size="16px">
+          <a href="http://www.gcamerica.com/products/operatory/G-aenial-Universal-Injectable/index.php?utm_source=OralHealth&utm_medium=eNewsletterAd&utm_campaign=GUI" style="text-decoration:none;font-weight:700;color:#597399">
+            GC - G-aenial™ Universal Injectable </a>
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image href="http://www.gcamerica.com/products/operatory/G-aenial-Universal-Injectable/index.php?utm_source=OralHealth&utm_medium=eNewsletterAd&utm_campaign=GUI" src="https://media.oralhealthgroup.com/uploads/2019/08/GC_rev.jpg" width="200px" />
+      </mj-column>
+      <mj-column background-color="#fff" width="50%">
+        <mj-text css-class="text" color="#616060">
+          G-aenial™ Universal Injectable is an injectable high-strength ultra-fine particle composite with ideal viscosity, handling and adaptation characteristics. It provides superb adaptation to the cavity, and has high flexural strength. G-aenial™ Universal Injectable provides an easy solution for all Class I-V cavities.</mj-text>
+        <mj-button css-class="text" width="200px" href="http://www.gcamerica.com/products/operatory/G-aenial-Universal-Injectable/index.php?utm_source=OralHealth&utm_medium=eNewsletterAd&utm_campaign=GUI" font-size="13px" align="left" background-color="#fff" color="#597399" border="2px solid #537399" color="#597399">LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-divider border-width="2px" border-style="solid" border-color="#597399" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text css-class="text" color="#597399" font-weight="700" font-size="16px">
+          <a href="https://www.premierdentalco.com/rotary-performance/?utm_source=Oral%20Health&utm_medium=Spotlight&utm_campaign=0719079&utm_term=Two%20Striper&utm_content=0719079" style="text-decoration:none;font-weight:700;color:#597399">
+            Premier - Two Striper® Diamonds </a>
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image href="https://www.premierdentalco.com/rotary-performance/?utm_source=Oral%20Health&utm_medium=Spotlight&utm_campaign=0719079&utm_term=Two%20Striper&utm_content=0719079" src="https://media.oralhealthgroup.com/uploads/2019/08/Premier_rev.jpg" width="200px" />
+      </mj-column>
+      <mj-column background-color="#fff" width="50%">
+        <mj-text css-class="text" color="#616060">
+          Two Striper® Diamonds lasts longer and delivers faster, cooler cutting. Special Offer: 3+1, 10+5 or 30+20 on 5-packs. Valid 7/1/19 – 9/30/19. Available through your authorized dealer.<a href="https://www.premierdentalco.com/rotary-performance/?utm_source=Oral%20Health&utm_medium=Spotlight&utm_campaign=0719079&utm_term=Two%20Striper&utm_content=0719079" style="text-decoration:none; color:#616060">Get Free Sample!</a></mj-text>
+        <mj-button css-class="text" width="200px" href="https://www.premierdentalco.com/rotary-performance/?utm_source=Oral%20Health&utm_medium=Spotlight&utm_campaign=0719079&utm_term=Two%20Striper&utm_content=0719079" font-size="13px" align="left" background-color="#fff" color="#597399" border="2px solid #537399" color="#597399">LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-divider border-width="2px" border-style="solid" border-color="#597399" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text css-class="text" color="#597399" font-weight="700" font-size="16px">
+          <a href="http://www.septodont.ca/products/r-t-r-syringe" style="text-decoration:none;font-weight:700;color:#597399">
+            Septodont - R.T.R. Syringe </a>
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image href="http://www.septodont.ca/products/r-t-r-syringe" src="https://media.oralhealthgroup.com/uploads/2019/08/Septodont_rev.jpg" width="200px" />
+      </mj-column>
+      <mj-column background-color="#fff" width="50%">
+        <mj-text css-class="text" color="#616060">
+          Synthetic bone grafting material made of beta-tricalcium phosphate granules that help promote new bone formation. Osteoconductive micro and macro porous structure fosters dense new bone growth. Helps renew bone integrity within 3-6 months.</mj-text>
+        <mj-button css-class="text" width="200px" href="http://www.septodont.ca/products/r-t-r-syringe" font-size="13px" align="left" background-color="#fff" color="#597399" border="2px solid #537399" color="#597399">LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-divider border-width="2px" border-style="solid" border-color="#597399" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text css-class="text" color="#597399" font-weight="700" font-size="16px">
+          <a href="http://www.carestreamdental.com/cs3600" style="text-decoration:none;font-weight:700;color:#597399">
+            Carestream - CS 3600 Intraoral Scanner </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image href="http://www.carestreamdental.com/cs3600" src="https://media.oralhealthgroup.com/uploads/2019/08/Carestream.jpg" width="200px" />
+      </mj-column>
+      <mj-column background-color="#fff" width="50%">
+        <mj-text css-class="text" color="#616060">
+          Carestream Dental’s CS 3600 intraoral scanner provides your practice with best in class accuracy, unlimited workflow capability and fast scanning. For more information, call 855.762.2291 or visit <a href="http://www.carestreamdental.com/" style="text-decoration:none; color:#616060">carestreamdental.com</a></mj-text>
+        <mj-button css-class="text" width="200px" href="http://www.carestreamdental.com/cs3600" font-size="13px" align="left" background-color="#fff" color="#597399" border="2px solid #537399" color="#597399">LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-divider border-width="2px" border-style="solid" border-color="#597399" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text css-class="text" color="#597399" font-weight="700" font-size="16px">
+          <a href="https://www.dcinstitute.ca/site/blog/2018/10/30/patient-experience" style="text-decoration:none;font-weight:700;color:#597399">
+            DC-Institute - Courses </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image href="https://www.dcinstitute.ca/site/blog/2018/10/30/patient-experience" src="https://media.oralhealthgroup.com/uploads/2019/08/dentalcorp_rev.jpg" width="200px" />
+      </mj-column>
+      <mj-column background-color="#fff" width="50%">
+        <mj-text css-class="text" color="#616060">
+          Join Dr. Bruce Freeman for a live lecture in your city! Use code OH10 for 10% off registration. September 20 – Edmonton; September 22 – Prince George; October 5 – Saskatoon</mj-text>
+        <mj-button css-class="text" width="200px" href="https://www.dcinstitute.ca/site/blog/2018/10/30/patient-experience" font-size="13px" align="left" background-color="#fff" color="#597399" border="2px solid #537399" color="#597399">LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-divider border-width="2px" border-style="solid" border-color="#597399" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text css-class="text" color="#597399" font-weight="700" font-size="16px">
+          <a href="https://www.scican.com/products/cleaners-disinfectants/optim-33-tb/?utm_source=oralhealth&utm_medium=product_spotlight&utm_campaign=optim33tb" style="text-decoration:none;font-weight:700;color:#597399">
+            SciCan - OPTIM® 33TB </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image href="https://www.scican.com/products/cleaners-disinfectants/optim-33-tb/?utm_source=oralhealth&utm_medium=product_spotlight&utm_campaign=optim33tb" src="https://media.oralhealthgroup.com/uploads/2019/08/Scican_rev.jpg" width="200px" />
+      </mj-column>
+      <mj-column background-color="#fff" width="50%">
+        <mj-text css-class="text" color="#616060">
+          With a 1-minute broad-spectrum contact time, OPTIM® 33TB is one of the fastest and most effective cleaner & intermediate level disinfectants.</mj-text>
+        <mj-button css-class="text" width="200px" href="https://www.scican.com/products/cleaners-disinfectants/optim-33-tb/?utm_source=oralhealth&utm_medium=product_spotlight&utm_campaign=optim33tb" font-size="13px" align="left" background-color="#fff" color="#597399" border="2px solid #537399" color="#597399">LEARN MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="footer" css-class="text" padding-top="10px" background-color="#e3e3e3">
+      <mj-column width="32%">
+        <mj-text css-class="text" color="#eb1f2a" font-size="21px" vertical-align="middle"><a href="https://www.google.com" target="_blank" class="article-title"><img src="https://www.trucknews.com/wp-content/uploads/2016/05/img-tnd-newcom-logo.png" alt="Newcom Media Inc." /></a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="42%">
+      </mj-column>
+      </mj-raw>
+      <mj-column width="26%">
+        <mj-social css-class="text" mode="horizontal" align="left">
+          <mj-social-element padding="0px" css-class="text" name="instagram-noshare" href="https://www.instagram.com/oralhealthgrp/" src="https://www.oralhealthgroup.com/wp-content/uploads/2018/11/font-awesome_4-7-0_instagram_20_0_6e96b9_none-1.png" alt="Oral Health Instagram: oralhealthgrp" background-color="#e3e3e3" />
+          <mj-social-element padding="0px" css-class="text" name="twitter-noshare" href="https://twitter.com/Oralhealthgroup" src="https://www.oralhealthgroup.com/wp-content/uploads/2018/11/font-awesome_4-7-0_twitter-square_18_0_6e96b9_none-1.png" alt="Oral Health Twitter: OralHealthGroup" background-color="#e3e3e3" />
+          <mj-social-element padding="0px" css-class="text" name="facebook-noshare" href="https://www.facebook.com/Oral-Health-Group-1050743011602459/" src="https://www.oralhealthgroup.com/wp-content/uploads/2018/11/font-awesome_4-7-0_facebook-square_18_0_6e96b9_none.png" alt="Oral Health Facebook" background-color="#e3e3e3" />
+          <mj-social-element padding="0px" css-class="text" name="linkedin" href="https://www.linkedin.com/company/oralhealthgroup/" src="https://www.oralhealthgroup.com/wp-content/uploads/2018/11/font-awesome_4-7-0_linkedin-square_18_0_6e96b9_none.png" alt="Oral Health LinkedIn" background-color="#e3e3e3" />
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="footer-copyright">
+      <mj-column>
+        <mj-text color="#333333" font-size="12px" vertical-align="middle" align="center">
+          &copy; 2019 Newcom Media Inc.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
+</mjml>

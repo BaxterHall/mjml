@@ -1,0 +1,40 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>Saint John has the only convention facilities on the world-famous Bay of Fundy.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif">
+    <mj-section css-class="full" padding="0px">
+      <mj-column css-class="full" padding="0px" width="60%">
+        <mj-image css-class="full" padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box1.png" width="392px" height="213px" href="https://www.discoversaintjohn.com" />
+      </mj-column>
+      <mj-column css-class="full" padding="0px" width="40%">
+        <mj-image css-class="full" padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box2.png" width="247px" height="213px" href="https://www.discoversaintjohn.com" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="full" padding="0px">
+      <mj-column css-class="full" padding="0px" width="55%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box3.png" width="373px" height="207px" href="https://www.littlemissottawa.com/getaway-series-saint-john-new-brunswick/" />
+      </mj-column>
+      <mj-column css-class="full" padding="0px" width="45%">
+        <mj-image css-class="full" padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box4.png" width="267px" height="79px" href="https://www.littlemissottawa.com/getaway-series-saint-john-new-brunswick/" />
+        <mj-image css-class="full" padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box5.png" width="267px" height="128px" href="mailto:shawnna@discoversaintjohn.com" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mobile" padding="0px">
+      <mj-column css-class="mobile" padding="0px" width="100%">
+        <mj-image css-class="mobile" padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/boz1-m.png"  href="https://www.discoversaintjohn.com"/>
+          <mj-image css-class="mobile"  padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box2-m.png"  href="https://www.discoversaintjohn.com"/>
+            <mj-image css-class="mobile"  padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box3-m.png" href="https://www.littlemissottawa.com/getaway-series-saint-john-new-brunswick/" />
+              <mj-image css-class="mobile" padding="0px"  src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box4-m.png" href="https://www.littlemissottawa.com/getaway-series-saint-john-new-brunswick/" />
+                <mj-image css-class="mobile" padding="0px"  src="https://www.cmeexpo.ca/wp-content/uploads/2019/09/box5-m.png" href="mailto:shawnna@discoversaintjohn.com"/>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

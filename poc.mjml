@@ -1,0 +1,153 @@
+<mjml>
+  <mj-head>
+    <mj-title>TT POC</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .mobile,
+      .leader1-mobile {
+        display: none;
+        mso-hide: all;
+      }
+
+      @media only screen and (max-width:480px) {
+        table.full-width-mobile {
+          width: 100% !important;
+        }
+
+        td.full-width-mobile {
+          width: auto !important;
+        }
+
+        .full-size,
+        .leader1,
+        .leader2 {
+          display: none !important;
+          mso-hide: all !important;
+        }
+
+        .mobile,
+        .leader1-mobile,
+        .leader2-mobile {
+          display: inline-block !important;
+        }
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .mobile,
+      .leader1-mobile,
+      .leader2-mobile {
+        display: none;
+        mso-hide: all;
+
+      }
+    </mj-style>
+    <mj-preview>BLURB</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image css-class="full-size" padding="0px" src="https://media.transportroutier.ca/uploads/2019/11/Newsletter-Header-640x240-fr.jpg" href="#" />
+        <mj-image css-class="mobile" padding="0px" src="https://media.transportroutier.ca/uploads/2019/11/Newsletter-Header-300x250-Fr.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section1">
+      <mj-column css-class="image" width="50%">
+        <mj-image src="https://media.transportroutier.ca/uploads/2019/11/young1.jpeg" href="https://www.transportroutier.ca/nouvelles/la-fille-dequipe-linda-young/" />
+      </mj-column>
+      <mj-column css-class="text" width="50%">
+        <mj-text font-weight="700"><a href="https://www.transportroutier.ca/nouvelles/la-fille-dequipe-linda-young/" style="text-decoration:none;color:#000;"> La fille d’équipe: Linda Young</a></mj-text>
+        <mj-text>
+Linda Young lève le voile sur la stratégie gagnante de Bison Transport</mj-text>
+          <mj-text>S’il y a une entreprise au pays qui se distingue par sa capacité d’embaucher et de garder de bons chauffeurs, c’est bien Bison Transport. Linda Young est l’une des personnes clés derrière la recette secrète qui permet à Bison de cumuler, année après année, les honneurs en matière de sécurité, de performance des chauffeurs et à titre d’employeur de choix.
+          </mj-text>
+          <mj-text>Elle est vice-présidente des ressources humaines et du développement des personnes chez Bison Transport et occupe également la présidence du Conseil d’administration
+de RH Camionnage Canada. Au cours des 13 dernières années, elle a été de tous les programmes et philosophies qui contribuent à ce que Bison recrute et garde en entreprise les 2 900 membres de son équipe à travers le Canada, même dans un contexte de concurrence féroce pour les chauffeurs.</mj-text>
+          <mj-button background-color="#6199d2" href="https://www.transportroutier.ca/nouvelles/la-fille-dequipe-linda-young/">
+            Lire la suite</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="leader1" padding="0px">
+      <mj-column css-class="leader1">
+        <mj-image css-class="leader1" href="https://ad.doubleclick.net/ddm/trackclk/N160401.273538TODAYSTRUCKING.COM/B23028016.252314140;dc_trk_aid=452022478;dc_trk_cid=121807257;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=" src="https://media.todaystrucking.com/uploads/2019/09/MDelvac_H_RALT-TM.png">
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="leader1-mobile" padding="0px">
+      <mj-column css-class="leader1-mobile">
+        <mj-image css-class="leader1-mobile" href="https://ad.doubleclick.net/ddm/trackclk/N160401.273538TODAYSTRUCKING.COM/B23028016.252314140;dc_trk_aid=452022478;dc_trk_cid=121807257;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=" src="https://media.todaystrucking.com/uploads/2019/09/MDelvac_V2_RALT-TM.png">
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="section2" direction="rtl">
+      <mj-column css-class="image" width="50%">
+        <mj-image href="https://www.transportroutier.ca/nouvelles/le-millenial-david-colletto/" src="https://media.transportroutier.ca/uploads/2019/11/Coletto.jpeg" />
+      </mj-column>
+      <mj-column css-class="text" width="50%">
+        <mj-text font-weight="700"><a href="https://www.transportroutier.ca/nouvelles/le-millenial-david-colletto/" style="text-decoration:none;color:#000">Le millénial: David Colletto</mj-text>
+        <mj-text>
+       David Coletto croit que le camionnage a ce qu’il faut pour attirer les membres de sa génération</mj-text>
+        <mj-text>Une bonne partie des chauffeurs de camions du Canada sont sur la voie de la retraite. Des recherches menées par l’Alliance canadienne du camionnage indiquent que le camionneur moyen au pays est âgé de 48 ans, plus que la main-d’oeuvre en général.</mj-text>
+        <mj-text>Pour combattre la pénurie de chauffeurs qui va grandissant, il est clair que l’industrie a besoin de sang neuf. Néanmoins, l’attraction de candidats nés après 1980 peut représenter son lot de défis.</mj-text>
+
+        <mj-button background-color="#6199d2" href="https://www.transportroutier.ca/nouvelles/le-millenial-david-colletto/">
+          Lire la suite</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="sectionDE">
+      <mj-column css-class="de" width="20%">
+        <mj-image src="https://media.transportroutier.ca/uploads/2019/11/TR_Pioneers_of_Change_1_Final-FR-Cover-Vanderzwaag-and-Bedard.jpg" href="ttps://www.transportroutier.ca/archive-numerique/pionniers-du-changement-1-2019/" />
+        <mj-button href="https://www.transportroutier.ca/archive-numerique/pionniers-du-changement-1-2019/" font-size="9px" background-color="#6199d2">
+          Lire le numéro 1</mj-button>
+      </mj-column>
+      <mj-column css-class="de" width="20%">
+        <mj-image src="https://media.transportroutier.ca/uploads/2019/11/TR_Pioneers_of_Change_-2_Final-FR-Cover-Desrosiers-and-Horodnyk.jpeg" href="https://www.transportroutier.ca/archive-numerique/pionners-du-changement-2-2019/" />
+        <mj-button href="https://www.transportroutier.ca/archive-numerique/pionners-du-changement-2-2019/" font-size="9px" background-color="#6199d2">
+          Lire le numéro 2</mj-button>
+      </mj-column>
+      <mj-column css-class="de" width="20%">
+        <mj-image src="https://media.transportroutier.ca/uploads/2019/11/TR_Pioneers_of_Change_-3_Final-FR-Cover-DeLarochellière-and-Hesch.jpg" href="https://www.transportroutier.ca/archive-numerique/pionniers-du-changement-3-2019/" />
+        <mj-button href="https://www.transportroutier.ca/archive-numerique/pionniers-du-changement-3-2019/" font-size="9px" background-color="#6199d2">
+          Lire le numéro 3</mj-button>
+      </mj-column>
+      <mj-column css-class="de" width="20%">
+        <mj-image src="https://media.transportroutier.ca/uploads/2019/11/TR_Pioneers_of_Change_-4_Final-FR-Cover-Morley-and-Kar.jpeg" href="https://www.transportroutier.ca/archive-numerique/pionniers-du-changement-4-2019/" />
+        <mj-button href="https://www.transportroutier.ca/archive-numerique/pionniers-du-changement-4-2019/" font-size="9px" background-color="#6199d2">
+          Lire le numéro 4</mj-button>
+      </mj-column>
+        <mj-column css-class="de" width="20%">
+        <mj-image src="https://media.transportroutier.ca/uploads/2019/11/TR_Pioneers_of_Change_-5_Final-FR-Cover-Young-and-Coletto.jpg" href="https://www.transportroutier.ca/archive-numerique/pionniers-du-changement-5-2019/" />
+        <mj-button href="https://www.transportroutier.ca/archive-numerique/pionniers-du-changement-5-2019/" font-size="9px" background-color="#6199d2">
+          Lire le numéro 5</mj-button>
+      </mj-column>
+      <!-- <mj-column css-class="text" width="20%">
+      <mj-image src="https://media.todaystrucking.com/uploads/2019/09/TT_Pioneers_of_Change_SUPPL-2_Cover.jpg" href="https://www.todaystrucking.com/pioneers-of-change-2/"/>
+          <mj-button   href="https://www.todaystrucking.com/pioneers-of-change-2/"font-size="11px"background-color="#6199d2">Read Issue 2</mj-button>
+    </mj-column>
+       <mj-column css-class="text" width="20%">
+      <mj-image src="https://media.todaystrucking.com/uploads/2019/09/TT_Pioneers_of_Change_SUPPL-3_Cover.jpg"  href="https://www.todaystrucking.com/pioneers-of-change-3"/>
+         <mj-button  href="https://www.todaystrucking.com/pioneers-of-change-3"font-size="11px"background-color="#6199d2">Read Issue 3</mj-button>
+    </mj-column>
+         <mj-column css-class="text" width="20%">
+      <mj-image src="https://media.todaystrucking.com/uploads/2019/09/TT_Pioneers_of_Change_SUPPL-4_Cover.jpg"  href="https://www.todaystrucking.com/pioneers-of-change-4"/>
+         <mj-button href="https://www.todaystrucking.com/pioneers-of-change-4"font-size="11px" background-color="#6199d2">Read Issue 4</mj-button>
+    </mj-column>
+     <mj-column css-class="text" width="20%">
+      <mj-image src="https://media.todaystrucking.com/uploads/2019/09/TT_Pioneers_of_Change_SUPPL-5_Cover.jpg"  href="https://www.todaystrucking.com/pioneers-of-change-5"/>
+         <mj-button href="https://www.todaystrucking.com/pioneers-of-change-5" font-size="11px" background-color="#6199d2">Read Issue 5</mj-button>
+    </mj-column> -->
+    </mj-section>
+    <mj-section css-class="footer-copyright">
+      <mj-column>
+        <mj-text align="center">
+          Des rédacteurs de Truck News et Today’s Trucking</mj-text>
+        <mj-image src="https://media.todaystrucking.com/uploads/2019/09/Newcom-M-Blue2.png" width="200px" href="https://www.newcom.ca/" />
+        <mj-text color="#333333" font-size="12px" vertical-align="middle" align="center">
+          &copy; 2019 Newcom Media Inc.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
+</mjml>

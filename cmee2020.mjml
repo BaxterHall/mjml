@@ -1,0 +1,105 @@
+<mjml>
+  <mj-head>
+    <mj-title>CMEE 2020 - eblast</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>Secure the Early Bird Rate and Book Today.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#D3D3D3" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/10/header.png" href="https://www.cmeexpo.ca/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-text align="center" padding-bottom="0px" font-size="30px" font-weight="700">BOOK YOUR SPACE</mj-text>
+        <mj-text align="center" padding-bottom="0px" font-size="30px" font-weight="700">TODAY TO SECURE THE</mj-text>
+        <mj-text align="center" padding-bottom="0px" font-size="30px" font-weight="700">EARLY BIRD RATE</mj-text>
+        <mj-text align="center">(in effect until January 31, 2020)</mj-text>
+        </mj-column>
+        </mj-section>
+       <mj-section background-color="#fff">
+      <mj-column width="75%">
+        <mj-text  font-size="20px" font-weight="400"><a href="https://www.cmeexpo.ca/buy/" style="color:#000;text-decoration:none">• Exhibitor Sales Brochure</a></mj-text>
+        <mj-text  font-size="20px" font-weight="400"><a href="https://www.cmeexpo.ca/buy/" style="color:#000;text-decoration:none">• Quick Facts</a></mj-text>
+        <mj-text  font-size="20px" font-weight="400"><a href="https://www.cmeexpo.ca/buy/" style="color:#000;text-decoration:none">• Exhibitor Application</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff"padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/10/bar.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-text align="center" padding-bottom="0px" font-size="20px" font-weight="700">Canada’s Largest </mj-text>
+        <mj-text align="center" padding-bottom="0px" font-size="20px" font-weight="700">Tradeshow + Conference </mj-text>
+        <mj-text align="center" padding-bottom="0px" font-size="20px" font-weight="700">Dedicated to Meeting and </mj-text>
+        <mj-text align="center" padding-bottom="0px" font-size="20px" font-weight="700">Event Professionals</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-text align="center" padding-bottom="0px" font-size="78px" color="#34cc9a" font-weight="700">2345</mj-text>
+        <mj-text align="center" padding-bottom="0px" font-size="20px" font-weight="700">QUALIFIED</mj-text>
+        <mj-text align="center" padding-bottom="0px" font-size="20px" font-weight="700">PLANNERS IN 2019
+        </mj-text>
+        <mj-image src="https://www.cmeexpo.ca/wp-content/uploads/2019/10/people.png" />
+      </mj-column>
+    </mj-section >
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="50%">
+        <mj-image src="https://www.cmeexpo.ca/wp-content/uploads/2019/10/left2.png" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="https://www.cmeexpo.ca/wp-content/uploads/2019/10/right2.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-text align="center" padding-bottom="0px" font-size="30px" font-weight="700"><a href="https://www.cmeexpo.ca/buy/" style="text-decoration:none;color:#000">BOOK YOUR 2020 SPACE</a></mj-text>
+        <mj-text align="center" padding-bottom="0px" font-size="30px" font-weight="700"><a href="https://www.cmeexpo.ca/buy/" style="text-decoration:none;color:#000">TODAY & SAVE</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-text align="center" padding-bottom="0px" font-size="30px" color="#34cc9a" font-weight="700"><a href="https://www.cmeexpo.ca/" style="color:#34cc9a;text-decoration:none;">cmeexpo.ca</a></mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-text align="center" padding-bottom="0px" font-size="25px" color="#000" font-weight="700">CONTACT</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+           <mj-column padding="0px" width="33%">
+        <mj-text align="center" padding="2px" font-size="15px" color="#000" font-weight="700">MELISSA ARNOTT</mj-text>
+        <mj-text align="center" padding="2px" font-size="14px" color="#000" font-weight="400">Show Manager</mj-text>
+        <mj-text align="center" padding="2px" font-size="14px" color="#000" font-weight="400"><a href="mailto:mArnott@newcom.ca" style="color:#000;text-decoration:none;">mArnott@newcom.ca</a></mj-text>
+         <mj-text align="center"padding="2px" padding-bottom="15px"font-size="14px" color="#000" font-weight="400">416.510.5141</mj-text>
+      </mj-column>
+        <mj-column padding="0px" width="33%">
+      <mj-text align="center" padding="2px"  font-size="15px" color="#000" font-weight="700">TIFFANY GIN</mj-text>
+        <mj-text align="center" padding="2px" font-size="14px" color="#000" font-weight="400">Assistant Show Manager</mj-text>
+        <mj-text align="center" padding="2px" font-size="14px" color="#000" font-weight="400"><a href="mailto:tiffany@newcom.ca" style="color:#000;text-decoration:none;">tiffany@newcom.ca</a></mj-text>
+         <mj-text align="center"padding="2px" padding-bottom="15px" font-size="14px" color="#000" font-weight="400">416.510.5236</mj-text>
+      </mj-column>
+      <mj-column padding="0px" width="33%">
+          <mj-text align="center" padding="2px" font-size="15px" color="#000" font-weight="700">HEATHER MACAULAY</mj-text>
+        <mj-text align="center" padding="2px" font-size="14px" color="#000" font-weight="400">Sales Manager</mj-text>
+        <mj-text align="center"padding="2px"  font-size="14px" color="#000" font-weight="400"><a href="mailto:heatherm@newcom.ca" style="color:#000;text-decoration:none;">heatherm@newcom.ca</a></mj-text>
+         <mj-text align="center" padding="2px" padding-bottom="15px"font-size="14px" color="#000" font-weight="400">416.510.6819</mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/10/footer.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

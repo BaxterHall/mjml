@@ -1,0 +1,174 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Complete your show guide listing today.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+
+      .underline1 {
+        text-decoration: underline solid #da45bd;
+      }
+
+      .underline2 {
+        text-decoration: underline solid #33cc99;
+      }
+
+      .underline3 {
+        text-decoration: underline solid #8061a8;
+      }
+
+      @media only screen and (max-width:480px) {
+        .noMob {
+          display: none !important;
+          mso-hide: all !important;
+        }
+
+
+        .yesMob {
+          display: inline-block !important;
+          text-align: center !important;
+          align: center !important;
+
+
+        }
+
+        .mobPad {
+          padding-top: 10px !important;
+          ;
+          text-align: center !important;
+          align: center !important;
+        }
+
+        .centerMe {
+          text-align: center !important;
+          align: center !important;
+        }
+
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+
+      .underline1 {
+        text-decoration: underline solid #da45bd;
+      }
+
+      .underline2 {
+        text-decoration: underline solid #33cc99;
+      }
+
+      .underline3 {
+        text-decoration: underline solid #8061a8;
+      }
+    </mj-style>
+    <mj-preview> Send us photos and details from your exceptional event &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#e2e5e7" color="#fff" font-family="Arial, sans-serif">
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/cmeebanner.png" href="https://www.cmeexpo.ca/news/" />
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/plannermiddle.png" />
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="100%">
+        <mj-text color="#d844bb" font-weight="700" font-size="40px" font-weight="700" align="center">WE WANT TO HEAR
+          FROM YOU!</mj-text>
+        <mj-text color="#000" padding-bottom="0px" font-size="20px" font-weight="700" align="center">Submit your photos and event details </mj-text>
+        <mj-text color="#000" padding-bottom="0px" font-size="20px" font-weight="700" align="center">to be featured in our exclusive </mj-text>
+        <mj-text color="#000" padding-bottom="0px" font-size="20px" font-weight="700" align="center">Planners’ Spotlight section. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="100%">
+        <mj-text color="#000" font-weight="700" font-size="20px" font-weight="700" align="center">What we need from you:</mj-text>
+        <mj-text color="#000" font-size="20px" font-weight="300" align="left">
+          <ul style="padding: 0; Margin: 0 0 0 40px;">
+            <li style="Margin: 10px 0 10px 0;">Photos of your event<br/><em style="font-size:16px">And lots of them. We want to see all the
+                details up close and personal</em></li>
+            <li style="Margin: 10px 0 10px 0;">Details of your event<br/><em style="font-size:16px"
+            >What it was for, the inspiration behind your
+                theme(s), the list of vendors you worked
+                with, and more</em></li>
+          </ul>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="100%">
+        <mj-text color="#000" font-weight="700" font-size="20px" font-weight="700" align="center">What you get: </mj-text>
+        <mj-text color="#000" font-size="20px" font-weight="300" align="left">
+          <ul style="padding: 0; Margin: 0 0 0 40px;">
+            <li style="Margin: 10px 0 10px 0;">A gorgeous spread in the Planners’ Spotlight<br />
+              section of CMEExpo.ca, complete with a gallery
+              of your submitted photos and an edited
+              summary of your event details</li>
+            <li style="Margin: 10px 0 10px 0;">A featured spot in the monthly
+              CMEExpo eNewsletter</li>
+            <li style="Margin: 10px 0 10px 0;">Endless compliments from our
+              event professional readers </li>
+          </ul>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="100%">
+        <mj-text background-color="#fff" color="#d844bb" font-weight="700" font-size="20px" font-weight="700" align="center">ONLY THOSE SELECTED WILL BE CONTACTED.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="100%">
+        <mj-text color="#000" font-weight="700" font-size="25px" font-weight="700" align="center">Send your submissions to Sonia Audet </mj-text>
+        <mj-text padding-bottom="20px" color="#000" font-weight="700" font-size="25px" font-weight="700" align="center"><a href="mailto:sonia@newcom.ca" style="text-decoration:none;color:#000;">sonia@newcom.ca</a> </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/fullblackbar.png" href="https://www.cmeexpo.ca" />
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px" padding-bottom="30px">
+      <mj-column background-color="#fff" padding="20px" width="100%">
+        <mj-text align="center"> &nbsp; &nbsp; &nbsp;
+          <a href="https://www.instagram.com/cmeexpo/" style="text-decoration:none;">
+            <img src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/instagram.png" />
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://twitter.com/CMEexpo" style="text-decoration:none;">
+            <img src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/twitter.png" />
+          </a> &nbsp; &nbsp; &nbsp;
+          <a href="https://www.facebook.com/CMEexpo/" style="text-decoration:none;">
+            <img src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/facebook.png" />
+          </a>
+
+          &nbsp; &nbsp; &nbsp;
+          <a href="https://www.linkedin.com/company/cmeexpo/" style="text-decoration:none;">
+            <img src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/linkedin.png" />
+          </a>
+          &nbsp; &nbsp; &nbsp;
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

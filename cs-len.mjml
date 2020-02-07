@@ -1,0 +1,84 @@
+<mjml>
+  <mj-head>
+    <mj-title>CAT</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-style>
+    </mj-style>
+    <mj-preview>CAT® RUGGED PHONES &amp; ACCESSORIES
+      THE BEST SOLUTION FOR LOGISTICS &amp; DELIVERY
+      Do you need a rugged device that stands ups to the demands of your business and supports the platforms and applications you rely on? Cat® rugged phones and accessories are now available with Lenbrook, an exclusive distributor for Canada.
+
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding-bottom="0px">
+      <mj-column width="70%">
+        <mj-text font-weight="700" font-size="18px">CAT® RUGGED <span style="color:#ffc100">PHONES & ACCESSORIES</span></mj-text>
+        <mj-text padding-bottom="0px">THE BEST SOLUTION FOR LOGISTICS & DELIVERY</mj-text>
+        <mj-text>Do you need a rugged device that stands ups to the demands of your
+          business and supports the platforms and applications you rely on? Cat®
+          rugged phones and accessories are now available with Lenbrook, an
+          exclusive distributor for Canada.</mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image href="https://www.catphones.com/en-ca/"src="https://www.canadianshipper.com/wp-content/uploads/2019/10/catlogo.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-text font-weight="700" padding-bottom="0px">THE MOBILE CHALLENGE</mj-text>
+        <mj-text>The delivery journey can be rough. It begins in the warehouse, goes on the road, travels through any weather, and lands on your doorstep or reception desk. The phone you use <strong>must be</strong> rugged and able to perform for long periods of time.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="50%" padding-left="0px">
+        <mj-text font-weight="700" padding-bottom="0px">Military-Spec</mj-text>
+        <mj-image width="285px" src="https://www.canadianshipper.com/wp-content/uploads/2019/10/box2.png">
+      </mj-column>
+      <mj-column width="50%" padding-bottom="0px">
+        <mj-text font-weight="700" padding-bottom="0px">&nbsp;</mj-text>
+        <mj-image width="330px" src="https://www.canadianshipper.com/wp-content/uploads/2019/10/box1.png">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding-top="0px" width="100%">
+        <mj-text font-weight="700" padding-bottom="0px">Riccardo Ferree has been in the Logistics and Delivery business for years. This is what he had to
+          say about Cat® Phones:</mj-text>
+        <mj-text>“We have tried many phones for our DSP business and the Cat® phone has been the best rugged
+          device we have used to date! It has also been the best investment we have made in devices for our
+          team.</mj-text>
+        <mj-text>I was tired of buying cases, screen protectors and replacing phones. It’s also a relief to know that
+          these devices will support the Amazon applications we rely on to get our job done.</mj-text>
+        <mj-text>I would highly recommend Cat® phones to anyone looking for a rugged device for their DSP
+          business.”</mj-text>
+        <mj-text align="right" padding-bottom="5px" font-weight="700">- Riccardo Ferree Drago</mj-text>
+        <mj-text align="right" padding-bottom="0px" padding-top="0px">Owner at Drago Fleet, Denver CO</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="28%">
+        <mj-text font-weight="700" font-size="15px">Come and visit us<br />
+          at the show!</mj-text>
+        <mj-image href="https://www.lenbrookcanadasolutions.com" width="170px" src="https://www.canadianshipper.com/wp-content/uploads/2019/10/lenbrooklogo.png">
+      </mj-column>
+      <mj-column width="44%" padding="0px" padding-bottom="0px">
+
+        <mj-image src="https://www.canadianshipper.com/wp-content/uploads/2019/10/clcboxz.png">
+      </mj-column>
+      <mj-column width="28%" padding="0px">
+        <mj-button href="mailto:mdellacamera@lenbrook.com" background-color="#ffc100" color="#000" font-weight="700" font-size="15px">EMAIL US</mj-button>
+        <mj-button href="https://www.catphones.com/en-ca/" padding="0px" background-color="#ffc100" color="#000" font-weight="700" font-size="15px">Catphones.com</mj-button>
+      </mj-column>
+    </mj-section>
+     <mj-section padding-top="0px">
+      <mj-column width="100%">
+        
+        <mj-image width="640px" src="https://www.canadianshipper.com/wp-content/uploads/2019/10/catbottom.png">
+      
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

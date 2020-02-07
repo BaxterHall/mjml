@@ -1,0 +1,46 @@
+<mjml>
+  <mj-head>
+    <mj-title>CMEE Attendee</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>
+    Thank you for attending CMEExpo. Your feedback is important.
+     The Canadian Meetings + Events
+Expo welcomed 2,345 qualified
+attendees to the show.
+Your feedback
+is important to us.
+Please follow this link to complete our quick survey. </mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/header-3.png" href="https://www.cmeexpo.ca" />
+      </mj-column>
+    </mj-section>
+       <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/thankyiou.png" />
+      </mj-column>
+    </mj-section>
+      <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/survey.png" href="https://www.surveymonkey.com/r/7MNPW7B" />
+      </mj-column>
+    </mj-section>
+          <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/savethedate.png" href="https://www.cmeexpo.ca/"/>
+      </mj-column>
+    </mj-section>
+
+     <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/08/footer-2.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

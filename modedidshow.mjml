@@ -1,0 +1,63 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Aug 06 2019</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>New! Buyers Lounge; Prizes & More &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#fff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/sites/mode/files/eblass/header2.png" href="http://www.mode-accessories.com" />
+      </mj-column>
+    </mj-section>
+    <mj-section border-left="1px solid black" border-right="1px solid black">
+      <mj-column width="100%">
+        <mj-text color="#f36e5f" font-size="40px"font-weight="700"align="center">THANK YOU</mj-text>
+        <mj-text padding="0px" color="#000" font-size="20px" align="center">for attending MODE Fall/Winter 2019</mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section border-left="1px solid black" border-right="1px solid black">
+      <mj-column width="100%">
+        <mj-text color="#000" font-size="30px" align="center">YOUR FEEDBACK
+IS IMPORTANT TO US. </mj-text>
+        <mj-text  padding="0px" color="#000" font-size="20px" align="center">Please follow this link to complete
+our quick survey.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/sites/mode/files/eblass/clickhere2.png" href=" https://www.surveymonkey.com/r/85TVG7M" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" >
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/sites/mode/files/eblass/savethedatev2.png" href="http://www.mode-accessories.com" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f36e5f" padding="0px"  border-left="1px solid black" border-right="1px solid black">
+      <mj-column padding="0px" width="100%">
+        <mj-text color="#fff" font-size="20px" align="center"><a href="https://www.mode-accessories.com/" style="text-decoration:none;color:#fff">mode-accessories.com</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" padding-bottom="30px" border-bottom="1px solid black" border-left="1px solid black" border-right="1px solid black">
+      <mj-column padding="20px" width="100%">
+        <mj-text align="center">
+          <mj-text>
+          <a href="https://twitter.com/modeshowcanada" style="text-decoration:none;">
+          <img src="https://www.mode-accessories.com/sites/mode/files/eblass/tweetweet.png"/>
+          </a>
+           <a href="https://www.instagram.com/modeshowcanada/" style="text-decoration:none;">
+          <img src="https://www.mode-accessories.com/sites/mode/files/eblass/insta.png"/>
+          </a>
+           <a href="https://www.facebook.com/modeshowcanada" style="text-decoration:none;">
+          <img src="https://www.mode-accessories.com/sites/mode/files/eblass/faceface.png"/>
+          </a>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

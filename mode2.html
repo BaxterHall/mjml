@@ -1,0 +1,1212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+  xmlns:o="urn:schemas-microsoft-com:office:office">
+
+
+  <head>
+ <?php
+
+
+
+$rand = date("ymd") . '[account]';
+$_ad_unit_txt = 'em_CUW_CLMS_TXT_1_';
+$_ad_unit_txt_prefix = "[[--";
+$_ad_unit_txt_suffix = "--]]";
+$_preview_text = '';
+$_dfp_txt_1 = [
+  'href' => $_ad_unit_txt_prefix.$_ad_unit_txt.'Link'.$_ad_unit_txt_suffix,
+  'img' => $_ad_unit_txt_prefix.$_ad_unit_txt.'Image'.$_ad_unit_txt_suffix,
+  'img_style' => 'display: block; color:#000; outline: none; text-decoration: none; border:none; outline:none; line-height:0.01em; vertical-align:bottom; -ms-interpolation-mode: bicubic;',
+  'title' => $_ad_unit_txt_prefix.$_ad_unit_txt.'Title'.$_ad_unit_txt_suffix,
+  'content' => $_ad_unit_txt_prefix.$_ad_unit_txt.'Content'.$_ad_unit_txt_suffix,
+];
+if (!empty($vals['communication_builder_message']) && trim($vals['communication_builder_message'])) {
+  $_preview_text = $vals['communication_builder_message'];
+}
+elseif (isset($content_items[0])) {
+  $_preview_text = $content_items[0]['title'].' '.$content_items[0]['summary'];
+}
+$_preview_text = check_plain($_preview_text);
+$_css_text_small = 'font-size:10px;color:#555555;line-height:100% !important;font-family:Arial,Helvetica,sans-serif !important;text-align:left!important';
+$_css_h3 = 'font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;';
+$_css_h3_txt = 'font-size:13px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;';
+$_css_h3_a = 'font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;';
+$_css_h3_a_txt = 'font-size:12px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;';
+?>
+    <title>
+      <?php if (isset($vals['communication_builder_subject_line'])) {
+    echo $vals['communication_builder_subject_line'];
+  }
+  else {
+    echo "Claims Canada Newsletter";
+  } ?>
+    </title>
+    <!--[if !mso]><!-- -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css">
+      #outlook a {
+        padding: 0;
+      }
+
+      .ReadMsgBody {
+        width: 100%;
+      }
+
+      .ExternalClass {
+        width: 100%;
+      }
+
+      .ExternalClass * {
+        line-height: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+
+      table,
+      td {
+        border-collapse: collapse;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+
+      img {
+        border: 0;
+        height: auto;
+        line-height: 100%;
+        outline: none;
+        text-decoration: none;
+        -ms-interpolation-mode: bicubic;
+      }
+
+      p {
+        display: block;
+        margin: 13px 0;
+      }
+
+      .besideBB {
+        width: 100%
+      }
+
+      .BBAd {
+        min-width: 300px;
+        width: 300px;
+      }
+      .mobLogo {
+        display: none
+      }
+    </style>
+    <!--[if !mso]><!-->
+    <style type="text/css">
+      @media only screen and (max-width:480px) {
+        @-ms-viewport {
+          width: 320px;
+        }
+
+        @viewport {
+          width: 320px;
+        }
+      }
+    </style>
+    <!--<![endif]-->
+    <!--[if mso]>
+        <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+    <!--[if lte mso 11]>
+        <style type="text/css">
+          .outlook-group-fix { width:100% !important; }
+        </style>
+        <![endif]-->
+    <style type="text/css">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 {
+          width: 100% !important;
+          max-width: 100%;
+        }
+
+        .mj-column-per-25 {
+          width: 25% !important;
+          max-width: 25%;
+        }
+
+        .mj-column-per-75 {
+          width: 75% !important;
+          max-width: 75%;
+        }
+
+        .mj-column-per-50 {
+          width: 50% !important;
+          max-width: 50%;
+        }
+      }
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width:480px) {
+        table.full-width-mobile {
+          width: 100% !important;
+        }
+
+        td.full-width-mobile {
+          width: auto !important;
+        }
+
+        #newsImg {
+          display: none;
+        }
+        .desktopLogo {
+          display: none !important;
+        }
+
+        .mobLogo {
+          display: block !important;
+          align: center !important;
+          padding:0px !important;
+        }
+        .BBAd {
+        padding-left:10px !important;
+      }
+      }
+    </style>
+  </head>
+
+<body style="background-color:#ffffff;">
+    <div
+      style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+      <?php echo $_preview_text; ?>
+    </div>
+<div style="background-color:#ffffff;">
+      <!--[if mso | IE]>
+      <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="header-outlook" style="width:640px;" width="640"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="header" style="Margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                
+        <tr>
+      
+            <td
+               class="" style="vertical-align:top;width:640px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-100 outlook-group-fix"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="center"  class="desktopLogo" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:590px;" class="desktopLogo">
+                                <img src="https://media.canadianunderwriter.ca/uploads/2020/01/Claims-Canada-Newsletter-Banner-BH-Edit.png"  alt="Claims Canada Newsletter Banner"
+                                  width="590" height="auto" usemap="#Map" class="desktopLogo"
+                                  style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" border="0">
+                              </td>
+                            </tr>
+
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="center"  class="mobLogo" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px;display:none;" align="center"  class="mobLogo">
+                                <img src="https://media.canadianunderwriter.ca/uploads/2020/01/Claims-Canada-Newsletter-Mobile-Banner-BH-edit.png" alt="Claims Canada Newsletter Logo"
+                                width="300" height="auto" usemap="#Map2"  class="mobLogo"
+                                style="border:0;;outline:none;display:none;text-decoration:none;height:auto;width:100%;" border="0"/>
+                            ]
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>
+          
+        </tr>
+      
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!-- /////////	HEADER LOGO - Full Width.  ///////// -->
+      [[--NEWGEN-HEADER-PLACEHOLDER--]]
+
+      <!-- NEWS -->
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      
+      <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="bodystory1-outlook" style="width:640px;" width="640"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="bodystory1" style="Margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <?php if (!empty($content_items[0]['image'])): ?>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                
+        <tr>
+      
+            <td
+               class="newsImg-outlook" style="vertical-align:top;width:160px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-25 outlook-group-fix newsImg"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table id="newsImg" border="0" cellpadding="0" cellspacing="0" role="presentation"
+                    style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:110px;">
+                                <a href="<?php echo $content_items[0]['url']; ?>" target="_blank" alt="<?php echo $content_items[0]['title'];?>" rel="noopener">
+                                  <img height="auto" src="<?php echo $content_items[0]['image'];?>"
+                                    style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:140px;"
+                                    width="140" alt="Article Image">
+
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>        
+            <td
+               class="newsText-outlook" style="vertical-align:top;width:480px;"
+            >
+          <![endif]-->
+                <?php endif;?>
+                <div class="mj-column-per-75 outlook-group-fix newsText"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="left"
+                        style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                        <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_items[0]['url']; ?>" target="_blank" alt="<?php echo $content_items[0]['title'];?>" rel="noopener"
+                            style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                            <?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[0]));
+                                        echo $content_items[0]['title'];?></a>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_items[0]['url']; ?>" target="_blank"
+                            style="text-decoration: none;color:#000" alt="<?php echo $content_items[0]['title'];?>" rel="noopener">
+                            <?php echo $content_items[0]['summary']; ?></a><a href="<?php echo $content_items[0]['url']; ?>" style="text-decoration:none; color:#e01d25" rel="noopener" alt="Read More Of This Article"> read more</a>
+                        </div>
+            
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>       
+        </tr>
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      
+      <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="bodyStoryBB-outlook" style="width:640px;" width="640"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="bodyStoryBB" style="Margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">          
+        <tr>
+    
+            <td
+               class="besideBB-outlook" style="vertical-align:top;width:320px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-50 outlook-group-fix besideBB"
+                  style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="vertical-align:top;padding:0px;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left"
+                                style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div
+                                  style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                                  <a href="<?php echo $content_items[1]['url']; ?>" alt="<?php echo $content_items[1]['title'];?>" rel="noopener" target="_blank"
+                                    style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                                    <?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[1]));
+                                        echo $content_items[1]['title'];?></a>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                               <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_items[1]['url']; ?>" target="_blank" alt="<?php echo $content_items[1]['title'];?>"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $content_items[1]['summary']; ?>
+                          </a></a><a href="<?php echo $content_items[1]['url']; ?>" style="text-decoration:none; color:#e01d25" alt="<?php echo $content_items[1]['title'];?>" rel="noopener"> read more</a></div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left"
+                                style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div
+                                  style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                                  <a href="<?php echo $content_items[2]['url']; ?>" target="_blank" alt="<?php echo $content_items[2]['title'];?>" rel="noopener"
+                                    style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                                    <?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[2]));
+                                        echo $content_items[2]['title'];?></a>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                              <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_items[2]['url']; ?>" target="_blank" alt="<?php echo $content_items[2]['title'];?>" rel="noopener"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $content_items[2]['summary']; ?>
+                          </a><a href="<?php echo $content_items[2]['url']; ?>" alt="<?php echo $content_items[2]['title'];?>" rel="noopener"style="text-decoration:none; color:#e01d25"> read more</a></div>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>
+          
+            <td
+               class="" style="vertical-align:top;width:320px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-50 outlook-group-fix"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="center" class="BBAd"
+                        style="min-width: 300px; width: 300px; font-size: 0px; padding: 10px 25px; padding-left: 0px; word-break: break-word;"
+                        width="300">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px;">
+                                <a href="https://www.canadianunderwriter.ca/ad/em_CLMS_BB_1/300x250/" target="_blank" alt="Claims Canada Partnership Big Box 1">
+                                  <img height="auto"
+                                    src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CLMS_BB_1&sz=300x250"
+                                    style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;"
+                                    width="300" alt="Claims Canada Partnership Big Box 1 Image">
+                                </a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>       
+        </tr>
+    
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+       <![endif]-->
+   
+     <!--[if mso | IE]>
+       <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="bodystory1-outlook" style="width:640px;" width="640"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="bodystory1" style="Margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <?php if (!empty($content_items[3]['image'])): ?>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                
+        <tr>
+      
+            <td
+               class="newsImg-outlook" style="vertical-align:top;width:160px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-25 outlook-group-fix newsImg"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table id="newsImg" border="0" cellpadding="0" cellspacing="0" role="presentation"
+                    style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:110px;">
+                                <a href="<?php echo $content_items[3]['url']; ?>" target="_blank" alt="Article Image" rel="noopener">
+                                  <img height="auto" src="<?php echo $content_items[3]['image'];?>"
+                                    style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:140px;"
+                                    width="140" alt="Article Image">
+
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>        
+            <td
+               class="newsText-outlook" style="vertical-align:top;width:480px;"
+            >
+          <![endif]-->
+                <?php endif;?>
+                <div class="mj-column-per-75 outlook-group-fix newsText"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="left"
+                        style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                        <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_items[3]['url']; ?>" target="_blank" alt="<?php  echo $content_items[3]['title'];?>" rel="noopener"
+                            style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                            <?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[3]));
+                                        echo $content_items[3]['title'];?></a>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_items[3]['url']; ?>" target="_blank" alt="<?php  echo $content_items[3]['title'];?>" rel="noopener"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $content_items[3]['summary']; ?></a><a href="<?php echo $content_items[3]['url']; ?>" style="text-decoration:none; color:#e01d25" alt="Read More" rel="noopener"> read more</a>
+                        </div>
+            
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>       
+        </tr>
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      
+      <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="bodyStoryBB-outlook" style="width:640px;" width="640"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="bodyStoryBB" style="Margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">          
+        <tr>
+    
+            <td
+               class="besideBB-outlook" style="vertical-align:top;width:320px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-50 outlook-group-fix besideBB"
+                  style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="vertical-align:top;padding:0px;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left"
+                                style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div
+                                  style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                                  <a href="<?php echo $content_items[4]['url']; ?>" target="_blank" alt="<?php  echo $content_items[4]['title'];?>"  rel="noopener"
+                                    style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                                    <?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[4]));
+                                        echo $content_items[4]['title'];?></a>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                               <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_items[4]['url']; ?>" target="_blank" alt="<?php  echo $content_items[4]['title'];?>" rel="noopener"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $content_items[4]['summary']; ?>
+                          </a><a href="<?php echo $content_items[4]['url']; ?>" style="text-decoration:none; color:#e01d25" alt="Read More" rel="noopener"> read more</a></div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left"
+                                style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div
+                                  style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                                  <a href="<?php echo $content_items[5]['url']; ?>" target="_blank" alt="<?php  echo $content_items[5]['title'];?>" rel="noopener"
+                                    style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                                    <?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[5]));
+                                        echo $content_items[5]['title'];?></a>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                              <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_items[5]['url']; ?>" target="_blank" alt="<?php  echo $content_items[5]['title'];?>" rel="noopener"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $content_items[5]['summary']; ?>
+                          </a><a href="<?php echo $content_items[5]['url']; ?>" style="text-decoration:none; color:#e01d25" alt="Read More" rel="noopener"> read more</a></div>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>
+          
+            <td
+               class="" style="vertical-align:top;width:320px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-50 outlook-group-fix"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="center" class="BBAd"
+                        style="min-width: 300px; width: 300px; font-size: 0px; padding: 10px 25px; padding-left: 0px; word-break: break-word;"
+                        width="300">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px;">
+                                <a href="https://www.canadianunderwriter.ca/ad/em_CLMS_BB_2/300x250/" target="_blank" alt="CLaims Canada Partnership Big Box 2" rel="noopener"> 
+                                  <img height="auto"
+                                    src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CLMS_BB_2/&sz=300x250"
+                                    style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;"
+                                    width="300" alt="Claims Canada Partnership Big Box 2 Image">
+                                </a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>       
+        </tr>
+    
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+       <![endif]-->
+       <?php for ($i = 6; $i < count($content_items); $i++):
+          $content_item = $content_items[$i];?>
+      <!--[if mso | IE]>
+      <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="bodystory1-outlook" style="width:640px;" width="640"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="bodystory" style="Margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <?php if (!empty($content_item['image'])): ?>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">          
+        <tr>
+      
+            <td
+               class="newsImg-outlook" style="vertical-align:top;width:160px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-25 outlook-group-fix newsImg"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table id="newsImg" border="0" cellpadding="0" cellspacing="0" role="presentation"
+                    style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:110px;">
+                                <a href="<?php echo $content_item['url']; ?>" target="_blank" alt="<?php  echo  $content_item['title'];?>" rel="noopener">
+                                  <img height="auto" src="<?php echo $content_item['image'];?>" alt="Article Image"
+                                    style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:140;"
+                                    width="140">
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>
+              <![endif]-->
+                <?php endif;?>
+                <!--[if mso | IE]>
+            <td
+               class="newsText-outlook" style="vertical-align:top;width:480px;"
+            >
+           <![endif]-->
+
+                <div class="mj-column-per-75 outlook-group-fix newsText"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="left"
+                        style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                        <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_item['url']; ?>" target="_blank" alt="<?php  echo  $content_item['title'];?>" rel="noopener"
+                            style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                            <?php print theme('nc_custom_templates_inline_native_article', array('article' =>  $content_item));
+                                        echo  $content_item['title'];?></a>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $content_item['url']; ?>" target="_blank" alt="<?php echo  $content_item['title'];?>" rel="noopener"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $content_item['summary']; ?>
+                          </a><a href="<?php echo $content_item['url']; ?>" style="text-decoration:none; color:#e01d25" alt="Read More" rel="noopener"> read more</a></div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>        
+        </tr>
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>       <![endif]-->
+      <?php endfor;?>
+        <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+       <![endif]-->
+  
+     <!--[if mso | IE]>
+       <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="bodystory1-outlook" style="width:640px;" width="640"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="bodystory1" style="Margin:0px auto;max-width:640px;">
+      <span style="<?php echo $_css_text_small;?>">advertisement</span>
+        <table align="center"  cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" border="1px solid black">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                
+        <tr>
+      
+            <td
+               class="newsImg-outlook" style="vertical-align:top;width:160px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-25 outlook-group-fix"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                    style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:110px;">
+                                <a href="" target="_blank" alt="Article Image" rel="noopener">
+                                <img src="<?php echo $_dfp_txt_1['img'];?>" alt="<?php echo $_dfp_txt_1['title'];?>" style="<?php echo $_dfp_txt_1['img_style'];?>"/>
+
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>        
+            <td
+               class="newsText-outlook" style="vertical-align:top;width:480px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-75 outlook-group-fix newsText"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="left"
+                        style="font-size:0px;padding:0px 25px;padding-bottom:0px;word-break:break-word;">
+                        <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                          <h3 style="<?php echo $_css_h3_txt;?>"><a href="<?php echo$_dfp_txt_1['href'];?>" target="_blank" alt="<?php echo $_dfp_txt_1['title'];?>" style="<?php echo $_css_h3_a_txt;?>"  rel="noopener"><?php echo $_dfp_txt_1['title'];?></a></h3>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding:0px 25px;word-break:break-word;">
+                      <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                  <p><a href="<?php echo $_dfp_txt_1['href'];?>" target="_blank" style="<?php echo $_css_partner_a;?>;color:#000;"  rel="noopener"><?php echo $_dfp_txt_1['content'];?></a></p>
+                        </div>
+            
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>       
+        </tr>
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+    
+
+      <?php $_item = [];
+if (isset($droppable_feeds['CUW Trending Topics'])):
+    $_item = $droppable_feeds['CUW Trending Topics'];
+    $_item = (!empty($_item['feeds'])) ? $_item['feeds'] : [];
+    ?>
+      <!--[if mso | IE]>
+      <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="trendingTopic-outlook" style="width:640px;" width="640"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="trendingTopic" style="Margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                
+        <tr>
+      
+            <td
+               class="" style="vertical-align:top;width:640px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-100 outlook-group-fix"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:21px;line-height:1;text-align:left;color:#e01d25;">
+                          Trending Topics
+                          <hr noshade="" color="#e01d25" width="100%" size="1"
+                            style="padding:0; margin:8px 0 8px 0; border:none; width:100%; height: 1px; color:#e01d25; background-color: #e01d25">
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>
+                  <![endif]-->
+                <?php if (!empty($_item[0]['image'])): ?>
+                <!--[if mso | IE]>
+            <td
+               class="" style="vertical-align:top;width:160px;"
+           >
+          <![endif]-->
+                <div class="mj-column-per-25 outlook-group-fix"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:140px;">
+                                <a href="<?php echo $_item[0]['url'];?>" alt="<?php echo $_item[0]['title']?>" rel="noopener">
+                                  <img height="auto" src="<?php echo $_item[0]['image'];?>" alt="Article Image"
+                                    style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:140;"
+                                    width="140">
+                                </a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>   
+                  <![endif]-->
+                <?php endif;?>
+                <!--[if mso | IE]>     
+            <td
+               class="" style="vertical-align:top;width:480px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-75 outlook-group-fix"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $_item[0]['url']; ?>" target="_blank" alt="<?php echo  $_item[0]['title'];?>" rel="noopener"
+                            style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                            <?php print theme('nc_custom_templates_inline_native_article', array('article' =>  $_item[0]));
+                                        echo  $_item[0]['title'];?></a>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $_item[0]['url']; ?>" target="_blank" alt="<?php echo  $_item[0]['title'];?>" rel="noopener"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $_item[0]['summary']; ?>
+                          </a><a href="<?php echo $_item[0]['url']; ?>" style="text-decoration:none; color:#e01d25" alt="Read More" rel="noopener"> read more</a></div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>        
+            <td
+              class="besideBB-outlook" style="vertical-align:top;width:320px;"
+           >
+         <![endif]-->
+                <div class="mj-column-per-50 outlook-group-fix besideBB"
+                  style="font-size: 13px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="vertical-align:top;padding:0px;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left"
+                                style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div
+                                  style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                                  <a href="<?php echo $_item[1]['url']; ?>" target="_blank" alt="<?php echo  $_item[1]['title'];?>" rel="noopener"
+                                    style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                                    <?php print theme('nc_custom_templates_inline_native_article', array('article' =>  $_item[1]));
+                                                        echo  $_item[1]['title'];?></a>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                              <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $_item[1]['url']; ?>" target="_blank" alt="<?php echo  $_item[1]['title'];?>" rel="noopener"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $_item[1]['summary']; ?>
+                          </a><a href="<?php echo $_item[1]['url']; ?>" style="text-decoration:none; color:#e01d25" alt="Read More" rel="noopener"> read more</a></div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left"
+                                style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div
+                                  style="font-family:Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#000000;">
+                                  <a href="<?php echo $_item[2]['url']; ?>" target="_blank" alt="<?php echo  $_item[2]['title'];?>" rel="noopener"
+                                    style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">
+                                    <?php print theme('nc_custom_templates_inline_native_article', array('article' =>  $_item[2]));
+                                                        echo  $_item[2]['title'];?></a>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                              <div
+                          style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:1;text-align:left;color:#000000;">
+                          <a href="<?php echo $_item[2]['url']; ?>" target="_blank" alt="<?php echo  $_item[2]['title'];?>" rel="noopener"
+                            style="text-decoration: none;color:#000">
+                            <?php echo $_item[2]['summary']; ?>
+                          </a><a href="<?php echo $_item[2]['url']; ?>" style="text-decoration:none; color:#e01d25" alt="Read More" rel="noopener"> read more</a></div>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>        
+            <td
+               class="" style="vertical-align:top;width:320px;"
+            >
+          <![endif]-->
+                <div class="mj-column-per-50 outlook-group-fix"
+                  style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;"
+                    width="100%">
+                    <tr>
+                      <td align="center" class="BBAd"
+                        style="min-width: 300px; width: 300px; font-size: 0px; padding: 10px 25px; padding-left: 0px; word-break: break-word;"
+                        width="300">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation"
+                          style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px;">
+                                <a href="https://www.canadianunderwriter.ca/ad/em_CLMS_BB_2/300x250/" target="_blank" alt="Claims Canada Partnership Big Box 2" rel="noopener">
+                                  <img height="auto"
+                                    src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CLMS_BB_2&sz=300x250"
+                                    style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;"
+                                    width="300" alt="Claims Canada Partnership Big Box 2">
+                                </a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <!--[if mso | IE]>
+            </td>      
+            </tr>   
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+    <![endif]-->
+      <?php endif?>
+          <!--[if mso | IE]>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="bodystory1-outlook" style="width:640px;" width="640">
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+      <div class="bodystory" style="Margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td>&nbsp; [[--NEWGEN-IMP-TRACKERS-PLACEHOLDER--]]</td>
+            </tr>
+
+            <!-- /////////	NEWCOM  ///////// -->
+            <tr>
+              <td align="center" valign="top" id="footerContainer">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" id="footerBlock">
+                  <tr>
+                    <td align="center" valign="top" id="footerBlockCell">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                        <td align="center" valign="top" class="footerBlockContent" style="color:#333333;font-size: 12px;
+    font-family: sans-serif !important;">
+                                            <br /> &copy;
+                                            <?php echo date('Y'); ?> Newcom Media Inc.
+                                            <br />
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+        </table>
+  </div>
+                <!--[if mso | IE]>
+                            </td>        
+                        </tr>
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+    <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>   
+
+      <![endif]-->
+
+  </div>
+  
+<map name="Map" id="Map">
+  <area shape="rect" coords="8,1,587,92" href="<?php echo _nc_custom_builder_campaign_url( 'https://www.canadianunderwriter.ca/claimscanada/' ); ?>" />
+  <area shape="rect" coords="139,90,212,140" href="<?php echo _nc_custom_builder_campaign_url( 'https://servicemasterrestore.ca/' ); ?>" />
+  <area shape="rect" coords="242,91,288,139" href="<?php echo _nc_custom_builder_campaign_url( 'https://www.adjusterscoop.ca/ask/' ); ?>" />
+  <area shape="rect" coords="317,87,427,140" href="<?php echo _nc_custom_builder_campaign_url( 'https://www.audatex.ca/' ); ?>" />
+  <area shape="rect" coords="458,94,551,143" href="<?php echo _nc_custom_builder_campaign_url( 'http://www.fgsna.com/' ); ?>" />
+
+</map>
+  
+<map name="Map2" id="Map2">
+  <area shape="rect" coords="3,6,297,89" href="<?php echo _nc_custom_builder_campaign_url( 'https://www.canadianunderwriter.ca/claimscanada/' ); ?>" />
+  <area shape="rect" coords="112,92,194,126" href="<?php echo _nc_custom_builder_campaign_url( 'https://servicemasterrestore.ca/' ); ?>" />
+  <area shape="rect" coords="100,123,206,154" href="<?php echo _nc_custom_builder_campaign_url( 'https://www.audatex.ca/' ); ?>" />
+  <area shape="rect" coords="232,97,291,130" href="<?php echo _nc_custom_builder_campaign_url( 'https://www.adjusterscoop.ca/ask/' ); ?>" />
+  <area shape="rect" coords="220,132,286,148" href="<?php echo _nc_custom_builder_campaign_url( 'http://www.fgsna.com/' ); ?>" />
+</map>
+</body>
+  
+</html>

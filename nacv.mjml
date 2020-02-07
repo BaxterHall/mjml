@@ -1,317 +1,332 @@
-<mjml version="3.3.3">
-    <mj-head>
-        <mj-title>The NACV Report</mj-title>
-        <mj-attributes>
-            <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif"></mj-all>
-            <mj-text font-size="14px"></mj-text>
-        </mj-attributes>
-        <mj-style inline="inline">
-            .title{
-                font-weight:700;
-                color:#2B3990;
-            }
-            .BBAd{
-            min-width:300px;
-            width:300px;
-            }
-            @media all and (max-width: 480px) {
-            .no-padding-xs,
-            .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
-            .email-title-wrapper td {
-            padding-left: 10px !important;
-            padding-right: 10px !important;
-            }
-            .besideBB{
-            width:100%
-            }
-            .BBAd{
-            min-width:300px;
-            width:100%;
-            }
-            }
-            @media all and (min-width: 480px) {
-            .email-title-wrapper td {
-            padding-left: 20px !important;
-            padding-right: 20px !important;
-            }
-            }
-        </mj-style>
+<mjml version="4.3.1">
+  <mj-head>
+    <mj-title>The NACV Report</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-size="14px"></mj-text>
+      <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top" padding-top="0px" padding-bottom="0px">
+    </mj-attributes>
+    <mj-style>
+      .title {
+        font-weight: 700;
+        color: #2B3990;
+      }
 
-    </mj-head>
-    <mj-body background-color="#ffffff" color="#55575d" font-family="Arial, sans-serif" width="640px">
-        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-             <mj-column width="100%">
-                <mj-image align="center" src="https://www.todaystrucking.com/wp-content/uploads/2018/01/NACVS_logo_400px-wide-250x84.png"
-                    width="640px" href="http://www.nacvshow.com"></mj-image>
-            </mj-column>
-        </mj-section>
-        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-           <mj-column width="100%">
-                <mj-image src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_LW_LB_T&sz=728x90&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_LB_T/728x90/" />
-            </mj-column>
-        </mj-section>
-        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-            <mj-column css-class="besideBB" width="50%">
-                <mj-text css-class="title">
-                    AN ELECTRIC YEAR </mj-text>
-                <mj-text> December 26, 2018 Vol. 15 No. 25 </mj-text>
-                <mj-text> With the end of 2018 very near at hand, this is the moment when folks like me wrap up the
-                    year and
-                    talk about its highlights. I’ll be no different.
-                </mj-text>
-                <mj-text>
-                    You could legitimately call 2018 the year of the BEV, or battery electric vehicle. The buzz
-                    was
-                    constant, but for the most part it was a lot of very serious enthusiasm and a ton of
-                    engineering
-                    effort without a whole lot of wheels on the ground commercially. Many trials, many demo
-                    units, and
-                    much momentum.
-                </mj-text>
-            </mj-column>
-            <mj-column css-class="besideBB" width="50%">
-                <mj-image css-class="BBAd" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_LW_BB3&sz=300x250&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_BB3/300x250" />
-            </mj-column>
-        </mj-section>
-        <mj-section>
-         <mj-column width="100%">
-                <mj-text>
-                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
-                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
-                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
-                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
-                    are significant. Customers confirm that these trucks really work, the manufacturer says.
-                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
-                    seemingly oblivious to the cold and snow.
-                </mj-text>
-                <mj-text>
-                    As well, BYD has quite a few fully electric trucks on trials and many buses working now,
-                    and the class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport
-                    Services recently added five of the plug-in electric Fusos to its final-mile fleet. Fuso is
-                    a real player, well proven, from a strong manufacturer. I would be willing to bet that Hunt
-                    adds more of them. These first five eCanters will be used for home deliveries in Santa Fe
-                    Springs, Calif., and the greater Houston area.
-                </mj-text>
-            </mj-column>
-        </mj-section>
-        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-            <mj-column width="50%">
-                <mj-text>
-                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all electric,
-                    coming this year
-                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
-                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option with a DC
-                    charger. Operating costs for the eCanter can be as much as $2000 lower than diesel for each 12,000
-                    miles driven, the carrier says.
-                </mj-text>
-                <mj-text>
-                    You could legitimately call 2018 the year of the BEV, or battery electric vehicle. The buzz
-                    was
-                    constant, but for the most part it was a lot of very serious enthusiasm and a ton of
-                    engineering
-                    effort without a whole lot of wheels on the ground commercially. Many trials, many demo
-                    units, and
-                    much momentum.
-                </mj-text>
-            </mj-column>
-            <mj-column width="50%" css-class="imgBorder">
-                <mj-image src="https://www.todaystrucking.com/wp-content/uploads/2018/12/Freightliner-eM2-18C0514_02-crop-400.jpg" />
-                <mj-text css-class="imgCaption"  font-size="12px">A Freightliner eM2 was delivered to Penske Leasing this month, set for full production in 2021.<hr/>
-                </mj-text>
-            </mj-column>
-        </mj-section>
-           <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-           <mj-column width="100%">
-                <mj-text>
-                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all
-                    electric, coming this year
-                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
-                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option
-                    with a DC charger. Operating costs for the eCanter can be as much as $2000 lower than
-                    diesel for each 12,000 miles driven, the carrier says.
-                </mj-text>
-                <mj-text>
-                    “The eCanter demonstrates that the future of electric trucks is very possible and is no
-                    longer a prototype but a real truck delivering real goods daily,” said Justin Palmer,
-                    president and CEO of Mitsubishi Fuso Truck of America, Inc.”
-                    As well, BYD has quite a few fully electric trucks on trials and many buses working now, and the
-                    class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport Services recently added
-                    five of the plug-in electric Fusos to its final-mile fleet. Fuso is a real player, well proven,
-                    from a strong manufacturer. I would be willing to bet that Hunt adds more of them. These first five
-                    eCanters will be used for home deliveries in Santa Fe Springs, Calif., and the greater Houston
-                    area.
-                </mj-text>
-            </mj-column>
-        </mj-section>
-                <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-            <mj-column width="640px">
-                <mj-image src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_LW_LB_M&sz=728x90&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_LB_M/728x90/"  />
-            </mj-column>
-        </mj-section>
-        <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-            <mj-column css-class="besideBB" width="50%">
-                <mj-text>
-                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
-                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
-                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
-                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
-                    are significant. Customers confirm that these trucks really work, the manufacturer says.
-                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
-                    seemingly oblivious to the cold and snow.
-                </mj-text>
-            </mj-column>
-        <mj-column width="50%">
-                <mj-image css-class="BBAd" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_LW_BB2&sz=300x250&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_BB2/300x250" />
+      .BBAd {
+        min-width: 300px;
+        width: 300px;
+        padding: 0px !important;
+      }
 
-            </mj-column>
-        </mj-section>
-             <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-             <mj-column width="100%">
-                <mj-text>
-                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
-                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
-                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
-                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
-                    are significant. Customers confirm that these trucks really work, the manufacturer says.
-                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
-                    seemingly oblivious to the cold and snow.
-                </mj-text>
-                <mj-text>
-                    As well, BYD has quite a few fully electric trucks on trials and many buses working now,
-                    and the class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport
-                    Services recently added five of the plug-in electric Fusos to its final-mile fleet. Fuso is
-                    a real player, well proven, from a strong manufacturer. I would be willing to bet that Hunt
-                    adds more of them. These first five eCanters will be used for home deliveries in Santa Fe
-                    Springs, Calif., and the greater Houston area.
-                </mj-text>
-                </mj-column>
-        </mj-section>
-         <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-            <mj-column width="50%">
-                <mj-text>
-                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all electric,
-                    coming this year
-                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
-                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option with a DC
-                    charger. Operating costs for the eCanter can be as much as $2000 lower than diesel for each 12,000
-                    miles driven, the carrier says.
-                </mj-text>
-                <mj-text>
-                    You could legitimately call 2018 the year of the BEV, or battery electric vehicle. The buzz
-                    was
-                    constant, but for the most part it was a lot of very serious enthusiasm and a ton of
-                    engineering
-                    effort without a whole lot of wheels on the ground commercially. Many trials, many demo
-                    units, and
-                    much momentum.
-                </mj-text>
-            </mj-column>
-              <mj-column width="50%" css-class="imgBorder">
-                <mj-image src="https://www.todaystrucking.com/wp-content/uploads/2018/12/continental-1stDandelionTruckTire_2_crop-400.jpg" />
-               <mj-text css-class="imgCaption"  font-size="12px">A Russian dandelion is a viable alternative to the rubber tree in building tires, says Continental. Who knew?<hr/></mj-text>
-            </mj-column>
-        </mj-section>
+      .mobLogo {
+        display: none;
+        mso-hide: all;
+      }
 
-         <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-             <mj-column width="100%">
-                <mj-text>
-                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all
-                    electric, coming this year
-                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
-                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option
-                    with a DC charger. Operating costs for the eCanter can be as much as $2000 lower than
-                    diesel for each 12,000 miles driven, the carrier says.
-                </mj-text>
-                <mj-text>
-                    “The eCanter demonstrates that the future of electric trucks is very possible and is no
-                    longer a prototype but a real truck delivering real goods daily,” said Justin Palmer,
-                    president and CEO of Mitsubishi Fuso Truck of America, Inc.”
-                    As well, BYD has quite a few fully electric trucks on trials and many buses working now, and the
-                    class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport Services recently added
-                    five of the plug-in electric Fusos to its final-mile fleet. Fuso is a real player, well proven,
-                    from a strong manufacturer. I would be willing to bet that Hunt adds more of them. These first five
-                    eCanters will be used for home deliveries in Santa Fe Springs, Calif., and the greater Houston
-                    area.
-                </mj-text>
-            </mj-column>
-        </mj-section>
-           <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-            <mj-column width="100%">
-                <mj-text>
-                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
-                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
-                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
-                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
-                    are significant. Customers confirm that these trucks really work, the manufacturer says.
-                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
-                    seemingly oblivious to the cold and snow.
-                </mj-text>
-            </mj-column>
-        </mj-section>    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-            <mj-column width="50%">
-                <mj-text>
-                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all electric,
-                    coming this year
-                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
-                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option with a DC
-                    charger. Operating costs for the eCanter can be as much as $2000 lower than diesel for each 12,000
-                    miles driven, the carrier says.
-                </mj-text>
-                <mj-text>
-                    You could legitimately call 2018 the year of the BEV, or battery electric vehicle. The buzz
-                    was
-                    constant, but for the most part it was a lot of very serious enthusiasm and a ton of
-                    engineering
-                    effort without a whole lot of wheels on the ground commercially. Many trials, many demo
-                    units, and
-                    much momentum.
-                </mj-text>
-            </mj-column>
-             <mj-column width="50%" css-class="imgBorder">
-                <mj-image src="https://www.todaystrucking.com/wp-content/uploads/2018/12/lion-electric-Screen-Shot-400.jpg" />
-                <mj-text css-class="imgCaption"  font-size="12px">AThe eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all electric, coming this year<hr/></mj-text>
-            </mj-column>
-        </mj-section>
-    
-           <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
-            <mj-column>
-                <mj-text>
-                    I’m being a little unfair in saying there aren’t many wheels on the ground and working
-                    because, for example, Orange EV’s commercially-deployed fleet of pure electric terminal
-                    trucks are in active use across the U.S., and recently surpassed 211,000 ‘key on’ hours and
-                    675,000 miles. For terminal trucks used mostly in-yard and at lower speeds, these numbers
-                    are significant. Customers confirm that these trucks really work, the manufacturer says.
-                    Orange EV’s commercially deployed fleet is now in its fourth year in northern climates,
-                    seemingly oblivious to the cold and snow.
-                </mj-text>
-                <mj-text>
-                    As well, BYD has quite a few fully electric trucks on trials and many buses working now,
-                    and the class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport
-                    Services recently added five of the plug-in electric Fusos to its final-mile fleet. Fuso is
-                    a real player, well proven, from a strong manufacturer. I would be willing to bet that Hunt
-                    adds more of them. These first five eCanters will be used for home deliveries in Santa Fe
-                    Springs, Calif., and the greater Houston area.
-                </mj-text>
-                <mj-text>
-                    The eLion8 is a tandem-axle class 8 truck or tractor with custom-built frame and cab, all
-                    electric, coming this year
-                    The eCanter has a range of only 80 miles max but it’s well suited for inner-city delivery
-                    applications, according to Hunt. The trucks feature a one-to-two hour fast charge option
-                    with a DC charger. Operating costs for the eCanter can be as much as $2000 lower than
-                    diesel for each 12,000 miles driven, the carrier says.
-                </mj-text>
-                <mj-text>
-                    “The eCanter demonstrates that the future of electric trucks is very possible and is no
-                    longer a prototype but a real truck delivering real goods daily,” said Justin Palmer,
-                    president and CEO of Mitsubishi Fuso Truck of America, Inc.”
-                    As well, BYD has quite a few fully electric trucks on trials and many buses working now, and the
-                    class 4 Fuso eCanter is already commercially available. J.B. Hunt Transport Services recently added
-                    five of the plug-in electric Fusos to its final-mile fleet. Fuso is a real player, well proven,
-                    from a strong manufacturer. I would be willing to bet that Hunt adds more of them. These first five
-                    eCanters will be used for home deliveries in Santa Fe Springs, Calif., and the greater Houston
-                    area.
-                </mj-text>
-            </mj-column>
-        </mj-section>
-    </mj-body>
+      .mobileLb {
+        display: none;
+        mso-hide: all;
+      }
+
+      @media all and (max-width: 480px) {
+
+        .no-padding-xs,
+        .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+        .email-title-wrapper td {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .besideBB {
+          width: 100%
+        }
+
+        .BBAd {
+          min-width: 300px;
+          width: 100%;
+        }
+
+        .fullLogo {
+          display: none !important;
+          mso-hide: all;
+        }
+
+        .mobLogo {
+          display: inline-block !important;
+          text-align: center !important;
+          align: center !important;
+        }
+
+        .desktopLb {
+          display: none !important;
+          mso-hide: all;
+
+        }
+
+        .mobileLb {
+          display: inline-block !important;
+          align: center !important;
+        }
+
+
+      }
+
+      @media all and (min-width: 480px) {
+        .email-title-wrapper td {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .title {
+        font-weight: 700;
+        color: #2B3990;
+      }
+
+      .BBAd {
+        min-width: 300px;
+        width: 300px;
+
+      }
+
+      .mobLogo {
+        display: none;
+        mso-hide: all;
+      }
+
+      .mobileLb {
+        display: none;
+        mso-hide: all;
+      }
+
+      @media all and (max-width: 480px) {
+
+        .no-padding-xs,
+        .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+        .email-title-wrapper td {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .besideBB {
+          width: 100%
+        }
+
+        .BBAd {
+          min-width: 300px;
+          width: 100%;
+          padding: 0px;
+        }
+
+        .fullLogo {
+          display: none !important;
+          mso-hide: all;
+        }
+
+        .mobLogo {
+          display: inline-block !important;
+          text-align: center !important;
+          align: center !important;
+        }
+
+        .desktopLb {
+          display: none !important;
+          mso-hide: all;
+
+        }
+
+        .mobileLb {
+          display: inline-block !important;
+          align: center !important;
+        }
+
+
+      }
+
+      @media all and (min-width: 480px) {
+        .email-title-wrapper td {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+    </mj-style>
+    <mj-preview>November 6, 2019 Volume 1, Number 13 The Atlanta Show in Review</mj-preview>
+  </mj-head>
+  <mj-body background-color="#ffffff" color="#55575d" font-family="Arial, sans-serif" width="640px">
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top" padding-top="0px" padding-bottom="0px">
+      <mj-column css-class="fullLogo" width="100%">
+        <mj-image css-class="fullLogo" align="center" src="https://www.todaystrucking.com/wp-content/uploads/2019/01/NACVS-Newsletter-header-640_V2.jpg" width="640px" href="http://www.nacvshow.com"></mj-image>
+        <mj-image css-class="mobLogo" align="center" src="https://www.todaystrucking.com/wp-content/uploads/2019/01/NACVS-newsletter-Header-300_V2.jpg" width="640px" href="http://www.nacvshow.com"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="0px" text-align="center" vertical-align="top">
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" href="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NR_LB_1&sz=640x90" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NR_LB_1&sz=640x90"></mj-image>
+        <mj-image css-class="mobileLb" align="center" width="300px" href="https://www.todaystrucking.com/ad/em_TT_NR_LB_1/300x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NR_LB_1&sz=300x90"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top" padding-top="0px" padding-bottom="0px">
+      <mj-column css-class="besideBB" width="50%">
+        <mj-text font-weight="700">The Atlanta Show in Review</mj-text>
+        <mj-text font-weight="700"><em>November 6, 2019 Volume 1, Number 13</em></mj-text>
+        <mj-text>Well, the <a href="http://nacvshow.com/">North American Commercial Vehicle Show</a> has come and gone for 2019, having invaded the Georgia World Congress Center in Atlanta for a few days last week. It was chock full of juicy news and announcements, so I'll review the highlights here. That's certainly not to say that I'll be able to cover it all. Not even close.</mj-text>
+
+      </mj-column>
+      <mj-column css-class="besideBB" width="50%">
+        <mj-image css-class="BBAd" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NR_BB_1&sz=300x250&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_LW_BB_1/300x250" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text>This issue of the NACV Newsletter will be the last for the time being, although we'll launch it again in advance of the 2021 show. If you want to continue reading my take on the product and technology news of the day, and don't already subscribe, I refer you to my other newsletter,<a href="https://www.todaystrucking.com/newsletter-archive/lockwood-report/"> The Lockwood Report</a> that's been running for 16 years. These days, that's longevity.</mj-text>
+        <mj-text>As you might guess, the Atlanta affair was a showcase for all manner of very advanced technologies – stratotech, as opposed to high tech, as I've labelled it before. Some are ready to roll now, some a little further away. All will advance the trucking art in some way, dramatically in many cases.</mj-text>'
+        <mj-text>There were also many significant improvements on existing products, like <a href="https://www.meritor.com/technology/">Meritor's</a> new air disc brake, the EX+ LS purpose-built for linehaul and trailer applications. Or <a href="https://www.volvotrucks.ca">Volvo's</a> addition to its lineup, the new VNR 660 model. It offers lighter weight and shorter length for regional-haul customers, with a new high-roof sleeper for added space and comfort. From <a href="https://demanddetroit.com">Detroit</a>, we saw the new DD15 Gen 5 engine, available in 2021 and promising more efficient combustion. And the DT12 automated manual transmission will be updated next year to include higher overall ratios that can deliver better low-speed maneuverability.
+          <mj-text>More on those later, but for now let's look at the biggest news.</mj-text>
+        </mj-text>
+        <mj-text><em><strong>THE BIG NEWS WAS ELECTRIC</strong></em></mj-text>
+        <mj-text>No surprise there, and predictably the star of the show was <a href="http://worldwide.hyundai.com">Hyundai Motor Company's</a> dramatic concept vehicle, the HDC-6 NEPTUNE Class 8 heavy-duty truck. It's a fuel cell electric machine with a range of 950 to 1250 km, and while basically nothing else was divulged about it in terms of technical specs, it represents yet another sign that hydrogen is on its way. It might also signal a future entry into the North American market for the very, very large South Korean outfit.</mj-text>
+        <mj-text>Hyundai is actually a big-time supplier of commercial vehicles. It manufacturers Class 2-8 trucks and buses at three international plants, currently sold in 130 countries around the world. What may be even less well known is that it's one of the top two or three world leaders in the development of fuel cell electric vehicles.</mj-text>
+        <mj-text>In 2013, Hyundai launched the first mass-produced and commercially available fuel-cell electric vehicle and the world’s first production facility for fuel cell vehicles. The NEXO, its second-generation fuel cell electric vehicle with a range of over 610 km, is a three-row SUV. It just set a land speed record at the Bonneville Salt Flats, by the way. In 2018, the company invested $US6.4 billion to accelerate the development of a hydrogen society, looking beyond passenger vehicles.</mj-text>
+        <mj-text>“Today at this show, by showing HDC-6 Neptune, the first hydrogen-only concept for Hyundai Motor Company’s commercial vehicles, we will start exploring opportunities in the United States commercial vehicle market,” said Edward Lee, head of Hyundai's Commercial Vehicle Business Division. “Furthermore, we are willing to work with other partners to pave the way to establish a hydrogen ecosystem for CV.”</mj-text>
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="50%">
+        <mj-text>Hyundai has already expanded its global position in commercialized fuel cell technology for trucks. Through its joint venture with <a href="https://h2energy.ch/en/">H2 Energy</a>, Hyundai is providing 1600 FCEV heavy-duty trucks -- fuel cell versions of its Xcient model -- to the Swiss commercial vehicle market, beginning this year and through to 2023. With entry into the European market done, the U.S. market is an important next phase of the company’s vision.</mj-text>
+        <mj-text>Rather than a photo of the HDC-6 Neptune, which you've probably already seen, the pic you'll see here is of the Xcient hydrogen fuel cell truck. It stands to make an impact much sooner because it's not a concept. It's ready to rock, in Switzerland.</mj-text>
+      </mj-column>
+      <mj-column width="50%" css-class="imgBorder">
+        <mj-image src="https://media.todaystrucking.com/uploads/2019/11/Large-38537-GreenHydrogenAllowsHyundaiHydrogenMobilityandHydrospidertoConnectElectricitywithMobilitySectorsinSwitzerland-crop400.jpg" />
+        <mj-text css-class="imgCaption" font-size="12px">Hyundai is providing 1600 FCEV heavy-duty trucks – fuel cell versions of its Xcient model -- to the Swiss commercial vehicle market between now and 2023</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="100%">
+        <mj-text><em><strong>CUMMINS PURSUES HYDROGEN TOO</strong></em></mj-text>
+        <mj-text>"It's the basic building block of the universe," says <a href="http://cummins.com/fuelcells">Cummins</a> on its website. "And today, hydrogen is an essential element of any power portfolio. The next big thing in clean energy offers absolute purity with no sacrifice in power, no decline in performance, and absolutely no emissions."</mj-text>
+        <mj-text>Like a growing number of others, the company is aggressively ramping up its hydrogen fuel cell research and development efforts. And that's happening alongside an equal push to develop battery electric technology, from deep in the heart of Indiana diesel territory.</mj-text>
+        <mj-text>In Atlanta Cummins unveiled its latest innovation, a badgeless <a href="http://freightlinertrucks.com">Freightliner Cascadia</a> demo tractor with both fuel cell and battery electric power. Its strategy, the company says, is to provide customers with a broad portfolio of power options, from diesel and natural gas, hybrids, to battery electric and hydrogen fuel cell. It also says it's been working with fuel cells for 20 years.</mj-text>
+        <mj-text>“Developing this cutting-edge hydrogen fuel cell truck as a technology demonstrator is an important step in gaining valuable insights that are critical to continue developing the right solutions for the market and preparing for the next 100 years,” said Thad Ewald, vice president, corporate strategy at Cummins and leader of the company’s Electrified Power business.</mj-text>
+        <mj-text>Designed and built by Cummins engineers, the concept tractor features a new, proton exchange membrane (PEM) fuel cell that converts hydrogen into electricity, which is then used to power electric drive motors.</mj-text>
+        <mj-text>The display truck features a 90 kW fuel cell. But the system is scalable to meet both shorter- and longer-range requirements, and can be spec’d with several other versions ranging from 30 kW up to 180 kW in addition to a 100 kWh lithium-ion battery capacity. These combined propulsion systems give the concept truck a range of 240 to 400 km before its hydrogen supply has to be replenished. It's said to be suitable for vocational applications, regional haul, urban delivery operations, port drayage, and terminal container handling.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" href="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NR_LB_2&sz=640x90" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NR_LB_2&sz=640x90"></mj-image>
+        <mj-image css-class="mobileLb" align="center" width="300px" href="https://www.todaystrucking.com/ad/em_TT_NR_LB_2/300x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NR_LB_2&sz=300x90"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column css-class="besideBB" width="50%" padding="0px">
+        <mj-text><strong>CUMMINS ANNOUNCED ITS ELECTRIC</strong> ambitions in 2017, committing to invest in electrification across many applications, markets and regions. Today, two years after unveiling AEOS, a fully electric Class 7 concept truck, the company is supplying battery electric powertrains for transit buses, school buses, light commercial vehicles, and medium-duty trucks. To date, the company has introduced complete electrified powertrain solutions in six markets across seven applications.</mj-text>
+        <mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image css-class="BBAd" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NR_BB_2&sz=300x250&c=181226[account]" href="https://www.todaystrucking.com/ad/em_TT_NR_BB_2/300x250" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="100%">
+        <mj-text>It has also unveiled its new Integrated e-Drive system, a drivetrain that features a motor, transmission and inverter integrated into a single unit. The new traction system, currently in the development phase and expected to launch in the second half of 2022, will simplify the installation for OEMs, reduce weight and volume by 1/3 and improve efficiency by 10% compared to direct drive systems. The architecture allows for a scalable system that can be applied across a range of medium- and heavy-duty commercial vehicles.</mj-text>
+        <mj-text><em><strong>NAVISTAR IS IN THE ELECTRIC GAME</strong></em></mj-text>
+        <mj-text><a href="http://navistar.com">Navistar</a> showed a prototype for a battery-electric drive version of its International MV medium-duty truck, dubbed the eMV, which the OEM is planning to bring to full production by early 2021.</mj-text>
+        <mj-text>As my <a href="http://truckinginfo.com">HDT magazine</a> colleague David Cullen writes, the truck is not only distinguished by its all-electric drive system, but by a highly swooped-down aerodynamic hood -- allowed by the removal of the diesel engine.</mj-text>
+        <mj-text>Based on the current production version of the MV Series, the eMV is powered by an electric motor with peak power of over 474 kW -- or 645 HP -- “allowing it to be able to pull any load required,” according to Navistar</mj-text>
+        <mj-text>The vehicle was designed to accommodate multiple battery capacity options that range from 107 to 321 kWh. Navistar stated that “customers operating a truck with a 321 kWh battery in typical pickup and delivery cycles should expect to be able to travel up to 250 miles on a single charge.”</mj-text>
+        <mj-text>A company spokesperson said that the eMV was developed in part by tapping technology from Navistar’s strategic partner, Germany's <a href="https://traton.com/en">Traton Group</a>, the parent of Volkswagen Trucks, MAN Trucks, and Scania Trucks.</mj-text>
+        <mj-text>Traton’s Brazilian-based business unit,<a href="https://traton.com/en/vw-caminhoes-onibus.html"> Volkswagen Caminhões e Ônibus</a>, already produces an electric medium-duty truck, a 268-hp cabover model called the VW e-Delivery 11, which is slated to go on sale in Mexico in 2021.</mj-text>
+        <mj-text><em><strong>PETERBILT'S ELECTRIC THREESOME</strong></em></mj-text>
+        <mj-text><a href="http://peterbilt.com">Peterbilt</a> showcased its three battery-electric trucks for refuse, regional haul, and city delivery applications at the NACV Show. It currently has 16 zero-emissions trucks in operation collecting real-world mileage, with an additional 21 trucks going into service in the first half of 2020.</mj-text>
+        <mj-text>“Customers will be able to receive pricing information and begin ordering one of Peterbilt’s three electric vehicle configurations in the second quarter of 2020,” said Jason Skoog, Peterbilt general manager.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="50%">
+        <mj-text>A 3PL logistics company based in Napa, CA, placed a Model 579EV in service this month. It uses a <a href="http://www.transpowerusa.com/transportation-products-services/">TransPower energy storage</a> subsystem with a total storage capacity of 264 kWh. It's driven by a <a href="https://www.meritor.com/technology/">Meritor Blue-Horizon</a> mid-ship motor drive with up to 430 hp for a range of about 214 km and a charging time of one hour with a fast-charging system.</mj-text>
+        <mj-text>
+      </mj-column>
+      <mj-column width="50%" css-class="imgBorder">
+        <mj-image src="https://media.todaystrucking.com/uploads/2019/11/Peterbilt-EV-Lineup400.jpg" />
+        <mj-text css-class="imgCaption" font-size="12px">Peterbilt showcased its three battery-electric trucks for refuse, regional haul, and city delivery applications at the NACV Show
+          <hr />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="100%">
+        <mj-text>Frito Lay – a division of PepsiCo – took delivery of the first Peterbilt 220EV in early October. The zero-emissions Model 220EV is powered by two TransPower battery packs with a total storage capacity of 148 kWh, and a Meritor Blue-Horizon two-speed drive eAxle with up to 335 hp. It features a range of more than 160 km and a recharge time as low as one hour with a fast-charger.</mj-text>
+        <mj-text>Also at the show is a Model 520EV designed for the refuse market, powered by a TransPower energy storage subsystem with a total storage capacity of 308 kWh. Like the others it's driven by a TransPower md-ship motor drive with up to 430 hp. Range is about 160 km with a four-hour charge time.</mj-text>
+        <mj-text><em><strong>MERITOR'S ELECTRIC DRIVETRAINS</strong></em></mj-text>
+        <mj-text>As well as its new air disc brake (see below), <a href="http://meritor.com">Meritor</a> made other announcements at the NACV Show, namely two new electric drivetrain offerings.</mj-text>
+        <mj-text>Meritor is expanding its Blue Horizons portfolio of e-drive products with the addition of the 12Xe powertrain for Class 4-7 trucks and the 17Xe powertrain for heavy-duty 4x2 and 6x2 trucks. They're engineered to fit multiple vehicle applications.</mj-text>
+        <mj-text>The 12Xe powertrain's modular design uses many of the same components as Meritor's 14Xe full-electric powertrain, which is now undergoing testing with fleets. Testing of the 12Xe starts next year, and production is slated to begin in 2021. The 12Xe powertrain expands Meritor's electric solutions coverage into Class 4 and 5 applications and into Class 6 and 7 applications with wheels as small as 17.5 in.</mj-text>
+        <mj-text>Truck OEMs can choose from a range of wheel-ends, brakes, transmissions and differential gearing, all tailored to meet a vehicle's duty-cycle.</mj-text>
+        <mj-text>The 17Xe powertrain will deliver 420 kilowatts of continuous power and 450 kilowatts of peak power, and is packaged it to fit easily into the rails of 4x2 trucks. It will also fit 40- and 60-ft city buses.</mj-text>
+        <mj-text>Meritor's new two- and three-speed dual-countershaft transmission is optional on the 12Xe and 14Xe powertrains. Coupled with the right-sized motor, it's said to deliver improved vehicle performance compared to a single-speed or direct-drive system.</mj-text>
+        <mj-text><strong>AND A NEW AIR DISC BRAKE</strong> from Meritor is the EX+ LS, purpose-built for linehaul and trailer applications.</mj-text>
+        <mj-text>“What we tend to do as an industry is develop a brake that is built for refuse, all the way down to medium-duty. It’s a one-size-fits all. So we took more of an optimized approach and that allowed us to take some weight out of the product,” said TJ Reed, vice-president – front drivetrain. It’s promoted as the lightest air disc brake available.</mj-text>
+        <mj-text>But it’s about more than shedding pounds. The company says the design is built to last, and has accumulated more than 1.5 million km of field testing while running through the paces of 330 internal lab tests. It’s taken more than four years to bring it to market.</mj-text>
+        <mj-text>The 86-mm piston diameter is twice as wide as competing models, which Reed says will minimize taper wear and maximize pad life. Adjuster mechanisms have been sealed from the elements, too.</mj-text>
+        <mj-text>Optional features include pad and rotor shields, positive pad retraction that optimizes the running clearance between the pad and rotor to extend pad life, and embedded sensors that can be used as an electronic inspection tool.</mj-text>
+        <mj-text><em><strong>VOLVO EXPANDS ITS VNR LINEUP</strong></em></mj-text>
+        <mj-text><a href="https://www.volvotrucks.ca">Volvo Trucks’</a> new VNR 660 model offers lighter weight and shorter length for regional-haul customers, with a new high-roof sleeper for added space and comfort. It will be available for order in the first quarter of 2020, with limited production starting in March.</mj-text>
+        <mj-text>The VNR 660's 61-inch high-roof sleeper complements the VNR 640 with its mid-roof 61-incher. It will comfortably accommodate an extra person for an overnight stop, says Volvo. There's said to be ample room for a refrigerator, microwave, and television with storage above the driver and passenger seats.</mj-text>
+        <mj-text>The truck has a 164-inch bumper-to-back-of-cab length.</mj-text>
+        <mj-text>The new VNR 660 comes standard with the Volvo D11 engine, the Volvo I-Shift transmission, and Volvo Active Driver Assist (VADA) 2.0, the recently updated comprehensive collision mitigation system.</mj-text>
+        <mj-text>The company continues to work on its VNR electric tractor.</mj-text>
+        <mj-text>“It can drive, we have customers ready to go,” said Peter Voorhoeve, president of Volvo Trucks North America. “It’s in testing mode but we are shipping five right now to California, 18 in 2020, and by the end of 2020 we are ready to sell, ready to take the orders and ready to make this planet a cleaner planet.”</mj-text>
+        <mj-text><em><strong>DETROIT'S PRODUCT UPDATES</strong></em></mj-text>
+        <mj-text><a href="https://demanddetroit.com">Detroit</a> news included the new DD15 Gen 5 engine, available in 2021 and promising more efficient combustion, thus better fuel economy and lower CO2 emissions as well.</mj-text>
+        <mj-text>The DT12 automated manual transmission will be updated next year to include higher overall ratios that can deliver better low-speed maneuverability. And new side-PTO capabilities will add flexibility.</mj-text>
+        <mj-text>The Detroit Connect telematics platform, meanwhile, will be enhanced to include a smart alert system that classifies fault events by the amount of fleet and driver response required. And the remote updates for the <a href="http://freightlinertrucks.com">New Cascadia</a> will be expanded in 2020 to include Firmware Over the Air, addressing changes to things like fuel maps.</mj-text>
+        <mj-text>“Our trucks generate tremendous amounts of data, providing <a href="https://daimler-trucksnorthamerica.com">Daimler Trucks North America</a> with a history on a variety of fault codes. With smart alerts we leverage that,” observed Stefan Kurschner, senior vice-president of the aftermarket. Essentially, these offer insights into whether trucks need to be serviced immediately or can wait.</mj-text>
+        <mj-text><em><strong>ZF BRINGS US THE POWERLINE</strong></em></mj-text>
+        <mj-text><a href="http://zf.com">ZF's</a> 8-speed PowerLine automatic transmission was shown off at the NACV, and it's coming to the North American market.<mj-text>
+        <mj-text>It’s a torque-converter-style automatic transmission and there are more than 15 million of them in markets outside North America. They can handle trucks from Class 3 to Baby 8s. The PowerLine can manage up to 1000 lb ft of torque and gross combination vehicle weights of 57,000 lb.</mj-text>
+
+</mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="50%" padding-right="0px">
+        <mj-text>Compared to competitive six-speed products, ZF said the PowerLine provides 30% faster acceleration and the best power-to-weight ratio in the industry. Christian Feldhaus, head of truck and van driveline technology for ZF in North America, said it offers a passenger car-like driving experience but is designed for commercial applications. The PowerLine will make its North American debut with an unnamed OEM in early 2021.</mj-text>
+  <mj-text>I drove the PowerLine on the Transportation Research Center test track earlier this year and can report that it's one smooth customer with many desirable features.</mj-text>
+      </mj-column>
+      <mj-column width="50%" css-class="imgBorder" padding-left="0px">
+        <mj-image src="https://media.todaystrucking.com/uploads/2019/11/ZF-PowerLinecrop400.jpg" />
+        <mj-text css-class="imgCaption" font-size="12px">ZF's 8-speed PowerLine automatic transmission was shown off at the NACV, and it's coming to the North American market.
+          <hr />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" vertical-align="top">
+      <mj-column width="100%">
+          <mj-text>?At the NACV Show, ZF also highlighted its investments into highly autonomous driving. The company said it will be investing US$13.9 billion into autonomous driving and e-mobility over the next five years.</mj-text>
+          <mj-text><em><strong>SENSORS, SENSORS EVERYWHERE</strong></em></mj-text>
+          <mj-text>My colleague John G. Smith, editor of <a href="http://todaystrucking.com">Today's Trucking</a>, wrote a useful wrap-up of the NACV Show's first couple of days (<a href="https://www.todaystrucking.com/10-early-takeaways-from-the-north-american-commercial-vehicle-show/">access it here</a>) and I'm going to steal one bit about the profusion of sensor-laden products on display.</mj-text>
+          <mj-text>You can sense the growing interest in sensors, he wrote, saying that the trucking industry is measuring more factors than ever before thanks to the power of telematics. The systems are looking well beyond engine parameters, too.</mj-text>
+          <mj-text><a href="https://www.donaldson.com/en-us/engine/filters/">Donaldson</a> announced that it’s joining forces with<a href="https://www.geotab.com"> Geotab</a> to deliver readings from a wireless monitoring system for air filters, with plans to bring its Filter Minder to market in 2020.</mj-text>
+          <mj-text>Pushing out to wheel ends, the <a href="https://www.meritor.com/technology/">Meritor</a> EX+ LS air disc brakes will include the option of embedded sensors that can power an electronic inspection tool. <a href="http://www.maxionwheels.com/News/397/Maxion-Wheels-Unveils-Smart-Wheel-Safety-Technology-for-Comm.aspx">Maxion’s MaxSmart</a> technology will couple with <a href="https://aftermarket.zf.com/go/en/openmatics/home/">ZF Openmatics</a> to measure vehicle load, tire pressure, temperature and humidity, wheel position, speed and vibration.</mj-text>
+          <mj-text>Back in the trailer, <a href="https://www.truck-lite.com">Truck-Lite</a> is adding a volumetric cargo sensor to its Road Ready trailer telematics platform. It will use five sensors to divide trailers into zones and report how much cargo is loaded into each zone.</mj-text>
+          <mj-text><a href="http://www.hendrickson-intl.com">Hendrickson’s</a> Watchman wheel-end sensor for trailers will build on a vehicle area network developed by <a href="http://www.sensata.com">Sensata Technologies</a>. Initial versions will monitor tire pressure, wheel end temperature, and wheel end vibrations. The company is working with the Society of Automotive Engineers to develop communications standards for trailer wheel-end information, too.</mj-text>
+          <mj-text><a href="https://www.aperiatech.com">Aperia Technologies</a>, meanwhile, is preparing for the full rollout of its Halo Connect tire system. While the Halo Tire Inflators use the power of a rotating wheel to create air pressure, Halo Connect actively measures and adjusts tire pressures in real time. Reported pressures are even combined with other tire-related maintenance data and artificial intelligence to categorize tire-related issues by severity.</mj-text>
+          <mj-text><em><strong>WABCO'S INTELLIGENT ABS FOR TRAILERS</strong></em></mj-text>
+          <mj-text><a href="https://www.wabco-auto.com/emea/home">Wabco</a> has introduced an intelligent anti-lock braking system, or 'iABS', for commercial trailers in North America.</mj-text>
+          <mj-text>It's part of the Wabco global intelligent braking platform that enhances trailer system functionality and supports the strategies of trailer manufacturers to increase standardization and modularity, the company says.</mj-text>
+          <mj-text>“In addition to optimizing trailer control during emergency braking by preventing the trailer’s wheels from locking and slipping, Wabco iABS combines with additional sensors to become the ‘brain’ of the trailer, resulting in increased operational effectiveness, improved safety and driver comfort,” said Jon Morrison, president of Wabco Americas.</mj-text>
+          <mj-text>The intelligent braking platform combines iABS and iEBS (intelligent electronic braking system) on one common platform, making the braking systems applicable and easily interchangeable in all countries and regions worldwide, Wabco said.</mj-text>
+          <mj-text>The platform promotes global standardization of ABS and EBS, and streamlines the manufacturing and servicing of trailers, the company added.</mj-text>
+          <mj-text><em><strong>THE WEASEL CLAUSE</strong></em></mj-text>
+          <mj-text>This newsletter is published by <a href="http://newcom.ca">Newcom Media</a> and <a href="http://hfusa.com/">Hannover Fairs USA</a>. It aims to inform readers about what's going on with trucking technology as well as what you could see at the NACV Show. After 13 issues, this is the last for the time being, but we'll launch again in advance of the 2021 show. In the meantime I invite you to have a look at my other fortnightly newsletter, <a href="https://www.todaystrucking.com/newsletter-archive/lockwood-report/">The Lockwood Report. Subscribe here.</a></mj-text>
+          <mj-text>And note that our next show is <a href="https://www.truckworld.ca/">Truck World</a>, coming up next Spring in Toronto. Save the dates -- April 16-18, 2020.</mj-text>
+          <mj-text>I should remind you that, with the odd exception, I don’t endorse any of the products I write about in my e-newsletters, nor do I have the resources to test them except on rare occasions. What you’re getting is reasonably well educated opinion based on 40 years in trucking.</mj-text>
+          <mj-text>I am, by the way, editor at large on <a href="http://todaystrucking.com">Today’s Trucking</a> and executive contributing editor on <a href="http://truckinginfo.com">Heavy Duty Trucking</a> magazines.</mj-text>
+          <mj-text>If you have comments of whatever sort about The NACV Report, please contact me at <a href="mailto:rolf@newcom.ca">rolf@newcom.ca</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
 </mjml>

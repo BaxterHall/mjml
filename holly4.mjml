@@ -1,0 +1,32 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Calibri, Arial, sans-serif" font-size="16px"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>Hi there,
+      A friendly reminder that we are currently working on the last issue of 2019: the December issue of Oral Health journal.
+    </mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif">
+    <mj-section css-class="full" padding="0px">
+      <mj-column>
+        <mj-text>Hi there,</mj-text>
+        <mj-text>A friendly reminder that we are currently working on the last issue of 2019: the <strong>December issue of Oral Health journal.</strong></mj-text>
+        <mj-text>Don’t pass on this opportunity to be part of our winning team of dental publications! Only the Oral Health group of magazines, along with our website, can bring you <span style="text-decoration:underline">unparunparalleled reach and readership, with unmatched editorial content and complete coverage of the Canadian dental market.</span> </mj-text>
+        <mj-text>The <strong>December "Preventative Dentistry” issue of Oral Health</strong> is set to close for space on <strong>November 1st</strong> with a material deadline of <strong>November 8th</strong>. Polybag outserts and direct mail pieces are due on November 20th.</mj-text>
+        <mj-text>A few Spotlight Showcase Enewsletter spots are free in December as well.</mj-text>
+        <mj-text>Don't hesitate to contact me for more information or request a copy of our <strong>2020 Media Kit</strong> if I haven’t already sent a copy to you.</mj-text>
+        <mj-text>Thanks so much,</mj-text>
+        <mj-text font-weight="700" padding-bottom="0px" color="#000">Holly Power</mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px">Account Manager, Oral Health Group - a Division of Newcom Media Inc.</mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px">Cell: 647-970-5643 </mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px"><a href="mailto:holly@newcom.ca" style="color:#6e96b9">holly@newcom.ca </mj-text>
+        <mj-text padding-top="0px" padding-bottom="0px"><a href="mttps://www.oralhealthgroup.com" style="color:#6e96b9">www.oralhealthgroup.com</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

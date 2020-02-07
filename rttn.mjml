@@ -1,0 +1,141 @@
+<mjml>
+  <mj-head>
+    <mj-title>RTTN - eblast</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+    </mj-style>
+    <mj-preview>SECURE YOUR EXHIBIT SPACE!
+      Meet qualified applicants looking to get hired.
+      Join these Companies and start your Fall hiring needs. </mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#ffff" font-family="Arial, sans-serif" width="640px">
+    <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px" src="https://www.rttnexpo.com/wp-content/uploads/2019/07/RTTN-Exhibit-Space-Eblast.png" href="rttnexpo.com/why-attend" />
+      </mj-column>
+    </mj-section>
+           <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+      <mj-divider  border-color="#000" border-width="1px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-text align="center" font-size="40px" color="#000" font-weight="700" padding-bottom="0px">Secure Your Exhibit Space!</mj-text>
+        <mj-text align="center" color="#000" font-size="20px">Meet qualified applicants looking to get hired.
+          Join these Companies and start your Fall hiring needs. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="33%" border-right="1px solid black">
+        <mj-text font-weight="700">Air Canada</mj-text>
+               <mj-text font-weight="700">Arnold Bros. Transport</mj-text>
+        <mj-text font-weight="700">ASL Global Logistics</mj-text>
+        <mj-text font-weight="700">Bison Transport</mj-text>
+        <mj-text font-weight="700">Carmen Transportation</mj-text>
+        <mj-text font-weight="700">CCT Auto Trans</mj-text>
+        <mj-text font-weight="700">Celadon</mj-text>
+        <mj-text font-weight="700">Challenger Motor Freight</mj-text>
+        <mj-text font-weight="700">Coast Capital Savings</mj-text>
+        <mj-text font-weight="700">Contrans Flatbed Group</mj-text>
+        <mj-text font-weight="700">Contrans Tank Group</mj-text>
+        <mj-text font-weight="700">CPC Logistics Canada</mj-text>
+        <mj-text font-weight="700">Day & Ross</mj-text>
+        <mj-text font-weight="700">Drakkar</mj-text>
+        <mj-text font-weight="700">DriverLink</mj-text>
+        <mj-text font-weight="700">Erb Transport</mj-text>
+        <mj-text font-weight="700">Gardewine Group</mj-text>
+        <mj-text font-weight="700">GX Transportation Solutions</mj-text>
+        <mj-text font-weight="700">Hyndman</mj-text>
+      
+      </mj-column>
+      <mj-column padding="0px" width="33%">
+        
+        <mj-text font-weight="700">Kee Human Resources</mj-text>
+        <mj-text font-weight="700">Kriska</mj-text>
+        <mj-text font-weight="700">Laidlaw Carriers Van</mj-text>
+        <mj-text font-weight="700">Linamar Transportation</mj-text>
+        <mj-text font-weight="700">Mill Creek Motor Freight</mj-text>
+        <mj-text font-weight="700">MTO</mj-text>
+        <mj-text font-weight="700">NAL Insurance</mj-text>
+        <mj-text font-weight="700">National Truck League</mj-text>
+        <mj-text font-weight="700">Nova Driver Services</mj-text>
+        <mj-text font-weight="700">PowerLease Program
+          - TFG Financial</mj-text>
+        <mj-text font-weight="700">Premier Bulk</mj-text>
+        <mj-text font-weight="700">Pride Group Logistics</mj-text>
+        <mj-text font-weight="700">Revolution Staffing</mj-text>
+        <mj-text font-weight="700">Rosedale Transport</mj-text>
+        <mj-text font-weight="700">Rush Truck Centre of Canada</mj-text>
+        <mj-text font-weight="700">Ryder Canada</mj-text>
+        <mj-text font-weight="700">Sanimax</mj-text>
+         <mj-text font-weight="700">Schneider</mj-text>
+      </mj-column>
+      <mj-column padding="0px" width="33%" border-left="1px solid black">
+       
+        <mj-text font-weight="700">SGT 2000</mj-text>
+        <mj-text font-weight="700">SM Freight</mj-text>
+        <mj-text font-weight="700">Summit Food Service</mj-text>
+        <mj-text font-weight="700">Sunbury Transport – RST Industries</mj-text>
+        <mj-text font-weight="700">The Seaboard Transport
+          Group of Companies</mj-text>
+        <mj-text font-weight="700">Total Transportation Solution</mj-text>
+        <mj-text font-weight="700">Trailcon Leasing </mj-text>
+        <mj-text font-weight="700">Transport Trailer Sales</mj-text>
+        <mj-text font-weight="700">Transpro Freight Systems</mj-text>
+        <mj-text font-weight="700">TransX Group of Companies</mj-text>
+        <mj-text font-weight="700">Trucking HR Canada</mj-text>
+        <mj-text font-weight="700">Walmart Canada - Fleet</mj-text>
+        <mj-text font-weight="700">Warren Gibson</mj-text>
+        <mj-text font-weight="700">Wilson’s Truck Lines </mj-text>
+        <mj-text font-weight="700">Young Transportation</mj-text>
+        <mj-text font-weight="700">YRC Freight</mj-text>
+     <mj-text font-size="12px"><em>As of August 23, 2019</em></mj-text>
+     
+      </mj-column>
+    </mj-section>
+   
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image src="https://www.rttnexpo.com/wp-content/uploads/2019/08/bar.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-text align="center" font-size="30px" font-weight="700">FREE ENTRY <span style="color:red;">&middot;</span> FREE PARKING</mj-text>
+        <mj-text align="center" font-size="30px"><a href="https://www.rttnexpo.com" style="text-decoration:none;color:red;font-weight:700">www.rttnexpo.com</a></mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400">SATURDAY, SEPTEMBER 14, 2019 &middot; 11 AM - 5PM</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="50%">
+       <mj-text align="center">Event Sponsors:</mj-text>
+        <mj-image padding="0px" src="https://www.rttnexpo.com/wp-content/uploads/2019/08/RTTN-Exhibit-Space-Eblast2.png" width="200px" />
+      </mj-column>
+      <mj-column padding="0px" width="50%" border-left="1px solid black">
+        <mj-text align="center">Contact:</mj-text>
+        <mj-text  align="center"font-weight="700">Kathy Koras</mj-text>
+        <mj-text   align="center"padding-top="0px"><a href="mailto:kathy@newcom.ca" style="text-decoration:none;color:#000">kathy@newcom.ca</a></mj-text>
+        <mj-text   align="center" padding-top="0px"font-weight="700">416.510.6892</mj-text>
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+      <mj-divider  border-color="#000" border-width="1px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+      <mj-text align="center" font-size="30px" font-weight="700">Brought to you by:</mj-text>
+        <mj-image src="https://www.rttnexpo.com/wp-content/uploads/2019/08/trucks.png" width="400px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image src="https://www.rttnexpo.com/wp-content/uploads/2019/08/barrr.png" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,70 @@
+<mjml>
+  <mj-head>
+    <mj-title>Inside Logistics - Workplace Safety & Prevention (WSPS) eBlast - January 16 2020</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+
+    </mj-style>
+    <mj-preview>MORNING KEYNOTE Buffy Taylor
+Director, EHS, SCI Logistics
+Maintaining Safety in a 3PL Environment
+Learn key insights and safety standards from a fast paced warehouse and apply these strategies to your workplace.
+ 
+AFTERNOON KEYNOTE Ian MacKenzie
+National Logistics Manager, Emerald Health Therapeutics
+Bring Your Own Device (BYOD)
+Gain knowledge on how to safely integrate technology into a warehouse environment to ensure optimal performance and productivity.</mj-preview>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="0px" padding-bottom="20px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.insidelogistics.ca/wp-content/uploads/2020/01/header.jpg" href="https://www.wsps.ca/warehousing" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#e5f2fb">
+      <mj-column width="50%" padding="0px"  background-color="#e5f2fb">
+        <mj-text font-weight="700" font-size="13px" padding-bottom="0px"><span style="color:#d06d43">MORNING KEYNOTE</span> Buffy Taylor</mj-text>
+        <mj-text font-size="11px" padding-top="0px" padding-bottom="23px">Director, EHS, SCI Logistics</mj-text>
+         <mj-text font-weight="700"font-size="12px" padding-top="0px" >Maintaining Safety in a 3PL Environment</mj-text>
+        <mj-divider border-width="1px"></mj-divider>
+         <mj-text font-size="12px" padding-top="0px">Learn key insights and safety standards from a
+          fast paced warehouse and apply these strategies
+          to your workplace.</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="0px" background-color="#e5f2fb">
+        <mj-text font-weight="700" font-size="13px" padding-bottom="0px"><span style="color:#d06d43">AFTERNOON KEYNOTE</span> Ian MacKenzie </mj-text>
+        <mj-text font-size="11px"  padding-top="0px">National Logistics Manager, Emerald Health Therapeutics</mj-text>
+      <mj-text font-weight="700" font-size="12px" padding-top="0px">Bring Your Own Device (BYOD) </mj-text>
+        <mj-divider border-width="1px"></mj-divider>
+        <mj-text font-size="12px" padding-top="0px">Gain knowledge on how to safely integrate technology
+into a warehouse environment to ensure optimal
+performance and productivity.</mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#fff">
+      <mj-column width="50%">
+        <mj-text font-weight="700" font-size="13px" color="#0076bf">INFORMATIVE SESSIONS</mj-text>
+        <mj-text padding-top="0px"  font-size="12px" padding-bottom="2px">Learn about Warehouse Safety with a variety of
+sessions aimed to improve your safety performance. </mj-text>
+        <mj-text padding-top="0px" font-size="12px" font-weight="700">Post-conference workshops available!</mj-text>
+      </mj-column>
+      <mj-column width="50%">
+       <mj-text font-weight="700" font-size="13px" color="#0076bf">WHY YOU SHOULD ATTEND?</mj-text>
+       <mj-text padding-top="0px" font-size="12px" padding-bottom="2px">
+       <ul style="margin:0; margin-left: 25px; padding:0px;;color:#0076bf" align="left" type="square">
+        <li style="Margin: 4px 0 4px 0;"><span style="color:#000">Recognize and control risks in a warehouse environment</span></li>
+        <li style="Margin: 4px 0 4px 0;"><span style="color:#000">Network with warehousing and wholesale professionals</span></li>
+        </ul>
+       
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" padding-bottom="20px"background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="640px"src="https://www.insidelogistics.ca/wp-content/uploads/2020/01/footer.jpg" href="https://www.wsps.ca/warehousing" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

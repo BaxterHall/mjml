@@ -1,0 +1,187 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Complete your show guide listing today.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+
+      @media only screen and (max-width:480px) {
+        .noMob {
+          display: none !important;
+          mso-hide: all !important;
+        }
+
+
+        .yesMob {
+          display: inline-block !important;
+          text-align: center !important;
+          align: center !important;
+
+
+        }
+
+        .mobPad {
+          padding-top: 10px !important;
+          ;
+          text-align: center !important;
+          align: center !important;
+        }
+
+        .centerMe {
+          text-align: center !important;
+          align: center !important;
+        }
+
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+    </mj-style>
+    <mj-preview>Everything you need to know before Mode. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#e2e5e7" color="#fff" font-family="Arial, sans-serif" width="640px">
+    <mj-section css-class="noMob" padding="0px" padding-top="20px" background-color="#fff">
+      <mj-column css-class="noMob" background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2020/01/header.jpg" href="http://www.mode-accessories.com" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" padding-top="20px"background-color="#fff">
+      <mj-column css-class="yesMob" padding="0px" width="100%">
+        <mj-image padding="0px" css-class="yesMob" align="center" src="https://www.mode-accessories.com/wp-content/uploads/2019/12/modemobilebanner.png" href="http://www.mode-accessories.com" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="0px">
+      <mj-column width="100%">
+        <mj-text font-size="35px" font-weight="400" color="#cd1b69" align="center">Know before you go</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#d5eeee" padding="0px">
+      <mj-column css-class="noMob" background-color="#d5eeee" padding="0px" width="25%">
+        <mj-image css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2020/01/map.jpg" href="https://www.mode-accessories.com/show-features/" width="177px" padding="0px" />
+      </mj-column>
+      <mj-column background-color="#d5eeee" padding="0px" width="75%">
+        <mj-text color="#1c457f" font-size="20px" padding-top="20px" padding-bottom="0px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#1c457f;font-weight:600">LOCATION</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left" padding-bottom="0px"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#000">Delta Hotels by Marriott Toronto Airport +
+            Conference Centre</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left" padding-top="0px"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#000">
+            655 Dixon Rd, Toronto, ON M9W 1J3.</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f8d8e3" direction="ltr" padding="0px">>
+
+      <mj-column background-color="#f8d8e3" padding="0px" width="70%">
+        <mj-text color="#cb1263" font-size="20px" padding-top="20px" padding-bottom="0px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#cb1263;font-weight:600">SHOW HOURS</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left" padding-bottom="0px"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#000"><strong>Sunday, January 26</strong> 9:00 am – 7:00 pm</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left" padding-bottom="0px"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#000"><strong>Monday, January 27 </strong> 9:00 am – 6:00 pm</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#000"><strong>Tuesday, January 28</strong> 9:00 am – 5:00 pm</a></mj-text>
+      </mj-column>
+      <mj-column css-class="noMob" background-color="#f8d8e3" padding="0px" width="30%">
+        <mj-image css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2020/01/clock.jpg" href="https://www.mode-accessories.com/show-features/" width="177px" padding="0px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#d6ebf2" padding="0px">
+      <mj-column css-class="noMob" background-color="#d6ebf2" padding="0px" width="25%">
+        <mj-image css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2020/01/freeparking2.jpg" href="https://www.mode-accessories.com/show-features/" width="177px" padding="0px" />
+      </mj-column>
+      <mj-column background-color="#d6ebf2" padding="0px" width="75%">
+        <mj-text color="#5181ae" font-size="20px" padding-top="20px" padding-bottom="0px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#5181ae;font-weight:600">FREE PARKING*</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#000"><strong>FREE</strong> parking with proof of purchase of a
+            minimum of $300 wholesale at the show on
+            the same day as your parking tag; otherwise
+            parking is $18 daily.</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#d9dfed" direction="ltr" padding="0px">>
+
+      <mj-column background-color="#d9dfed" padding="0px" width="70%">
+        <mj-text color="#13417a" font-size="20px" padding-top="20px" align="left"><a href="https://www.mode-accessories.com/register/" style="text-decoration:none;color:#13417a;font-weight:600">BADGE</a></mj-text>
+        <mj-text color="#000" font-size="20px" align="left"><a href="https://www.mode-accessories.com/register/" style="text-decoration:none;color:#000">Pick up your badge at the Registration Desk
+            in the South or East Lobby. Please bring a
+            minimum of two (2) pieces of business
+            identification to be verified. To see full list
+            of acceptable identification, click <strong>HERE.</strong></a></mj-text>
+      </mj-column>
+      <mj-column css-class="noMob" background-color="#d9dfed" padding="0px" width="30%">
+        <mj-image css-class="noMob" src="https://www.mode-accessories.com/wp-content/uploads/2020/01/badges.jpg" href="https://www.mode-accessories.com/show-features/" width="177px" padding="0px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="0px">
+      <mj-column width="100%">
+        <mj-text font-size="30px" font-weight="400" color="#cd1b69" align="center"><a href="https://www.mode-accessories.com/show-features/" style="text-decoration:none;color:#cb1263;font-weight:400">Explore the Show</a></mj-text>
+        <mj-text color="#000" font-size="18px" align="left">
+          <ul ul style="padding: 0; Margin: 0 0 0 20px;">
+            <li style="Margin: 10px 0 10px 0;">E200+ exhibitors and 100s of Canadian-made and designed products</li>
+            <li style="Margin: 10px 0 10px 0;">SIP + SHOP on Monday, January 27 from 4:00 pm – 6:00 pm</li>
+            <li style="Margin: 10x 0 10px 0;"> Chance to win prizes</li>
+            <li style="Margin: 10px 0 10px 0;"> View the New Product Showcases</li>
+            <li style="Margin: 10px 0 10px 0;">Free Wi-Fi</li>
+          </ul>
+        </mj-text>
+               <mj-text font-size="30px" font-weight="400" color="#cd1b69" align="center">See you at MODE!</mj-text>
+        <mj-text color="#000" font-size="25px" font-weight="400" color="#000" align="center"><a href="https://www.mode-accessories.com/" style="text-decoration:none;color:#000">mode-accessories.com</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column background-color="#839dc2" padding="0px" width="100%">
+        <mj-text color="#fff" font-size="30px" align="center"><a href="https://www.instagram.com/explore/tags/modeshowcanada/" style="text-decoration:none;color:#fff">#modeshowcanada</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px" padding-bottom="30px">
+      <mj-column padding="20px" width="100%">
+        <mj-text align="center">
+
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://www.facebook.com/modeshowcanada" style="text-decoration:none;">
+            <img src="https://www.mode-accessories.com/wp-content/uploads/2019/11/faceface.png" />
+          </a>
+
+          &nbsp; &nbsp; &nbsp;
+          <a href="https://www.instagram.com/modeshowcanada/" style="text-decoration:none;">
+            <img src="https://www.mode-accessories.com/wp-content/uploads/2019/11/insta.png" />
+          </a>
+          &nbsp; &nbsp; &nbsp;
+          <a href="https://twitter.com/modeshowcanada" style="text-decoration:none;">
+            <img src="https://www.mode-accessories.com/wp-content/uploads/2019/11/tweetweet.png" />
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
