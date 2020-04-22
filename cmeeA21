@@ -1,0 +1,191 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Complete your show guide listing today.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+         .yesMob2 {
+        display: none !important;
+        mso-hide: all !important;
+      }
+
+      .underline1 {
+        text-decoration: underline solid #da45bd;
+      }
+
+      .underline2 {
+        text-decoration: underline solid #33cc99;
+      }
+
+      .underline3 {
+        text-decoration: underline solid #8061a8;
+      }
+
+      @media only screen and (max-width:480px) {
+        .noMob {
+          display: none !important;
+          mso-hide: all !important;
+        }
+
+
+        .yesMob {
+          display: inline-block !important;
+          text-align: center !important;
+          align: center !important;
+
+
+        }
+      .yesMob2 {
+          display: inline-block !important;
+      		width:100% !important;
+
+
+        }
+
+        .mobPad {
+          padding-top: 10px !important;
+          ;
+          text-align: center !important;
+          align: center !important;
+        }
+
+        .centerMe {
+          text-align: center !important;
+          align: center !important;
+        }
+      	.socImg{
+      
+				width:25% !important;
+      	display:inline-block !important;
+
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+       .yesMob2 {
+        display: none !important;
+        mso-hide: all !important;
+      }
+
+      .underline1 {
+        text-decoration: underline solid #da45bd;
+      }
+
+      .underline2 {
+        text-decoration: underline solid #33cc99;
+      }
+
+      .underline3 {
+        text-decoration: underline solid #8061a8;
+      }
+    </mj-style>
+    <mj-preview> Meetings and events and how we hold them will change, but we know they will become more necessary than ever before.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#e2e5e7" color="#fff" font-family="Arial, sans-serif">
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2020/03/CMEE_Header.jpg" href="https://www.cmeexpo.ca" />
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="100%">
+        <mj-text color="#d844bb" font-weight="700" font-size="35px" font-weight="700" padding-bottom="20px"align="center"><a href="https://www.cmeexpo.ca/subscribe/" style="text-decoration:none;color:#2a3b92">New Opportunities</a></mj-text>
+        <mj-text color="#000" font-size="18px" font-weight="400" align="left">Canadian Meetings + Events Expo is set to take place on August 18 + 19.
+Meetings and events and how we hold them will change, but we know they
+will become more necessary than ever before.</mj-text>
+         <mj-text color="#000"  font-size="18px" font-weight="400" align="left">Planners from across the industry flock to CMEExpo to source from various
+industry suppliers for their next meetings and events and CMEExpo will be
+the place to restart.</mj-text>
+         <mj-text color="#000"  font-size="18px" font-weight="400" align="left">Whether you need a large or standard size booth, or want to take advantage
+of our brand new Marketplace concept, we can fit the needs of any event-related exhibitor.</mj-text> <mj-text color="#000"  font-size="18px" font-weight="400" align="left">As Canada’s largest and longest-running industry event, this is our
+opportunity for us to reconnect and rebuild towards the future. Our
+philosophy is simple: We believe that we have to work together and work
+better in order to #SupportEvents.</mj-text> 
+
+  
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" padding-top="0px"width="100%">
+
+        <mj-text color="#000" font-size="18px" font-weight="400" align="center">For more information, contact Heather MacAulay</mj-text>
+         <mj-text color="#000" font-size="18px" padding-bottom="5px" font-weight="400" align="center"><a href="mailto:heatherm@newcom.ca" style="text-decoration:none;color:#2a3b92;font-weight:700">heatherm@newcom.ca</a></mj-text>
+         <mj-text color="#000" font-size="18px" padding-top="30px" font-weight="400" align="center"><a href="https://www.cmeexpo.ca/" style="text-decoration:none;font-weight:400;color:#2a3b92">cmeexpo.ca</a></mj-text>
+   
+
+  
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/fullblackbar.png" href="https://www.cmeexpo.ca" />
+
+       
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="noMob" background-color="#fff" padding="0px" padding-bottom="30px">
+      <mj-column css-class="noMob"background-color="#fff" padding="20px" width="100%">
+        <mj-text css-class="noMob"align="center"> &nbsp; &nbsp; &nbsp;
+          <a css-class="noMob"href="https://www.instagram.com/cmeexpo/" style="text-decoration:none;">
+            <img css-class="noMob"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/instagram.png" />
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://twitter.com/CMEexpo" style="text-decoration:none;">
+            <img css-class="noMob"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/twitter.png" />
+          </a> &nbsp; &nbsp; &nbsp;
+          <a css-class="noMob" href="https://www.facebook.com/CMEexpo/" style="text-decoration:none;">
+            <img css-class="noMob"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/facebook.png" />
+          </a>
+
+          &nbsp; &nbsp; &nbsp;
+          <a css-class="noMob"href="https://www.linkedin.com/company/cmeexpo/" style="text-decoration:none;">
+            <img css-class="noMob"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/linkedin.png" />
+          </a>
+          &nbsp; &nbsp; &nbsp;
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px" padding-bottom="30px">
+      <mj-column css-class="socImg" background-color="#fff" padding-top="20px" padding="0px" width="25%">
+        <mj-text css-class="yesMob2" align="center">
+          <a css-class="yesMob2"href="https://www.instagram.com/cmeexpo/" style="text-decoration:none;">
+            <img css-class="yesMob2"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/instagram.png" />
+          </a>
+                  </mj-text>
+         </mj-column>
+         <mj-column css-class="socImg"background-color="#fff" padding-top="20px" padding="0px" width="25%">
+            <mj-text css-class="yesMob2" align="center">
+          <a css-class="yesMob2"href="https://twitter.com/CMEexpo" style="text-decoration:none;">
+            <img css-class="yesMob2"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/twitter.png" />
+           </a>         </mj-text></mj-column>
+<mj-column css-class="socImg" background-color="#fff" padding-top="20px" padding="0px" width="25%">
+   <mj-text css-class="yesMob2" align="center">
+          <a css-class="yesMob2" href="https://www.facebook.com/CMEexpo/" style="text-decoration:none;">
+            <img css-class="yesMob2"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/facebook.png" />
+          </a>
+             </mj-text>
+        </mj-column>
+         <mj-column css-class="socImg" padding-top="20px" background-color="#fff" padding="0px" width="25%">
+            <mj-text css-class="yesMob2" align="center">
+          <a css-class="yesMob2"href="https://www.linkedin.com/company/cmeexpo/" style="text-decoration:none;">
+            <img css-class="yesMob2" src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/linkedin.png" />
+          </a>
+        
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
