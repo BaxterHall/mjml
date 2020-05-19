@@ -1,0 +1,153 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:25% !important; display:inline-block !important; }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Join us and Heather Reid, founder and CEO of Planner Protect, where she will walk us through what the industry needs to know about contractbefore.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" >
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/05/header.jpg" href="https://attendee.gotowebinar.com/register/7316327799496333580?source=eDirect-DEN" />
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+        <mj-text color="#000" font-size="25px" font-weight="400" padding-bottom="0px" align="center">How living through a crisis can make both </mj-text>
+     <mj-text color="#000" font-size="30px" font-weight="700" padding-bottom="0px" align="center">you and your company
+</mj-text>
+        <mj-text color="#000" font-size="30px" font-weight="700" align="center">stronger
+</mj-text>
+                <mj-divider  border-width="1px" width="100%"></mj-divider>
+      </mj-column>
+          </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="60%">
+        
+        <mj-text color="#000" font-weight="400" font-size="18px" padding-top="15px"align="center">A psychology-based webinar that will address
+transition and preparation for the new normal.</mj-text>
+          <mj-text color="#000" padding-top="0px" font-weight="700" font-size="20px" align="center">Monday, May 25 @ 2pm EDT</mj-text>
+
+        
+
+      </mj-column>
+      <mj-column background-color="#fff" padding="0px" width="20%">
+		<mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/05/button2.jpg" width="200px"href="https://attendee.gotowebinar.com/register/7316327799496333580?source=eDirect-DEN"/>
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+ 
+                <mj-divider  border-width="1px" width="100%"></mj-divider>
+      </mj-column>
+          </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+           <mj-column background-color="#fff" padding="20px" width="35%">
+		<mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/05/barry2.jpg" href="https://attendee.gotowebinar.com/register/7316327799496333580?source=eDirect-DEN"/>
+   <mj-text padding="5px" color="#000" font-weight="700" font-size="14px"align="center">Barry Pokroy, </mj-text>
+             <mj-text padding="3px" color="#000" font-weight="400" font-size="14px"align="center"><em>Partner, Farber Group</em></mj-text>
+      </mj-column>
+      <mj-column background-color="#fff" padding="0px" width="65%">
+        
+        <mj-text color="#ef3e3d" font-weight="700" font-size="18px"align="left">Keynote Speaker: Barry Pokroy</mj-text>
+           <mj-text color="#000" font-weight="400" font-size="18px"align="left">is the founder and leader of Circle & Square, the
+emotional intelligence training, advisory and coaching
+business of Farber. Trained in clinical psychology, he
+has in-depth knowledge and experience in adapting
+the insights of psychological theory to the demands of
+the corporate environment</mj-text>
+
+
+      </mj-column>
+ 
+    </mj-section>
+        <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+ 
+                <mj-divider  border-width="1px" width="100%"></mj-divider>
+      </mj-column>
+          </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+           <mj-column background-color="#fff" padding="20px" width="35%">
+		<mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/05/joe2.jpg" href="https://attendee.gotowebinar.com/register/7316327799496333580?source=eDirect-DEN"/>
+   <mj-text padding="5px" color="#000" font-weight="700" font-size="14px"align="center">Joe Glionna, </mj-text>
+             <mj-text padding="3px" color="#000" font-weight="400" font-size="14px"align="center"><em>President, Newcom</em></mj-text>
+      </mj-column>
+      <mj-column background-color="#fff" padding="0px" width="65%">
+        
+        <mj-text color="#ef3e3d" font-weight="700" font-size="18px"align="left">Agenda:</mj-text>
+        <mj-text color="#000" font-weight="400" font-size="18px"align="left"><b>1.</b> Intro: Welcoming remarks</mj-text>
+        <mj-text color="#000" font-weight="400" font-size="18px"align="left" padding-bottom="3px"><b>2.</b>  Keynote: Defining ‘post traumatic growth’ and how living through a crisis can make you and your company stronger</mj-text>
+         <mj-text color="#000" font-weight="400" padding-left="30px" padding-top="0px"font-size="18px"align="left" padding-bottom="3px"><ul><li>The psychological transition</li>
+   <li>How to prepare for the new normal</li></ul>
+        </mj-text>
+ 
+    <mj-text color="#000" font-weight="400" font-size="18px"align="left" padding-bottom="3px"><b>3.</b> Outlining back to work standards</mj-text>
+ <mj-text color="#000" font-weight="400" padding-left="30px" padding-top="0px"font-size="18px"align="left" padding-bottom="3px"><ul><li>The physical transition</li>
+   <li>A business owner’s perspective on returning to work.</li></ul>
+        </mj-text>
+
+      </mj-column>
+ 
+    </mj-section>
+
+
+
+
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+        <mj-divider  border-width="1px" width="100%"></mj-divider>
+        <mj-button padding="0px" background-color="#0066b3" font-size="18px"href="https://attendee.gotowebinar.com/register/7316327799496333580?source=eDirect-DEN">SPONSOR:</mj-button>
+
+		
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+	<mj-image src="https://media.oralhealthgroup.com/uploads/2020/05/dentalcorp-1.jpg" padding="0px" width="200px"/>
+        <mj-divider  border-width="1px" width="50%"></mj-divider>
+      </mj-column>
+    </mj-section>
+       <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+
+    <mj-text color="#000" font-weight="400" font-size="18px"align="center" padding-bottom="3px">Presented by Circle & Square Inc. and Newcom Media Inc.</mj-text>
+
+		
+      
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="50%">
+
+
+
+			<mj-image src="https://media.oralhealthgroup.com/uploads/2020/05/circsquad.jpg" width="134px"/>
+    
+      </mj-column>
+               <mj-column background-color="#fff" padding="0px" width="50%">
+			<mj-image src="https://media.oralhealthgroup.com/uploads/2020/05/newcom.jpg" width="153px"/>
+       
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+	<mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/05/footer.jpg" />
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
