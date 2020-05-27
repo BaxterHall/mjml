@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Complete your show guide listing today.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:25% !important; display:inline-block !important; }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Providing you a virtual showroom to connect.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#e2e5e7">
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/05/modeshowroom.jpg" href="https://www.mode-accessories.com/virtualshowroom/" />
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" padding-bottom="0px" width="100%">
+        <mj-text color="#000" font-size="17px" font-weight="700"  align="center">A safe place to shop and connect with Mode Exhibitors</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="50%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/05/dress2-1.jpg" href="https://www.mode-accessories.com/virtualshowroom/suzie-blue-canada/" />
+        <mj-text color="#000" font-size="18px" font-weight="700" padding-bottom="0px" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/suzie-blue-canada/" style="text-decoration:none;color:#000">Suzie Blue Canada</a></mj-text>
+        <mj-button background-color="#000" color="#fff" href="https://www.mode-accessories.com/virtualshowroom/suzie-blue-canada/">CONNECT</mj-button>
+      </mj-column>
+      <mj-column background-color="#fff" padding="20px" width="50%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/05/earrings2.jpg" href="https://www.mode-accessories.com/virtualshowroom/pursuits/" />
+        <mj-text color="#000" font-size="18px" font-weight="700" padding-bottom="0px" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/pursuits/" style="text-decoration:none;color:#000">Pursuits</a></mj-text>
+        <mj-button background-color="#000" color="#fff" href="https://www.mode-accessories.com/virtualshowroom/pursuits/">CONNECT</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="50%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/05/necklace2.jpg" href="https://www.mode-accessories.com/virtualshowroom/house-of-jewellery/" />
+        <mj-text color="#000" font-size="18px" font-weight="700" padding-bottom="0px" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/house-of-jewellery/" style="text-decoration:none;color:#000">House of Jewellery</a></mj-text>
+        <mj-button background-color="#000" color="#fff" href="https://www.mode-accessories.com/virtualshowroom/house-of-jewellery/">CONNECT</mj-button>
+      </mj-column>
+      <mj-column background-color="#fff" padding="20px" width="50%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/05/hat2.jpg" href="https://www.mode-accessories.com/virtualshowroom/facinie/" />
+        <mj-text color="#000" font-size="18px" font-weight="700" padding-bottom="0px" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/facinie/" style="text-decoration:none;color:#000">Facinie</a></mj-text>
+        <mj-button background-color="#000" color="#fff" href="https://www.mode-accessories.com/virtualshowroom/facinie/">CONNECT</mj-button>
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px"  width="100%">
+        <mj-text color="#000" font-size="18px" font-weight="700" align="center">Find your next bestseller </mj-text>
+        <mj-text color="#cc9966" font-size="18px" font-weight="400" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/" style="text-decoration:none;color:#cc9966">mode-accessories.com/virtualshowroom</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column background-color="#f7a08d" padding="0px" width="100%">
+        <mj-text color="#fff" font-size="30px" align="center"><a href="https://www.instagram.com/explore/tags/modeshowcanada/" style="text-decoration:none;color:#fff">#modeshowcanada</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="noMob" background-color="#fff" padding="0px" padding-bottom="30px">
+      <mj-column css-class="noMob" background-color="#fff" padding="20px" width="100%">
+        <mj-text css-class="noMob" align="center"> &nbsp; &nbsp; &nbsp;
+          
+             <a css-class="noMob" href="https://www.facebook.com/modeshowcanada" style="text-decoration:none;">
+            <img css-class="noMob"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/facebook.png" />
+          </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a css-class="noMob" href="https://www.instagram.com/modeshowcanada/" style="text-decoration:none;">
+            <img css-class="noMob"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/instagram.png" />
+          </a>&nbsp; &nbsp; &nbsp;
+       <a href="https://twitter.com/modeshowcanada" style="text-decoration:none;">
+            <img css-class="noMob"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/twitter.png" />
+          </a> 
+          &nbsp; &nbsp; &nbsp;
+ 
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px" padding-bottom="30px">
+            <mj-column css-class="socImg" background-color="#fff" padding-top="20px" padding="0px" width="33%">
+        <mj-text css-class="yesMob2" align="center">
+          <a css-class="yesMob2" href="https://www.facebook.com/modeshowcanada" style="text-decoration:none;">
+            <img css-class="yesMob2"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/facebook.png" />
+          </a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="socImg" background-color="#fff" padding-top="20px" padding="0px" width="33%">
+        <mj-text css-class="yesMob2" align="center">
+          <a css-class="yesMob2" href="https://www.instagram.com/modeshowcanada/" style="text-decoration:none;">
+            <img css-class="yesMob2"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/instagram.png" />
+          </a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="socImg" background-color="#fff" padding-top="20px" padding="0px" width="33%">
+        <mj-text css-class="yesMob2" align="center">
+          <a css-class="yesMob2" href="https://twitter.com/modeshowcanada" style="text-decoration:none;">
+            <img css-class="yesMob2"src="https://www.cmeexpo.ca/wp-content/uploads/2019/12/twitter.png" />
+           </a> </mj-text>
+      </mj-column>
+
+
+    </mj-section>
+  </mj-body>
+</mjml>
