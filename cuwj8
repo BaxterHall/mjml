@@ -1,0 +1,103 @@
+<mjml>
+  <mj-head>
+    <mj-title>CUW WEBINAR</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+ COVID-19 and the Economy</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2020/06/COVID19_EBLAST-Part3.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" /> 
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-text color="#000" font-weight="700" font-size="60px" font-weight="400" align="center"> COVID-19 and the Economy <img src=
+"https://media.canadianunderwriter.ca/uploads/2020/06/part1.jpg"></img></mj-text>
+       <mj-text color="#cc2229" font-weight="300" font-size="40px" font-weight="400" align="center"> THE IMPACT OF A<br/>
+RECESSION ON THE<br/>
+CANADIAN P&C INDUSTRY</mj-text>
+      </mj-column>
+    </mj-section>
+   <mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="50%">
+					<mj-image  src="https://media.canadianunderwriter.ca/uploads/2020/06/junebutton.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" padding="0px"></mj-image>
+       
+
+      </mj-column>
+    
+      <mj-column width="50%">
+					<mj-image  src="https://media.canadianunderwriter.ca/uploads/2020/06/registernow.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" padding="0px"></mj-image>
+       
+
+      </mj-column>
+    </mj-section>
+       <mj-section  background-color="#fff">
+      <mj-column width="100%">
+            <mj-text color="#000" font-weight="400" font-size="30px" font-weight="400" align="center"> Social distancing to prevent the spread of the
+novel coronavirus has resulted in a massive
+economic dislocation, triggering an
+economic recession in Canada.</mj-text>
+         <mj-text color="#000" font-weight="400" font-size="30px" font-weight="400" align="center">How will this affect commercial brokerages,
+insurers and the industry as a whole?</mj-text>
+         <mj-text color="#cc2229" font-weight="700" font-size="30px"  align="center" padding-bottom="0px">MODERATED BY:</mj-text>
+         <mj-text color="#000" font-weight="700" font-size="30px"  align="center" padding-bottom="0px">David Gambrill, </mj-text>
+            <mj-text color="#000" font-weight="400" font-size="30px"  align="center" padding-bottom="0px"><em>Editor in Chief, Canadian Underwriter</em></mj-text>
+   
+
+
+      </mj-column>
+    </mj-section>    
+    <mj-section background-color="#fff">
+      <mj-column background-color="#cc2229" padding="0px" width="100%">
+        <mj-text color="#fff" font-size="30px" align="center">PANELLISTS</mj-text>
+      </mj-column>
+    </mj-section>
+   <mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="50%">
+					<mj-image  src="https://media.canadianunderwriter.ca/uploads/2020/06/guy1.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" ></mj-image>
+             <mj-text color="#000" font-weight="700" font-size="30px"  align="left" padding-bottom="0px">Alister Campbell</mj-text>
+
+              <mj-text color="#000" font-weight="400" font-size="20px"  align="left" padding-bottom="0px"><em>President & CEO, PACICC</em></mj-text>
+      </mj-column>
+    
+      <mj-column width="50%">
+					<mj-image  src="https://media.canadianunderwriter.ca/uploads/2020/06/guy2.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" ></mj-image>
+                         <mj-text color="#000" font-weight="700" font-size="30px"  align="left" padding-bottom="0px">Roger Hacala</mj-text>
+
+              <mj-text color="#000" font-weight="400" font-size="20px"  align="left" padding-bottom="0px"><em>TIC Past President and National Practice Leader, BFL Canada Risk & Insurance Services Inc.</em></mj-text>
+
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="50%">
+					<mj-image  src="https://media.canadianunderwriter.ca/uploads/2020/06/guy3.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" ></mj-image>
+                            <mj-text color="#000" font-weight="700" font-size="30px"  align="left" padding-bottom="0px">Saad Mered</mj-text>
+
+              <mj-text color="#000" font-weight="400" font-size="20px"  align="left" padding-bottom="0px"><em>CEO & Chief Agent,
+Zurich Canada</em></mj-text>
+      </mj-column>
+    
+      <mj-column width="50%">
+				<mj-image  src="https://media.canadianunderwriter.ca/uploads/2020/06/junebutton.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" ></mj-image>
+       		<mj-image  src="https://media.canadianunderwriter.ca/uploads/2020/06/registernow.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" ></mj-image>
+              <mj-text color="#000" font-weight="400" font-size="20px"  align="center" padding-bottom="0px">SPONSORED BY: </mj-text>
+            		<mj-image  src="https://media.canadianunderwriter.ca/uploads/2020/06/zurich.jpg" width="197px"> </mj-image>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
