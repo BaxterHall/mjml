@@ -1,0 +1,106 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+    li {
+
+  color: #0591c9; 
+}
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Learn how to successfully integrate botulinum toxin and dermal fillers into your practice with PTIFA’s
+anatomy and evidence-based training.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/06/banner.jpg" href="https://ptifa.com/course/level-1-advanced-anatomy-review-intro-to-botulinum-toxin-dermal-filler/" /> 
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+         <mj-text color="#000" font-weight="400" font-size="17px" align="left">Learn how to successfully integrate botulinum toxin and dermal fillers into your practice with PTIFA’s
+anatomy and evidence-based training.</mj-text>
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/image1.jpg" href="https://ptifa.com/course/level-1-advanced-anatomy-review-intro-to-botulinum-toxin-dermal-filler/" /> 
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+         <mj-text color="#6d6e71" font-weight="700" font-size="20px" align="left" padding-bottom="0px">BoNT-A: for Therapeutic & Aesthetic Treatments</mj-text>
+          <mj-text color="#000" font-weight="400" font-size="17px" align="left">Learn how to use botulinum toxin to treat:
+        <ul>
+          <li><span style="color:#000">Parafunctional Habits: Bruxing, Clenching, Grinding</span></li>
+            <li><span style="color:#000">Symptoms of TMD: Pain & Tenderness in the Muscles of the Head & Neck</span></li>
+            <li><span style="color:#000">Headache & Migraine</span></li>
+           <li><span style="color:#000">Fine Facial Lines & Wrinkles</span></li>
+				</ul></mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+         <mj-text color="#0591c9" font-weight="700" font-size="25px" align="center">Start Today with the online<br/>
+Level 1 Advanced Anatomy Course - 20 CE</mj-text>
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image align="left" src="https://media.oralhealthgroup.com/uploads/2020/06/image2.jpg" width="400px" href="https://ptifa.com/course/level-1-advanced-anatomy-review-intro-to-botulinum-toxin-dermal-filler/" /> 
+      </mj-column>
+    </mj-section>
+            <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+         <mj-text color="#000" font-weight="400" font-size="17px" align="left" padding-bottom="0px">Level 1 online provides you with the foundations for offering both the aesthetic & therapeutic applications of injectables.</mj-text>
+          <mj-text color="#000" font-weight="400" font-size="17px" align="left" padding-bottom="0px">Begin with an in-depth review of head & neck anatomy and its relevance to the administration and
+pharmacology of botulinum toxins, dermal fillers and other non-aesthetic therapies and procedures.</mj-text>
+          <mj-text color="#000" font-weight="400" font-size="17px" align="left" padding-bottom="0px">Level 1 provides 20 hrs of online advanced anatomy learning – incl. an online e-Cadaver and e-Skull
+lab, its relevancy to the administration and pharmacology of botulinum toxin type A and to other
+aesthetic and non-aesthetic therapies and procedures, proper photography, record keeping, office
+integration & more.</mj-text>
+          <mj-text color="#000" font-weight="400" font-size="17px" align="left" padding-bottom="0px">Level 1 online is a prerequisite for attending the <a href="https://ptifa.com/course/level-2-basic-botulinum-toxin-cosmetic-upper-face-pain-management/" style="text-decoration:none;color:#000">Level 2 hands-on.</a></mj-text>
+      </mj-column>
+    </mj-section>
+       <mj-section  background-color="#fff">
+      <mj-column width="100%">
+        <mj-button href="https://ptifa.com/course/level-1-advanced-anatomy-review-intro-to-botulinum-toxin-dermal-filler/" background-color="#0591c9" font-size="20px">REGISTER NOW</mj-button>
+   
+ <mj-text color="#0591c9" font-weight="700" font-size="20px" align="center" padding-bottom="0px">SAVE $600</mj-text>
+         <mj-text color="#000" font-weight="700" font-size="18px" align="center" padding-bottom="0px">Register by June 26 & use the Promo Code: <span style="color:#0591c9">ohealth</span></mj-text>
+
+      </mj-column>
+    </mj-section>
+            <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+         <mj-text color="#000" font-weight="700" font-size="20px" align="left" padding-bottom="0px">Objectives:</mj-text>
+          <mj-text color="#000" font-weight="400" font-size="17px" align="left">
+        <ol>
+          <li><span style="color:#000">Understand what clinical systems are required in order to effectively integrate facial rejuvenation
+procedures, including botulinum toxin and dermal fillers into any type of dental or medical practice.</span></li>
+            <li><span style="color:#000">Develop a deep understanding of head and neck anatomy.</span></li>
+            <li><span style="color:#000">Understand the importance of detailed patient history taking and learn the industry’s leading Roberts Facial Rejuvenation Photography™ series (29+ photos) for photographic documentation.</span></li>
+
+            </ol></mj-text>
+            <mj-text color="#000" font-weight="400" font-size="17px" align="left" padding-bottom="0px">OPTIFA is an ADA CERP recognized provider. ADA CERP is a service of the American Dental Association to assist dental professionals in identifying quality providers with continuing dental education.
+ADA CERP does not approve or endorse individual courses or instructors, nor does it imply acceptance of credit hours by boards of dentistry. PTIFA designates Level 1 for 20 hours of continuing
+education credits.</mj-text>
+         <mj-image align="left" src="https://media.oralhealthgroup.com/uploads/2020/06/adacerp.jpg" width="214px" href="https://ptifa.com/course/level-1-advanced-anatomy-review-intro-to-botulinum-toxin-dermal-filler/" /> 
+      </mj-column>
+    </mj-section>
+
+       
+ 
+  </mj-body>
+</mjml>
