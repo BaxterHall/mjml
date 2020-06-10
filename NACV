@@ -1,0 +1,127 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+    li {
+
+  color: #0591c9; 
+}
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>As we work in earnest to make the 2021 North American
+Commercial Vehicle (NACV) Show the best one yet, we
+want to establish regular communication with you to keep
+you up to date on changes, improvements and our progress..</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.trucknews.com/wp-content/uploads/2020/06/header.jpg" href="https://nacvshow.com/" /> 
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.trucknews.com/wp-content/uploads/2020/06/truck.jpg" href="https://nacvshow.com/" /> 
+      </mj-column>
+    </mj-section>
+       <mj-section padding="0px" background-color="#fff">
+      <mj-column  width="65%">
+       <mj-text font-size="25px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#00aeef">2021 NACV Show</mj-text>
+           <mj-text font-size="16px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#104ba0">As we work in earnest to make the <b>2021 North American
+Commercial Vehicle (NACV) Show </b>the best one yet, we
+want to establish regular communication with you to keep
+you up to date on changes, improvements and our progress.</mj-text>
+        <mj-divider width="100%" border-color="#e7e7e8"></mj-divider>
+          <mj-text font-size="25px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#00aeef">Some Changes – Improvements –
+That We Think You’ll Appreciate</mj-text>
+       
+          <mj-table>
+						<tr>
+              <td class="makeBig" style="vertical-align:top">
+                 <p style="font-size:25px;font-weight:700;font-family:Helvetica, Arial, sans-serif;color:#104ba0">3-day Event</p>
+                 <p style="font-family:Helvetica, Arial, sans-serif">Based on your feedback we are
+moving towards making NACV
+Show 2021 a 3-day trade show
+cutting by one full day</p>
+                  <img src="https://www.trucknews.com/wp-content/uploads/2020/06/dates.jpg"/>
+            
+							</td>
+                <td class="makeBig" style="border-left:5px solid #e7e7e8;padding-left:5px;vertical-align:top">
+                   <p style="font-size:25px;font-weight:700;font-family:Helvetica, Arial, sans-serif;color:#104ba0;">One Hall</p>
+                 <p style="font-family:Helvetica, Arial, sans-serif">With the construction of
+additional space adjacent to
+the Georgia World Congress
+Center’s Hall B, we will be
+able to bring all the nearly 500
+exhibiting companies at NACV
+Show back in to one hall.</p>
+							</td>
+						</tr>
+				</mj-table>
+
+      </mj-column>
+            <mj-column padding="0px" width="35%">
+        <mj-image padding="0px" css-class="centerMe" align="right" src="https://www.trucknews.com/wp-content/uploads/2020/06/siderbar.jpg" href="https://nacvshow.com/" /> 
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+				<mj-divider border-color="#e7e7e8" border-width="5px"></mj-divider>
+           <mj-text font-size="25px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif"color="#00aeef">What We’ve Been Working On</mj-text>
+         <mj-text font-size="15px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif">Many thanks to many of you who have taken part in our ongoing surveys, focus groups and one-on-one interviews,
+allowing us to get much deeper to understanding the challenges facing today’s commercial vehicle fleets of all size.
+These discussions have helped us to understand how best to provide you with the content, products and technologies
+to help you operate your fleets more efficiently and profitably while preparing for 2022 and beyond.</mj-text>
+               <mj-text font-size="20px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" padding-bottom="0px" color="#104ba0">Content</mj-text>
+         <mj-text font-size="15px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif">Yes, with the overwhelming success of the education provided by our partners at NACV Show 2021, we are
+committed to ensuring we provide you not only access to products and technologies to operate your fleet, but the
+education, networking and relationships to get you there.</mj-text>
+        <mj-text font-size="20px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" padding-bottom="0px" color="#104ba0">Partnerships</mj-text>
+         <mj-text font-size="15px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif">Based on your feedback we’ve been able to strengthen existing relationships – and establish new ones – in supporting
+the strategy development and execution of NACV Show 2021. This process is ongoing, and we are happy to share
+and promote these partnerships to you.</mj-text>
+       
+       
+      </mj-column>
+    </mj-section>
+            <mj-section background-color="#fff">
+      <mj-column background-color="#104ba0"padding="0px" width="60%">
+			
+           <mj-text font-size="20px" color="#fff"font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" padding-bottom="2px">Updates</mj-text>
+        	<mj-divider border-color="#fff" border-width="1px"></mj-divider>
+         <mj-text font-size="14px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#fff" padding-top="5px">We will be sending out monthly updates on our progress. If you
+would prefer not to receive these updates but do want to receive
+major updates on the show (registration opening, etc.), please
+click the following link: <a href="https://nacvshow.com/nacv-show-2021/" style="text-decoration:none;font-weight:700;color:#00aeef">nacvshow.com/nacv-show-2021</a></mj-text>
+
+         <mj-text font-size="14px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#fff" padding-top="3px">If you have any questions, please reach out to me directly.<br/>
+           <b>STAY SAFE!</b></mj-text>
+        <mj-text font-size="15px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#fff" padding-top="8px"><b>Ed Nichols</b><br/>
+ <em>Vice President,</em><br/>
+ <em>NACV Show</em></mj-text>
+
+       
+       
+      </mj-column>
+      <mj-column css-class="centerMe" width="40%">
+            <mj-image padding="0px" css-class="centerMe" align="right" src="https://www.trucknews.com/wp-content/uploads/2020/06/bog.jpg" href="https://nacvshow.com/" /> 
+		</mj-column>
+    </mj-section>
+
+
+
+
+       
+ 
+  </mj-body>
+</mjml>
