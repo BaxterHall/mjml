@@ -1,0 +1,88 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG SURGITEL</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Protect yourself with SurgiTel’s loupe-custom face shield and wrap-around Oakley loupes. This Oakley style also protects the US Military.d</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+
+    <mj-section  background-color="#fff">
+      <mj-column width="100%">
+        <mj-text color="#000" font-weight="700" font-size="20px" font-weight="400" align="center">Loupe-Custom Face Shield with Wrap-around, Oakley Loupes</mj-text>
+			<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/mask1.jpg" width="234px" href="#"></mj-image>
+    <mj-text color="#000" font-weight="400" font-size="16px" font-weight="400" align="center">Protect yourself with SurgiTel’s loupe-custom face shield and wrap-around Oakley loupes. This Oakley style also protects the US Military. </mj-text>
+        <mj-text color="#000" font-weight="400" font-size="16px" font-weight="400" align="center"><a href="http://www.surgitel.com/covid19">Contact us right away to order as supplies are limited! - Click here</a></mj-text>
+
+        <mj-divider border-width="1px"></mj-divider>
+        
+          <mj-text color="#000" font-weight="400" font-size="16px" font-weight="400" align="center">Our field representatives can accommodate any special requirements you have for in-person or
+remote meetings</mj-text>
+        
+         <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+        <mj-section  background-color="#fff">
+      <mj-column width="30%">
+
+			<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/sideimage.jpg" width="209px" padding="0px" href="https://www.surgitel.com/Covid19"></mj-image>
+
+
+      </mj-column>
+              <mj-column width="60%">
+
+    <mj-text color="#000" font-weight="400" font-size="16px" font-weight="400" align="left">Work comfortably while protecting your long-term health and
+career with SurgiTel’s ergonomic loupes and eye-safe LEDs.
+Read our white papers on: 
+                <ul>
+										<li><a href="https://www.surgitel.com/images/EPN/SurgiTel%20ErgoPractice%20News%202018-05.pdf">Loupe Ergonomics - Click here</a> </li>
+                  <li><a href="https://www.surgitel.com/images/EPN/SurgiTel%20ErgoPractice%20News%202019-11.pdf">LED Headlight Safety - Click here </a> </li>
+								</ul></mj-text>
+      </mj-column>
+    </mj-section>
+   <mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="100%">
+				
+
+
+      </mj-column>
+   
+    </mj-section>
+       <mj-section  background-color="#fff">
+      <mj-column border="3px dotted black" width="100%">
+    <mj-text color="#000" font-weight="700" font-size="19px" font-weight="400" align="center">Limited Time Special! </mj-text>
+
+
+
+   <mj-text color="#000" font-weight="400" font-size="16px" font-weight="400" align="center">Purchase any Loupe and Light Combo and receive:</mj-text>
+            <mj-text color="#000" font-weight="700" font-size="25px" font-weight="400" align="center">$200 Off</mj-text>
+          <mj-text color="#000" font-weight="400" font-size="16px" font-weight="400" align="center"><a href="http://www.surgitel.com/myrep">Click here to redeem with your local representative </a></mj-text>
+          <mj-text color="#000" font-weight="400" font-size="12px" font-weight="400" align="center">  Discount is off list price. This offer expires on 7/15/20 </mj-text>
+      
+
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column width="100%">
+
+        
+          <mj-text color="#000" font-weight="400" font-size="16px" font-weight="400" align="center">Visit our website for our full recommendations for working with protection: <a href="https://www.surgitel.com/Covid19" style="text-decoration:none;color:#000">www.SurgiTel.com/Covid19 </a></mj-text>
+        
+         <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
