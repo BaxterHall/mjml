@@ -1,0 +1,112 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+    
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+Don’t miss this opportunity to gain insight into the benefits of a Daily Huddle meeting and how it can help improve production, efficiency and profitability!</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+
+        <mj-section padding-bottom="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/06/ohgheader.jpg" href="https://register.gotowebinar.com/register/4327616601332435469?source=Oral+Health+ebalst" /> 
+      </mj-column>
+    </mj-section>
+           <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+ <mj-button href="https://ppe.surewerx.com" background-color="#243666" font-size="18px"color="#fff">Register Now</mj-button>
+      </mj-column>
+    </mj-section>
+           <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+ <mj-text font-size="20px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif"color="#243666">Don’t miss this opportunity to gain insight into the benefits
+of a Daily Huddle meeting and how it can help improve
+production, efficiency and profitability!</mj-text>
+      </mj-column>
+    </mj-section>
+       <mj-section padding="0px" background-color="#fff">
+      <mj-column  width="65%">
+           <mj-text font-size="15px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#000">Join us to learn how you can improve your staff’s
+efficiency and be more profitable through reports
+and most importantly, daily morning huddles, or
+mini-meetings, with your team. Whether or not
+your team is currently having daily huddles, this
+no-cost webinar can help you get the most from
+these meetings by showing you how to leverage
+reports available from an effective practice
+management system. Topics to be discussed
+will include: 
+           <ul style="padding: 0; Margin: 0 0 0 40px;">
+             <li style="Margin: 10px 0 10px 0;">Who should be involved in the morning huddle
+meeting and what should their roles be?</li>
+             <li style="Margin: 10px 0 10px 0;">What topics should be reported on and
+discussed at these meetings and can reports
+be customized?</li>
+               <li style="Margin: 10px 0 10px 0;">Tips for building the routine of a Daily Huddle
+meeting</li>
+             <li style="Margin: 10px 0 10px 0;">Proactive planning tips for office management
+post-pandemic: patient flow, productivity during
+downtime, and new scheduling tactics</li>
+             <li style="Margin: 10px 0 10px 0;">Other reports that benefit the practice on a
+weekly and monthly basis and how to
+automate them</li>
+
+					</ul>
+ </mj-text>
+      </mj-column>
+            <mj-column padding="0px" width="35%">
+        <mj-image padding="0px" css-class="centerMe" align="right" src="https://media.oralhealthgroup.com/uploads/2020/06/sidebar.jpg" href="https://register.gotowebinar.com/register/4327616601332435469?source=Oral+Health+ebalst" /> 
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+
+         <mj-text font-size="15px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif">This webinar is for Dentists and Office Managers who want to learn best practices and insider
+tips from an experienced Dental Business Manager and take a glimpse into how the Practice
+Management Solution, Dentrix, can help you achieve a more productive practice. </mj-text>
+
+         <mj-text font-size="15px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif">This webinar will be recorded for those unable to attend. </mj-text>
+    
+        <mj-button href="https://ppe.surewerx.com" background-color="#243666" font-size="18px"color="#fff">Register Now</mj-button>
+       
+        <mj-text font-size="15px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif">This webinar is for Dentists and Office Managers who want to learn best practices and insider
+tips from an experienced Dental Business Manager and take a glimpse into how the Practice
+Management Solution, Dentrix, can help you achieve a more productive practice. </mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section padding-top="0px"background-color="#fff">
+      <mj-column padding="0px" width="50%">
+             
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/Oral-Health_Webinar-eblast_June18.jpg" width="167px" />
+
+
+       
+       
+      </mj-column> <mj-column padding="0px" width="50%">
+             
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/dentrix.jpg" width="137px"/>
+
+
+       
+       
+      </mj-column>
+    </mj-section>
+
+
+       
+ 
+  </mj-body>
+</mjml>
