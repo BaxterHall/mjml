@@ -1,0 +1,70 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Complete your show guide listing today.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:25% !important; display:inline-block !important; }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }}
+    </mj-style>
+    <mj-preview> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.insidelogistics.ca/wp-content/uploads/2020/06/email-heading.jpg" href="hhttps://register.gotowebinar.com/register/5937164185929558030?utm_medium=email&_hsmi=2&_hsenc=p2ANqtz-8STWjwiknh2IXvOghMapXe_cHVS02FlFw7E8yMtkYpMlEynFxy33KBC51r_HwZH-VsQAgTbkksI2XE_Ogtt-aM0b-o4Q&utm_content=2&utm_source=hs_email" />
+        <mj-divider padding="0px" border-width="10px" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" padding-bottom="0px" width="100%">
+        <mj-text color="#002060" font-size="20px" font-weight="700" padding-bottom="0px" align="left">Complimentary Webinar:</mj-text>
+           <mj-text color="#ffa200" font-size="17px" font-weight="700" padding-bottom="0px" align="left">Is fleet outsourcing right for you?</mj-text>
+<mj-text color="#002060" font-size="17px" font-weight="400" align="left"> We invite you to be part of the dialogue on <b>Thursday, June 25th, at 1:00 p.m.,</b> as David
+Zavitz, Chief Administrative Officer, at Canada Cartage, leads a discussion on whether
+outsourcing your company’s fleet is the right strategy for your business.</mj-text>
+        <mj-text color="#002060" font-size="17px" font-weight="400" align="left"> This <b>60-minute webinar</b> will walk you through the pros and cons of fleet outsourcing and
+how to determine your private fleet's total cost of ownership. As well, find out how and
+why Weston Forest Products, a mid-size company, converted their private fleet to a
+dedicated outsourced fleet.</mj-text>
+          <mj-text color="#ffa200" font-size="17px" font-weight="700" align="left">Webinar attendees will learn about...</mj-text>
+        <mj-text color="#002060" font-size="17px" font-weight="400" align="left"><ul>
+          <li>What is “fleet outsourcing”</li>
+<li>What are the benefits of fleet outsourcing</li>
+          <li>What are the risks of fleet outsourcing </li>
+          <li>Determining the “total cost of ownership” of your fleet – both hard and soft
+costs</li><li> Case Study: Weston Forest Products</li>
+          <li>The process to determine if fleet outsourcing makes sense for your company</li>
+			</ul></mj-text>
+         <mj-text color="#002060" font-size="17px" font-weight="400" align="left"> Business leaders, <b>Is fleet outsourcing right for you?</b> Get your questions answered
+during this complimentary webinar.</mj-text>
+         <mj-text color="#002060" font-size="17px" font-weight="400" align="left"><em>Can't attend? Sign up anyway and we'll send you the recording.</em> </mj-text>
+      </mj-column>
+      
+    </mj-section>
+ 
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" padding-top="0px" width="100%">
+        <mj-image src="https://www.insidelogistics.ca/wp-content/uploads/2020/06/Presenter.jpg" width="175px" href="https://register.gotowebinar.com/register/5937164185929558030?utm_medium=email&_hsmi=2&_hsenc=p2ANqtz-8STWjwiknh2IXvOghMapXe_cHVS02FlFw7E8yMtkYpMlEynFxy33KBC51r_HwZH-VsQAgTbkksI2XE_Ogtt-aM0b-o4Q&utm_content=2&utm_source=hs_email"/>
+           <mj-text  align="center" color="#ffa200" font-size="19px" font-weight="700" >Presenter</mj-text>
+           <mj-text  align="center" color="#002060" font-size="17px" font-weight="700" padding-bottom="0px">David Zavitz</mj-text>
+                   <mj-text  align="center" color="#002060" font-size="17px" font-weight="400" padding-bottom="0px">Chief Administrative Officer</mj-text><mj-text  align="center" color="#002060" font-size="17px" font-weight="400" >Canada Cartage</mj-text>
+			<mj-button font-size="20px" background-color="#ffa200" width="100%" color="#fff" href="https://register.gotowebinar.com/register/5937164185929558030?utm_medium=email&_hsmi=2&_hsenc=p2ANqtz-8STWjwiknh2IXvOghMapXe_cHVS02FlFw7E8yMtkYpMlEynFxy33KBC51r_HwZH-VsQAgTbkksI2XE_Ogtt-aM0b-o4Q&utm_content=2&utm_source=hs_email">Register now</mj-button>
+
+
+
+
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
