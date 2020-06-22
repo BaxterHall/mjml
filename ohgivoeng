@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG IVOCLAR ENGLISH</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:25% !important; display:inline-block !important; }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }}
+    </mj-style>
+    <mj-preview>Shop and connect online.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/06/headerenglish.jpg" href="https://issuu.com/ivoclarvivadentna/docs/2020_ca_virtual_conference_specials_booklet_en" />
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#fff">
+      <mj-column background-color="#fff" padding-top="0px" padding="20px" padding-bottom="0px" width="100%">
+        <mj-text color="#000" font-size="16px" font-weight="400"  align="left">Ivoclar Vivadent appreciates all of the hard work that goes into preparing the Annual Dental
+Conferences, and we understand canceling these conferences could not have been an easy
+decision.</mj-text>
+        <mj-text color="#000" font-size="16px" font-weight="400"  align="left">With the COVID-19 pandemic and the effects it has carried throughout the world and dental
+industry, Ivoclar Vivadent would like to show thank you to our customers by continuing to offer
+our conference specials as if you attended in person. </mj-text>
+        <mj-text color="#000" font-size="16px" font-weight="400"  align="left">Our local Ivoclar Vivadent Sales Representatives and Customer Service Team are available to help
+with product inquiries, orders or general information. Please don’t hesitate to contact them!</mj-text>
+             <mj-text color="#000" font-size="16px" font-weight="400"  align="left">- Ivoclar Vivadent Canada</mj-text>
+        
+             <mj-text color="#f7941d" font-size="20px" font-weight="400"  align="center">Taking <b>care</b> of each other. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/06/footerenglish.jpg" href="https://www.ivoclarvivadent.com" />
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
