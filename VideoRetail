@@ -1,0 +1,198 @@
+<mjml>
+  <mj-head>
+    <mj-title>VIDEO 4 RETAIL</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:25% !important; display:inline-block !important; }}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Lights, Cameras...
+Customer Action!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#fff" font-family="Arial, sans-serif">
+     <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+    <mj-text color="#928ec0" font-size="40px" font-weight="700" padding-bottom="0px" align="center">Lights,</mj-text>
+         <mj-text color="#6865a7" font-size="40px" font-weight="700" padding-bottom="0px" align="center">Cameras...</mj-text>
+ <mj-text color="#31378c" font-size="40px" font-weight="700"  align="center">Customer Action!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.trucknews.com/wp-content/uploads/2020/06/promobannert7t.jpg"  />
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" padding-bottom="0px" width="100%">
+        <mj-text color="#31378c" font-size="17px" font-weight="700" padding-bottom="0px" align="center">A picture is worth 1,000 words. </mj-text>
+ <mj-text color="#31378c" font-size="17px" font-weight="700" padding-bottom="0px" align="center">Let us show you what a video can do. </mj-text>
+			<mj-image src="https://www.trucknews.com/wp-content/uploads/2020/06/newcomlogo.jpg" width="99px" href="http://www.newcom.ca/"></mj-image>
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.trucknews.com/wp-content/uploads/2020/06/videobannerr.jpg"  />
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column padding="0px" background-color="#fff"  width="50%">
+		<mj-image padding-left="0px" align="left" src="https://www.trucknews.com/wp-content/uploads/2020/06/promobox1.jpg" width="200px"  href="https://www.canadianunderwriter.ca/insurance/cannabis-opportunities-and-risks-for-brokers-part-1-of-2-podcast-1004160535/"/>
+            <mj-text padding-left="0px"color="#293189" font-size="18px" font-weight="700" align="left" padding-bottom="0px">Podcast (short form)</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Sample URL:</b> <a href="hhttps://www.canadianunderwriter.ca/insurance/cannabis-opportunities-and-risks-for-brokers-part-1-of-2-podcast-1004160535/" style="text-decoration:none;color:#000;">https://www.canadianunderwriter.ca/insurance/cannabis-opportunities-and-risks-for-brokers-part-1-of-2-podcast-1004160535/</a></mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Length:</b> up to 7 minutes</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Details: </b> Designed and intended as short form audio advertising/media
+sharing to relay information, industry news or any other specific
+message to a customer’s client base.
+<em>Package includes opening and closing music, audio mixing, music
+and packaging</em></mj-text>
+   <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Base Pricing: </b>  $780.00/Individual Episode </mj-text>
+        <mj-divider padding="0px" padding-top="15px"width="90%" border-width="1px"></mj-divider>
+        		<mj-image padding-left="0px" align="left" src="https://www.trucknews.com/wp-content/uploads/2020/06/promobox3.jpg"  width="200px" href="https://newcom.wistia.com/medias/iu2u8ell1b"/>
+            <mj-text padding-left="0px"color="#293189" font-size="18px" font-weight="700" align="left" padding-bottom="0px">Corporate Video/Product Video</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Sample URL:</b> <a href=" https://newcom.wistia.com/medias/iu2u8ell1b" style="text-decoration:none;color:#000;"> https://newcom.wistia.com/medias/iu2u8ell1b</a></mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Length:</b> up to 3 minutes</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Details: </b> Short and digestible advertising video for a single product,
+service or company. Ideal for product launches or promoting a
+company and its services.
+<em>Package includes video editing, music selection, motion graphic
+design, audio mixing and packaging.</em></mj-text>
+   <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Base Pricing: </b>   $2600.00 </mj-text>
+        <mj-divider padding="0px" padding-top="15px"width="90%" border-width="1px"></mj-divider>
+               		<mj-image padding-left="0px" align="left" src="https://www.trucknews.com/wp-content/uploads/2020/06/promobox5.jpg"  width="200px" href="https://newcom.wistia.com/medias/ywk54sutyp"/>
+            <mj-text padding-left="0px"color="#293189" font-size="18px" font-weight="700" align="left" padding-bottom="0px">Educational Video Series</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Sample URL:</b> <a href="  https://newcom.wistia.com/medias/ywk54sutyp" style="text-decoration:none;color:#000;">  https://newcom.wistia.com/medias/ywk54sutyp</a></mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Length:</b>  up to 3 minutes/video</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Details: </b> Educational videos include training videos, product education
+videos and safety videos. Intended to be a multi video project, educational
+videos are designed to be part of a series of topics to provide knowledge
+surrounding a specific set of products, standards or best practices.
+<em>Package includes video editing, music selection, motion graphic
+design, audio mixing and packaging.</em></mj-text>
+   <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Base Pricing: </b>   $2600.00/video</mj-text>
+      
+      </mj-column>
+      <mj-column background-color="#fff"  width="50%">
+			<mj-image padding-left="0px" align="left" src="https://www.trucknews.com/wp-content/uploads/2020/06/promobox2.jpg"  width="200px" href="https://newcom.wistia.com/medias/yttpekevqq"/>
+            <mj-text padding-left="0px"color="#293189" font-size="18px" font-weight="700" align="left" padding-bottom="0px">AGM/Company highlight video</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Sample URL:</b> <a href="https://newcom.wistia.com/medias/yttpekevqq" style="text-decoration:none;color:#000;">https://newcom.wistia.com/medias/yttpekevqq</a></mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Length:</b> up to 8 minutes</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Details: </b>  In situations where companies need to share high-quality internal messaging to their staff but are incapable of doing so, the AGM
+style video is designed to showcase the company’s achievements,
+goals and other pertinent information companywide.
+<em>Package includes video editing, music selection, motion graphic
+design, custom infographics, audio mixing and packaging.</em></mj-text>
+   <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Base Pricing: </b>   $7800.00</mj-text>
+        <mj-divider padding="0px" padding-top="15px"width="90%" border-width="1px"></mj-divider>
+			<mj-image padding-left="0px" align="left" src="https://www.trucknews.com/wp-content/uploads/2020/06/promobox4.jpg"  width="200px" href="https://newcom.wistia.com/medias/4ayksujcjg"/>
+            <mj-text padding-left="0px"color="#293189" font-size="18px" font-weight="700" align="left" padding-bottom="0px">Company Update Video</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Sample URL:</b> <a href=" https://newcom.wistia.com/medias/4ayksujcjg" style="text-decoration:none;color:#000;"> https://newcom.wistia.com/medias/4ayksujcjg</a></mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Length:</b> up to 8 minutes</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Details: </b> Straight-forward delivery of a company’s accomplishments
+from the previous year. Less graphic heavy than the AGM style video,
+this concept provides the same information found in the AGM style
+video but remains cost effective.
+<em>Package includes video editing, music selection, motion graphic
+design, custom infographics, audio mixing and packaging.</em></mj-text>
+   <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Base Pricing: </b>   $7800.00</mj-text>
+        <mj-divider padding="0px" padding-top="15px"width="90%" border-width="1px"></mj-divider>
+        		<mj-image padding-left="0px" align="left" src="https://www.trucknews.com/wp-content/uploads/2020/06/promobox6.jpg"  width="200px" href="https://newcom.wistia.com/medias/rtzfyhzg15"/>
+            <mj-text padding-left="0px"color="#293189" font-size="18px" font-weight="700" align="left" padding-bottom="0px">Pre-Roll ad/General Advertisement</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Sample URL:</b> <a href="https://newcom.wistia.com/medias/rtzfyhzg15" style="text-decoration:none;color:#000;">https://newcom.wistia.com/medias/rtzfyhzg15</a></mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Length:</b>  up to 30 seconds</mj-text>
+        <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Details: </b> This cost-effective option is designed for quick, targeted
+messaging of a company’s products or services within their industry.
+<em>Package includes video editing, music selection, motion graphic
+design, audio mixing and packaging.</em></mj-text>
+   <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px"><b>Base Pricing: </b>    $1625.00/Individual Advertisement</mj-text>
+      
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+    	<mj-divider width="100%" border-width="1px" padding="0px"></mj-divider>
+       <mj-text padding-left="0px"color="#293189" font-size="18px" font-weight="700" align="left" padding-bottom="0px">Extra Charges where applicable</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="33%">
+
+       <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Stock Footage: </mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px">Determined on a case by case basis. Stock
+footage prices vary heavily. Project length and
+the quantity of stock footage required can
+dramatically alter the budget of a project. </mj-text>
+      </mj-column>
+        <mj-column background-color="#fff" padding="0px" width="33%">
+
+      <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Additional Stock Music: </mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px">$50.00/track</mj-text>
+              <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Increased Length Podcast:</mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px">$100.00/Minute over maximum length</mj-text>
+      </mj-column>  <mj-column background-color="#fff" padding="0px" width="33%">
+      <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Increased Length Video: </mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px">$600.00/Minute over maximum length
+(max 5 minutes)</mj-text>
+              <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Professional Voice Over:</mj-text>
+           <mj-text padding-left="0px"color="#000" font-size="15px" font-weight="400" align="left" padding-bottom="0px">
+$125.00/Minute</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="5px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+    	<mj-divider width="100%" border-width="1px" padding="0px"></mj-divider>
+        <mj-text padding-left="0px" color="#293189" font-size="18px" font-weight="700" align="left" padding-bottom="0px">Contact </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="5px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="20%">
+        <mj-text padding-left="0px" color="#293189" font-size="15px" font-weight="700" align="left" padding-bottom="0px">A. (Tony) Hohenadel</mj-text>
+        <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><em>Publisher</em></mj-text>
+          <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="700" align="left" padding-bottom="0px">Truck and Trailer</mj-text>
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">Direct: (416) 614-5800 </mj-text>
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">Cell: (519) 658-3714</mj-text>
+           <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><a href="mailto:tony@newcom.ca" style="text-decoration:none;color:#000;">tony@newcom.ca</a></mj-text>
+      </mj-column>
+         <mj-column background-color="#fff" padding="0px" width="20%">
+    <mj-text padding-left="0px" color="#293189" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Doug Copeland</mj-text>
+        <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><em>Advertising Consultant</em></mj-text>
+          <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="700" align="left" padding-bottom="0px">ON</mj-text>
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">Direct: (416) 510-6889</mj-text>
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">Cell: (905) 715-9511</mj-text>
+           <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><a href="mailto:doug@newcom.ca" style="text-decoration:none;color:#000;">doug@newcom.ca</a></mj-text>
+      </mj-column>   <mj-column background-color="#fff" padding="0px" width="20%">
+    <mj-text padding-left="0px" color="#293189" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Paul Beelien</mj-text>
+        <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><em>Advertising Consultant</em></mj-text>
+          <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="700" align="left" padding-bottom="0px">SK, MB, ON</mj-text>
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">Direct: (416) 614-5806 </mj-text>
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">Cell: (416) 459-2351</mj-text>
+           <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><a href="mailto:paul@newcom.ca" style="text-decoration:none;color:#000;">paul@newcom.ca</a></mj-text>
+      </mj-column>   <mj-column background-color="#fff" padding="0px" width="20%">
+           <mj-text padding-left="0px" color="#293189" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Stefanie Hohenadel</mj-text>
+        <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><em>Advertising Consultant</em></mj-text>
+          <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="700" align="left" padding-bottom="0px">AB, BC, ON, USA</mj-text>
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">
+Direct: (416) 510-5144 </mj-text>
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">Cell: (519) 865-7833</mj-text>
+           <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><a href="mailto:stefanie@newcom.ca" style="text-decoration:none;color:#000;">stefanie@newcom.ca</a></mj-text>
+      </mj-column>
+       <mj-column background-color="#fff" padding="0px" width="20%">
+          <mj-text padding-left="0px" color="#293189" font-size="15px" font-weight="700" align="left" padding-bottom="0px">Denis Arsenault</mj-text>
+        <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><em>Advertising Consultant</em></mj-text>
+          <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="700" align="left" padding-bottom="0px">QC, Maritimes</mj-text>
+       
+         <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px">Cell: (514) 947-7228</mj-text>
+           <mj-text padding-left="0px" color="#000" font-size="14px" font-weight="400" align="left" padding-bottom="0px"><a href="mailto:denis@newcom.ca" style="text-decoration:none;color:#000;">denis@newcom.ca</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
