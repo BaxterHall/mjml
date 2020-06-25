@@ -1,0 +1,259 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG PPE<mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview></mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section border-top="3px solid #0f3749" border-left="3px solid #0f3749" border-right="3px solid #0f3749" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/06/ppelabsheader.jpg" width="187px" href="https://ppelabs.com/shop/" /> 
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" border-left="3px solid #0f3749" border-right="3px solid #0f3749" background-color="#fff">
+      <mj-column width="100%">
+        <mj-text color="#0f3749" font-weight="700" font-size="50px" font-weight="400" align="center">BUSINESS ESSENTIALS</mj-text>
+        <mj-text color="#fe5521" font-weight="700" font-size="65px" font-weight="400" align="center">POST COVID19</mj-text>
+        <mj-divider border-width="1px"></mj-divider>
+ <mj-text color="#0f3749" font-weight="400" font-size="23px" font-weight="400" align="center">GET YOUR BUSINESS ESSENTIALS FOR REOPENING.</mj-text>
+      
+
+      </mj-column>
+    </mj-section>
+        <mj-section border-left="3px solid #0f3749" border-right="3px solid #0f3749" background-color="#fff">
+      <mj-column width="100%">
+     				<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/sidebanner1.jpg" width="399px" align="left" padding="0px" ></mj-image>
+
+      </mj-column>
+    </mj-section>
+   <mj-section  border-left="3px solid #0f3749" border-right="3px solid #0f3749" padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/ppebox1.jpg" href="https://ppelabs.com/product/comfortable-doctor-face-shield-v2-with-head-light/" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+  <mj-text color="#fe5521" font-size="20px" font-weight="400" align="left">COMFORTABLE AND BRIGHT</mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/comfortable-doctor-face-shield-v2-with-head-light/" style="text-decoration:none;color:#0f3749">Comfortable Doctor Face Shield</a></mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/comfortable-doctor-face-shield-v2-with-head-light/" style="text-decoration:none;color:#0f3749">V2 With Head Light</a></mj-text>
+    <mj-text color="#fe5521" font-size="16px" font-weight="400" align="left" padding-bottom="0px">ON SALE</mj-text>
+            <mj-text color="#fe5521" font-size="20px" font-weight="700" align="left" padding-bottom="0px"><span style="color:#0f3749;text-decoration: line-through;text-decoration-color:red;">$675.00</span> $640.00</mj-text>
+              
+
+      </mj-column>
+    </mj-section>
+       <mj-section  border-left="3px solid #0f3749" border-right="3px solid #0f3749" padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/ppebox2.jpg" href=" https://ppelabs.com/product/comfortable-doctor-face-shield-v1/" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+  <mj-text color="#fe5521" font-size="20px" font-weight="400" align="left">EVERYONE LOVES THESE</mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href=" https://ppelabs.com/product/comfortable-doctor-face-shield-v1/" style="text-decoration:none;color:#0f3749">Comfortable Doctor Face</a></mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href=" https://ppelabs.com/product/comfortable-doctor-face-shield-v1/" style="text-decoration:none;color:#0f3749">Shield V1</a></mj-text>
+    <mj-text color="#fe5521" font-size="16px" font-weight="400" align="left" padding-bottom="0px">12% OFF</mj-text>
+            <mj-text color="#fe5521" font-size="20px" font-weight="700" align="left" padding-bottom="0px"><span style="color:#0f3749;text-decoration: line-through;text-decoration-color:red;">$45.00</span> $40.00</mj-text>
+              
+
+      </mj-column>
+    </mj-section>
+       <mj-section  border-left="3px solid #0f3749" border-right="3px solid #0f3749" padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/ppebox3.jpg" href="https://ppelabs.com/product/medical-washable-reusable-gowns/" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+  <mj-text color="#fe5521" font-size="20px" font-weight="400" align="left">BREATHABLE</mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/medical-washable-reusable-gowns/" style="text-decoration:none;color:#0f3749">Medical Washable Reusable</a></mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/medical-washable-reusable-gowns/" style="text-decoration:none;color:#0f3749">Gowns</a></mj-text>
+    <mj-text color="#fe5521" font-size="16px" font-weight="400" align="left" padding-bottom="0px">ON SALE!</mj-text>
+            <mj-text color="#fe5521" font-size="20px" font-weight="700" align="left" padding-bottom="0px">$28.00</mj-text>
+              
+
+      </mj-column>
+    </mj-section>
+       <mj-section  border-left="3px solid #0f3749" border-right="3px solid #0f3749" padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/ppebox4.jpg" href="https://ppelabs.com/product/loupe-mounted-face-shield/" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+  <mj-text color="#fe5521" font-size="20px" font-weight="400" align="left">ULTRALIGHT FACE SHIELD</mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/loupe-mounted-face-shield/" style="text-decoration:none;color:#0f3749">Loupe Mounted Face </a></mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/loupe-mounted-face-shield/" style="text-decoration:none;color:#0f3749">Shield</a></mj-text>
+    <mj-text color="#fe5521" font-size="16px" font-weight="400" align="left" padding-bottom="0px">STARTING FROM</mj-text>
+            <mj-text color="#fe5521" font-size="20px" font-weight="700" align="left" padding-bottom="0px">$17.99</mj-text>
+              
+
+      </mj-column>
+    </mj-section>
+       <mj-section  border-left="3px solid #0f3749" border-right="3px solid #0f3749" padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/ppebox5.jpg" href="https://ppelabs.com/product/safety-checkout-guard-screen/" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+  <mj-text color="#fe5521" font-size="20px" font-weight="400" align="left">SLEEK AND MODERN</mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/safety-checkout-guard-screen/" style="text-decoration:none;color:#0f3749">Reception Checkout</a></mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/safety-checkout-guard-screen/" style="text-decoration:none;color:#0f3749">Sneeze Guard Screen</a></mj-text>
+    <mj-text color="#fe5521" font-size="16px" font-weight="400" align="left" padding-bottom="0px">STARTING FROM</mj-text>
+            <mj-text color="#fe5521" font-size="20px" font-weight="700" align="left" padding-bottom="0px">$110.00</mj-text>
+              
+
+      </mj-column>
+    </mj-section>
+       <mj-section  border-left="3px solid #0f3749" border-right="3px solid #0f3749" padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/ppebox6.jpg" href="https://ppelabs.com/product/medical-scrub-head-caps/" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+  <mj-text color="#fe5521" font-size="20px" font-weight="400" align="left">CANADIAN MADE</mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/medical-scrub-head-caps/" style="text-decoration:none;color:#0f3749">Mediacal Scrub Head</a></mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/medical-scrub-head-caps/" style="text-decoration:none;color:#0f3749">Cap</a></mj-text>
+    <mj-text color="#fe5521" font-size="16px" font-weight="400" align="left" padding-bottom="0px">12% OFF</mj-text>
+            <mj-text color="#fe5521" font-size="20px" font-weight="700" align="left" padding-bottom="0px"><span style="color:#0f3749;text-decoration: line-through;text-decoration-color:red;">$17.00</span> $14.99</mj-text>
+              
+
+      </mj-column>
+    </mj-section>
+       <mj-section  border-left="3px solid #0f3749" border-bottom="3px solid #0f3749" border-right="3px solid #0f3749" padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/ppebox7.jpg" href="https://ppelabs.com/product/germs-be-gone-hand-sanitizer/" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+  <mj-text color="#fe5521" font-size="20px" font-weight="400" align="left">ONTARIO MADE</mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/germs-be-gone-hand-sanitizer/" style="text-decoration:none;color:#0f3749">Germs Be Gone Hand</a></mj-text>
+        <mj-text color="#0f3749" font-size="20px" font-weight="400" align="left" padding-bottom="0px"><a href="https://ppelabs.com/product/germs-be-gone-hand-sanitizer/" style="text-decoration:none;color:#0f3749">Sanitizer</a></mj-text>
+    <mj-text color="#fe5521" font-size="16px" font-weight="400" align="left" padding-bottom="0px">STARTING FROM</mj-text>
+            <mj-text color="#fe5521" font-size="20px" font-weight="700" align="left" padding-bottom="0px"> $6.99</mj-text>
+              
+
+      </mj-column>
+    </mj-section>
+            <mj-section  background-color="#fff">
+      <mj-column width="100%">
+     				<mj-image src="https://media.oralhealthgroup.com/uploads/2020/06/ppehowto.jpg" width="399px" align="left" padding="0px" ></mj-image>
+
+      </mj-column>
+    </mj-section>
+       <mj-section  padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image  padding="0px"src="https://media.oralhealthgroup.com/uploads/2020/06/ppe1.jpg" width="104px" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+
+        <mj-text css-class="centerMe"padding-top="30px"color="#0f3749" font-size="25px" font-weight="700" align="left" >PLACE ORDER ONLINE ON</mj-text>
+        <mj-text css-class="centerMe"color="#fe5521" font-size="25px" font-weight="700" align="left" padding-bottom="0px"><a class="centerMe"href="http://www.ppelabs.com/" style="text-decoration:none;color:#fe5521">www.PPELabs.com</a></mj-text>
+  
+              
+
+      </mj-column>
+    </mj-section>
+       <mj-section  padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image  padding="0px"src="https://media.oralhealthgroup.com/uploads/2020/06/ppe2.jpg" width="104px" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+
+     <mj-text css-class="centerMe"padding-top="30px"color="#0f3749" font-size="25px" font-weight="700" padding-bottom="0px"align="left" >RECIEVE EMAIL</mj-text>
+        <mj-text color="#0f3749" font-size="25px" font-weight="700" align="left" css-class="centerMe"padding-bottom="0px">CONFIRMATION</mj-text>
+  
+              
+
+      </mj-column>
+    </mj-section>
+           <mj-section  padding-top="0px" padding-bottom="0px" background-color="#fff">
+           <mj-column width="40%">
+					<mj-image  padding="0px"src="https://media.oralhealthgroup.com/uploads/2020/06/ppe43.jpg" width="104px" ></mj-image>
+
+
+      </mj-column>
+    
+      <mj-column width="60%">
+
+        <mj-text css-class="centerMe"padding-top="10px"color="#0f3749" font-size="25px" font-weight="700" padding-bottom="0px" align="left" >NEXT DAY SHIPPING OR</mj-text>
+        <mj-text css-class="centerMe"color="#0f3749" font-size="25px" font-weight="700" align="left" padding-bottom="0px">LOCAL PICKUPS</mj-text>
+  
+              
+
+      </mj-column>
+    </mj-section>
+         <mj-section  background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/06/ppefeatures.jpg"  href="https://ppelabs.com/shop/" /> 
+      </mj-column>
+    </mj-section>
+        <mj-section  background-color="#fff">
+      <mj-column width="100%">
+        <mj-text color="#fe5521" font-weight="700" font-size="35px" font-weight="400" padding-bottom="0px"align="center">DONT LET COVID-19 STOP YOU</mj-text>
+        <mj-text color="#fe5521" font-weight="700" font-size="35px" font-weight="400" align="center">FROM GOING BACK TO WORK</mj-text>
+
+      
+
+      </mj-column>
+    </mj-section>
+       <mj-section  background-color="#fff">
+      <mj-column width="100%">
+        <mj-text color="#0f3749" font-weight="700" font-size="35px" font-weight="400" padding-bottom="0px"align="center">About PPELabs</mj-text>
+        <mj-text color="#0f3749" font-weight="400" font-size="20px" font-weight="400" align="center">PPELabs was conceived by doctors and engineers due to the  shortage of personal protective equipment available to our healthcare workers and general public (PPE) in Canada and USA.</mj-text>
+      
+
+      </mj-column>
+    </mj-section>
+           <mj-section  background-color="#fff">
+      <mj-column width="50%">
+            <mj-text color="#0f3749" font-weight="400" font-size="20px" font-weight="400" padding-bottom="0px"align="center"><img src="https://media.oralhealthgroup.com/uploads/2020/06/ppephone.jpg" style="vertical-align:middle"></img> + 1-866-786-0001</mj-text>
+       
+      
+
+      </mj-column>
+              <mj-column width="50%">
+                <mj-text color="#0f3749" font-weight="400" font-size="20px" font-weight="400" padding-bottom="0px"align="center"><a href="mailto:sales@ppelabs.com" style="text-decoration:none;color:#0f3749"><img src="https://media.oralhealthgroup.com/uploads/2020/06/ppeemail.jpg" style="vertical-align:middle"></img> sales@ppelabs.com</a></mj-text>
+      
+
+      </mj-column>
+    </mj-section>
+               <mj-section  background-color="#0f3749">
+      <mj-column width="100%">
+            <mj-text color="#fff" font-weight="400" font-size="17px" font-weight="400" align="center">Copyright 	&copy; 2020 All Rights Reserved.</mj-text>
+       
+      
+
+      </mj-column>
+
+    </mj-section>
+  </mj-body>
+</mjml>
