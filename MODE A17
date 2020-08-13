@@ -60,13 +60,13 @@ attending the show scheduled for October 18-20.</mj-text>
       </mj-column>
     </mj-section>
           <mj-section padding-top="0px" background-color="#fff">
-      <mj-column  width="18%">
-				<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_IG_65x65-1.jpg" width="65px" href="https://www.instagram.com/modeshowcanada/"></mj-image>
+      <mj-column  width="16%">
+				<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_IG_45x45.jpg" width="45px" href="https://www.instagram.com/modeshowcanada/"></mj-image>
       </mj-column>
-              <mj-column  width="18%">
-		<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_TW_65x65-1.jpg" width="65px"href="https://twitter.com/modeshowcanada"></mj-image>
-      </mj-column>  <mj-column width="18%">
-		<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_FB_65x65-1.jpg" width="65px"href="https://www.facebook.com/modeshowcanada"></mj-image>
+              <mj-column  width="16%">
+		<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_TW_45x45.jpg" width="45px"href="https://twitter.com/modeshowcanada"></mj-image>
+      </mj-column>  <mj-column width="16%">
+		<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_FB_45x45.jpg" width="45px"href="https://www.facebook.com/modeshowcanada"></mj-image>
       </mj-column>
     </mj-section>
      <mj-section padding-top="0px" background-color="#fff">
