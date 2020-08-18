@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>MODE - Survey 2</mj-title>
+    <mj-title>IL - 3PL</mj-title>
     <mj-attributes>
       <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
     </mj-attributes>
@@ -20,7 +20,7 @@
   <mj-body background-color="#fff"  width="640px">
     <mj-section background-color="#fff">
       <mj-column  width="100%">
-        <mj-image padding="0px" src="https://www.insidelogistics.ca/wp-content/uploads/2020/08/il-header2.jpg" href="http://www.mode-accessories.com/news" /> 
+        <mj-image padding="0px" src="https://www.insidelogistics.ca/wp-content/uploads/2020/08/il-header2.jpg" href="https://3pllinks.com/?utm_source=ILemail&utm_medium=secondbutton&utm_campaign=insidelogisticsemail" /> 
       </mj-column>
     </mj-section>
    <mj-section background-color="#fff">
@@ -40,14 +40,14 @@ visibility of your entire supply chain, and ongoing process
 improvements. All at rates that will help improve your bottom line.</mj-text>
            <mj-text color="#00163b" font-weight="400" font-size="30px"  align="center">Contact us to see how 3PL Links
 can be your strategic link to success.</mj-text>
-  <mj-image src="https://www.insidelogistics.ca/wp-content/uploads/2020/08/3PL_LinksEblastR-1.jpg" width="277px" href="http://www.mode-accessories.com/news" /> 
+  <mj-image src="https://www.insidelogistics.ca/wp-content/uploads/2020/08/3PL_LinksEblastR-1.jpg" width="277px" href="https://3pllinks.com/inside-logistics-3pl-request-information/?utm_source=InsideLogisticsemail&utm_medium=email&utm_campaign=insidelogisticsemail" /> 
          <mj-text padding-bottom="0px" padding-top="20px"color="#00163b" font-weight="700" font-size="30px"  align="center">TRANSPORTATION, WAREHOUSING,
 BUSINESS INTELLIGENCE</mj-text>
       </mj-column>
     </mj-section>
      <mj-section padding-top="0px" background-color="#fff">
       <mj-column  width="100%">
-        <mj-image padding="0px" src="https://www.insidelogistics.ca/wp-content/uploads/2020/08/il-footer.jpg" href="http://www.mode-accessories.com/news" /> 
+        <mj-image padding="0px" src="https://www.insidelogistics.ca/wp-content/uploads/2020/08/il-footer.jpg" href="https://3pllinks.com/?utm_source=ILemail&utm_medium=secondbutton&utm_campaign=insidelogisticsemail" /> 
       </mj-column>
     </mj-section>
 
