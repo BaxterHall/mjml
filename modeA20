@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - eblast - show - Complete your show guide listing today.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+ <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+       .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Bringing Mode to You. Shop and connect today.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/05/modeshowroom.jpg" href="https://www.mode-accessories.com/virtualshowroom/" />
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" padding-bottom="0px" width="100%">
+        <mj-text color="#000" font-size="17px" font-weight="700"  align="center" padding-bottom="0px">Bringing Mode to You!</mj-text>
+             <mj-text color="#000" font-size="17px" font-weight="700"  align="center" padding-bottom="0px">Shop the 6th Edition of Mode’s Virtual Showroom and
+Connect Today.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="50%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/08/modebox1.jpg" width="253px"href="https://www.mode-accessories.com/virtualshowroom/suzie-blue-canada/" />
+        <mj-text color="#000" font-size="18px" font-weight="700" padding-bottom="0px" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/suzie-blue-canada/" style="text-decoration:none;color:#000">MeditationRings<br/>
+~Spin & Wish~</a></mj-text>
+        <mj-button background-color="#000" color="#fff" href="https://www.mode-accessories.com/virtualshowroom/suzie-blue-canada/">CONNECT</mj-button>
+      </mj-column>
+      <mj-column background-color="#fff" padding="20px" width="50%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/08/modebox2.jpg" width="255px"href="https://www.mode-accessories.com/virtualshowroom/pursuits/" />
+        <mj-text color="#000" font-size="18px" font-weight="700" padding-bottom="0px" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/pursuits/" style="text-decoration:none;color:#000">Mauritius</a></mj-text>
+        <mj-button background-color="#000" color="#fff" href="https://www.mode-accessories.com/virtualshowroom/pursuits/">CONNECT</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px" width="50%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/08/modebox4.jpg"width="253px" href="https://www.mode-accessories.com/virtualshowroom/house-of-jewellery/" />
+        <mj-text color="#000" font-size="18px" font-weight="700" padding-bottom="0px" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/house-of-jewellery/" style="text-decoration:none;color:#000">Orange Fashion Village</a></mj-text>
+        <mj-button background-color="#000" color="#fff" href="https://www.mode-accessories.com/virtualshowroom/house-of-jewellery/">CONNECT</mj-button>
+      </mj-column>
+      <mj-column background-color="#fff" padding="20px" width="50%">
+        <mj-image padding="0px" src="https://www.mode-accessories.com/wp-content/uploads/2020/08/modebox3.jpg" width="255px"href="https://www.mode-accessories.com/virtualshowroom/facinie/" />
+        <mj-text color="#000" font-size="18px" font-weight="700" padding-bottom="0px" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/facinie/" style="text-decoration:none;color:#000">Charlarosi Canada</a></mj-text>
+        <mj-button background-color="#000" color="#fff" href="https://www.mode-accessories.com/virtualshowroom/facinie/">CONNECT</mj-button>
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="20px"  width="100%">
+        <mj-text color="#000" font-size="20px" font-weight="700" align="center">Find your next bestseller </mj-text>
+        <mj-text color="#cc9966" font-size="20px" font-weight="400" align="center"><a href="https://www.mode-accessories.com/virtualshowroom/" style="text-decoration:none;color:#cc9966">mode-accessories.com/virtualshowroom</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-section padding-top="10px" padding-bottom="0px"background-color="#fff">
+      <mj-column width="100%">
+<mj-divider border-width="1px" width="80%"></mj-divider>
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px" background-color="#fff">
+      <mj-column width="100%">
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center">Join the Mode community </mj-text>
+      </mj-column>
+    </mj-section>
+          <mj-section padding-top="0px" background-color="#fff">
+      <mj-column  width="16%">
+				<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_IG_45x45.jpg" width="45px" href="https://www.instagram.com/modeshowcanada/"></mj-image>
+      </mj-column>
+              <mj-column  width="16%">
+		<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_TW_45x45.jpg" width="45px"href="https://twitter.com/modeshowcanada"></mj-image>
+      </mj-column>  <mj-column width="16%">
+		<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_FB_45x45.jpg" width="45px"href="https://www.facebook.com/modeshowcanada"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section padding-top="0px" background-color="#fff">
+      <mj-column width="100%">
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center">@modeshowcanada </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+  </mj-body>
+</mjml>
