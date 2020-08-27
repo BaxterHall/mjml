@@ -1,0 +1,89 @@
+<mjml>
+  <mj-head>
+    <mj-title>CUW READER</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Your Canadian Underwriter Digital Edition has arrived.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image  src="https://www.canadianunderwriter.ca/wp-content/uploads/2018/10/CU_Logo_rgb_tag_10-2018.png" href="https://www.canadianunderwriter.ca" /> 
+       
+         <mj-text color="#000" font-weight="700" font-size="20px"  align="center">Digital Edition Notification</mj-text>
+
+         <mj-divider></mj-divider>
+           <mj-text padding-top="20px"color="#000" font-weight="700" font-size="20px"  align="center"><a href="https://www.canadianunderwriter.ca/digital-edition/" style="text-decoration:none;color:red;">Your 2020 Insurance Marketer is here!</a></mj-text>
+      </mj-column>
+    </mj-section>
+   <mj-section padding-top="0px" background-color="#fff">
+      <mj-column background-color="#fff"width="50%">
+        <mj-text color="#000" font-weight="400" font-size="18px"  align="left">Find Canada's P&C specialty markets at a glance in our August/September issue:
+ </mj-text>
+              <mj-text color="#000" font-weight="400" font-size="16px"  align="left"><ul>
+                <li style="margin:0 0 5px 0">Specialty Lines Guide: Who's writing what?</li>
+<li style="margin:0 0 5px 0">2020 Specialty Lines Report: What's hot, and what's not</li>
+<li style="margin:0 0 5px 0">'Trusted Advisor' survey (Part 2): Brokers rate themselves on customer service</li>
+  <li style="margin:0 0 5px 0">CU Interview: Stephen Stewart on creating a pandemic 'tailwind'</li>
+    <li style="margin:0 0 5px 0">How risk managers emerged as 'winners' during the pandemic</li>
+<li style="margin:0 0 5px 0">Ethics: Pandemic breaches of risk mitigation</li>
+               </ul></mj-text>
+ 
+      </mj-column>
+     <mj-column background-color="#fff"width="50%">
+         <mj-image src="https://media.canadianunderwriter.ca/uploads/2020/08/CU-20200801_cover.jpg" href="https://www.canadianunderwriter.ca/digital-edition/"></mj-image>
+     </mj-column>
+
+    
+     
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">    
+         <mj-text color="#000" font-weight="700" font-size="20px"  align="center">          Start reading now!</mj-text>
+
+        <mj-button background-color="red" font-size="20px" href="https://www.canadianunderwriter.ca/digital-edition/" >View The Digital Edition</mj-button>
+       
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#fff">
+      <mj-column  width="100%">    
+         <mj-text color="#000" font-weight="700" font-size="14px"  align="left"> Manage your subscription:</mj-text>
+              <mj-text color="#000" font-weight="400" font-size="12px"  align="left"> To make changes to your subscription 
+									   information or to change your delivery 
+									   method, please click 
+                        <a href="http://www.b2bmediaportal.com/dynamicregister/register.aspx?fid=CNUCS" style="color:red;">
+									   here</a>. </mj-text>
+            <mj-text color="#000" font-weight="400" font-size="12px"  align="left"> To unsubscribe from these email 
+									   notifications, please click 
+                        <a href="http://www.cfmediaview.com/Preferences/Newcom/Pref.aspx?b=CNU" style="color:red;">
+									   here</a>
+                					   or please contact <a href="mailto:insurancecirc@newcom.ca" style="color:red;">
+                        			   insurancecirc@newcom.ca</a> or call <a href="tel:416-614-2200" style="color:red;">
+									   416-614-2200</a>.</mj-text>
+                    
+
+
+            <mj-text color="#000" font-weight="400" font-size="12px"  align="left"> You've received 
+              this email within compliance to CASL. You have either 
+			   provided express consent, or implied consent has been derived 
+              under CASL regulations.</mj-text>
+       
+      </mj-column>
+    </mj-section>
+ 
+ 
+  </mj-body>
+</mjml>
