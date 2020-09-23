@@ -1,0 +1,74 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHG Survey</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Invest 10 minutes of your time and be entered into a draw</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/09/SurveyHero-Questionnaire-2493902-1.jpg" href="https://ca.surveygizmo.com/s3/50084905/SciCan-G4-Survey-20?r_id=[email]" /> 
+      </mj-column>
+    </mj-section>
+   <mj-section background-color="#fff" padding="0px">
+
+    
+      <mj-column background-color="#fff" width="100%">
+        <mj-text color="#000" font-weight="700" font-size="20px"  align="center">Infection Control and the Digital Future</mj-text>
+                <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/09/banner.jpg" href="https://ca.surveygizmo.com/s3/50084905/SciCan-G4-Survey-20?r_id=[email]" width="165px"/> 
+           <mj-text color="#000" font-weight="400" font-size="16px"  align="left">
+The progress of new information and communication technologies is progressing steadily. We too would like to expand and improve our digital service in the area of infection control devices in order to be able to offer you an even better user experience. Help us with your opinion to adapt our offer even better to your wishes and needs.</mj-text>
+         <mj-text color="#000" font-weight="400" font-size="16px"  align="left">
+The survey will take approximately 10 minutes of your time.</mj-text>
+                 <mj-text color="#000" font-weight="400" font-size="16px"  align="left">   Please be assured that your individual responses will remain confidential and any reporting or references to survey results will be presented in aggregate form only. And, as a bonus, you'll be entered into a draw for a $100 Amazon Gift card.</mj-text>
+     
+
+
+      </mj-column>
+
+    </mj-section>
+       <mj-section background-color="#fff" padding="0px">
+
+    
+      <mj-column background-color="#fff" width="70%">
+                 <mj-text color="#000" font-weight="400" font-size="16px"  align="left">   Please be assured that your individual responses will remain confidential and any reporting or references to survey results will be presented in aggregate form only. And, as a bonus, you'll be entered into a draw for a $100 Amazon Gift card.</mj-text>
+      </mj-column>
+               <mj-column background-color="#fff" width="30%">
+
+                <mj-image src="https://media.oralhealthgroup.com/uploads/2020/09/giftcard.jpg" href="https://ca.surveygizmo.com/s3/50084905/SciCan-G4-Survey-20?r_id=[email]" width="190px" padding-left="0px"/>
+     
+
+
+      </mj-column>
+
+    </mj-section>
+       <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-button href="https://ca.surveygizmo.com/s3/50084905/SciCan-G4-Survey-20?r_id=[email]" background-color="#35847e" font-size="20px">BEGIN SURVEY</mj-button>
+   
+
+
+      </mj-column>
+    </mj-section>
+
+
+
+
+ 
+
+ 
+  </mj-body>
+</mjml>
