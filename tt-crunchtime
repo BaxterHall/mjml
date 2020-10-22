@@ -60,10 +60,10 @@
     </mj-style>
     <mj-preview>PREVIEW TEXT GOES HERE DO DOO DO DOO</mj-preview>
   </mj-head>
-  <mj-body background-color="#fff" color="#ffff"  width="640px">
+  <mj-body background-color="#fff" width="640px">
     <mj-section css-class="header" padding="0px">
       <mj-column width="640px">
-        <mj-image align="center" padding="0px" href=" https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Newsletter-Banner-600x240-1.jpg"></mj-image>
+        <mj-image align="center" padding="0px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Newsletter-Banner-600x240-1.jpg"></mj-image>
 
 
       </mj-column>
@@ -71,8 +71,8 @@
     <!-- LEADERBOARD 1 -->
     <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" >
       <mj-column width="640px">
-        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.cmeexpo.ca/ad/em_CMEX_LB_1/640x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CMEX_LB_1&&sz=640x90"></mj-image>
-        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.cmeexpo.ca/ad/em_CMEX_LB_1/300x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CMEX_LB_1&sz=300x90"></mj-image>
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Leader-Board-640x90-1.jpg"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Mobile-Banner-300x90-1-1.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <!-- INDUSTRY NEWS -->
@@ -116,8 +116,8 @@ The U.S. first proposed the use of electronic logs in 2007, and by 2010 they had
     <!-- LEADERBOARD 2 -->
     <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" >
       <mj-column width="640px">
-        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.cmeexpo.ca/ad/em_CMEX_LB_1/640x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1054854/em_TT_NF1_LB_M&sz=728x90&c=190325[account]"></mj-image>
-        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.cmeexpo.ca/ad/em_CMEX_LB_1/300x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CMEX_LB_1&sz=300x90"></mj-image>
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Leader-Board-640x90-1.jpg"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Mobile-Banner-300x90-1-1.jpg"></mj-image>
       </mj-column>
     </mj-section>
 
