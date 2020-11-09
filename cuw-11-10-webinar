@@ -1,0 +1,117 @@
+<mjml>
+  <mj-head>
+    <mj-title>CUW WEBINAR</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+BUILD UP
+YOUR CONDO
+BUSINESS  How to Succeed in Today’s Condo Insurance Market</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2020/11/cuwebinarheader2.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" /> 
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff" direction="rtl"border-left="1px solid black" border-right="1px solid black" padding-bottom="0px">
+           <mj-column width="50%">
+        <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2020/10/registernow.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="245px" /> 
+ 
+      </mj-column>
+      <mj-column width="50%">
+				   <mj-text color="#e11c23" padding-top="20px"font-weight="700" font-size="35px" align="left">CAPTIVATING BUSINESS</mj-text>
+ 
+      </mj-column>
+  
+    </mj-section>
+        <mj-section padding-top="0px" background-color="#fff" border-left="1px solid black" border-right="1px solid black">
+      <mj-column width="100%">
+		   <mj-text color="#000" font-weight="700" font-size="23px" align="left"> How captives can work for you during the hard market</mj-text>
+    <mj-text color="#000" font-weight="400" font-size="18px" align="left"> Canadian brokers are reporting that capacity for insurance coverage in several commercial lines of business is becoming scarce, making captives an attractive option to insure and de-risk a business. Our panel looks at the hows and whys of captive formation during this challenging market cycle. </mj-text>
+ 
+        
+        <mj-divider border-width="1px"></mj-divider>
+                <mj-text color="#000" font-weight="700" font-size="20px"  align="center" padding-bottom="0px">Moderated by: <span style="color:#e11c23">David Gambrill,</span></mj-text>
+ 
+            <mj-text color="#000" font-weight="400" font-size="18px"  align="center" padding-bottom="0px"><em>Editor in Chief, Canadian Underwriter</em></mj-text>
+      </mj-column>
+    
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff" direction="ltr"border-left="1px solid black" border-right="1px solid black" padding-bottom="0px">
+           <mj-column width="50%" background-color="#000">
+    <mj-text color="#fff" font-weight="400" font-size="20px" align="center">PANELLISTS</mj-text>
+ 
+      </mj-column>
+      <mj-column width="50%">
+				   <mj-text color="#e11c23" padding-top="20px"font-weight="700" font-size="35px" align="left">&nbsp;</mj-text>
+ 
+      </mj-column>
+  
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff" direction="ltr"border-left="1px solid black" border-right="1px solid black" padding-bottom="0px">
+           <mj-column width="33%" background-color="#fff">
+       <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2020/11/man1-1.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="151px" /> 
+                 <mj-text color="#e11c23" font-weight="700" font-size="20px" align="center">Patrick Ferguson </mj-text>
+                 <mj-text color="#000" font-weight="400" font-size="18px" align="center">Captive Sales
+Executive, Senior
+Vice-President,<br/><em>Marsh’s Captive
+Solutions Group</em>  </mj-text>
+                
+ 
+      </mj-column>
+      <mj-column width="33%">
+				   <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2020/11/man2-1.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="155px" /> 
+                 <mj-text color="#e11c23" font-weight="700" font-size="20px" align="center">Alonso Tello </mj-text>
+                 <mj-text color="#000" font-weight="400" font-size="18px" align="center">Vice-President,
+Captives &
+Alternative Risk,<br/><em>AXA XL Canada</em>  </mj-text>
+ 
+      </mj-column>
+       <mj-column width="33%">
+		    <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2020/11/man3.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="151px" /> 
+                 <mj-text color="#e11c23" font-weight="700" font-size="20px" align="center">Braedy Walker  </mj-text>
+                 <mj-text color="#000" font-weight="400" font-size="18px" align="center">Assistant
+Vice-President,
+Captives &
+Analytics, <br/><em>HUB
+International Canada</em>  </mj-text>
+ 
+      </mj-column>
+  
+    </mj-section>
+        <mj-section padding-top="0px" background-color="#fff" direction="ltr"border-left="1px solid black" border-top="1px solid black"border-right="1px solid black" padding-bottom="0px">
+           <mj-column width="50%" background-color="#000">
+    <mj-text color="#fff" font-weight="400" font-size="20px" align="center">SPONSORED BY</mj-text>
+ 
+      </mj-column>
+      <mj-column width="50%">
+				   <mj-text color="#e11c23" padding-top="20px"font-weight="700" font-size="35px" align="left">&nbsp;</mj-text>
+ 
+      </mj-column>
+  
+    </mj-section>
+    <mj-section  padding="0px" background-color="#fff" border-left="1px solid black" border-right="1px solid black">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2020/11/barbados.jpg" width="152px" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" /> 
+      </mj-column>
+</mj-section>
+        <mj-section  padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%" background-color="#e11c23">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+</mj-section>
+
+  </mj-body>
+</mjml>
