@@ -1,0 +1,102 @@
+<mjml>
+  <mj-head>
+    <mj-title>FCB</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+      COVID-19
+Health & Dental
+Relief Program
+SUPPORTED BY:
+Plan Sponsors and Individual Supplementary Plans
+for Canadian Residents
+
+</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  background-color="#fff" border-left="3px double red" border-top="3px double red" border-right="3px double red">
+      <mj-column width="50%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/11/fcb1.jpg" href="https://firstcanadianbenefits.ca/index.php/fcb" width="200px" /> 
+      </mj-column>
+         <mj-column padding="0px" width="50%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/11/fcb2.jpg" href="https://firstcanadianbenefits.ca/index.php/fcb" width="172px" /> 
+      </mj-column>
+    </mj-section>
+        <mj-section  background-color="#fff" border-left="3px double red" border-right="3px double red">
+      <mj-column width="100%">
+   
+         <mj-text color="#000" font-weight="700" font-size="50px" align="center" padding-bottom="0px">COVID-19</mj-text>
+                 <mj-text color="#000" font-weight="700" font-size="50px" align="center" padding-bottom="0px">Health & Dental</mj-text>
+        <mj-text color="#000" font-weight="700" font-size="50px" align="center" padding-bottom="0px">Relief Program</mj-text>
+      </mj-column>
+          
+
+    </mj-section>
+            <mj-section  background-color="#fff" border-left="3px double red" border-right="3px double red">
+      <mj-column width="100%">
+   
+         <mj-text color="#000" font-weight="400" font-size="16px" align="center"padding-bottom="0px">SUPPORTED BY:</mj-text>
+ 
+         <mj-text color="#000" font-weight="400" font-size="16px" align="center" padding-top="2px" padding-bottom="0px">Plan Sponsors and Individual Supplementary Plans </mj-text> 
+        <mj-text color="#000" font-weight="400" font-size="16px" align="center" padding-top="2px" padding-bottom="0px">for Canadian Residents </mj-text> 
+      </mj-column>
+
+    </mj-section>
+
+                <mj-section  background-color="#fff" border-left="3px double red" border-right="3px double red">
+      <mj-column width="15%">
+   
+         <mj-text color="#000" font-weight="400" font-size="16px" align="center"padding-bottom="0px">  &nbsp;</mj-text>
+ 
+     
+      </mj-column>
+                      <mj-column width="70%">
+   
+         <mj-text color="#000" font-weight="400" font-size="16px" align="center"padding-bottom="0px">• Pledged <span style="color:red">1 Billion</span> in benefit relief.<br/>
+• Currently over 2000 Providers enrolled.<br/>
+• Enroll in the FCB Health Network and receive<br/>
+new patients under the FCB Program Guidelines.</mj-text>
+ 
+     
+      </mj-column>
+                     <mj-column width="15%">
+   
+       <mj-text color="#000" font-weight="400" font-size="16px" align="center"padding-bottom="0px">  &nbsp;</mj-text>
+ 
+     
+      </mj-column>
+
+    </mj-section>
+            <mj-section  background-color="#fff" border-left="3px double red" border-right="3px double red">
+      <mj-column width="100%">
+   
+        <mj-text color="red" font-weight="700" font-size="60px" align="center"><a href="https://firstcanadianbenefits.ca/index.php/fcb" style="text-decoration:none;color:red">ENROLL NOW</a></mj-text>
+
+      </mj-column>
+          
+
+    </mj-section>
+    
+    
+               <mj-section  background-color="#fff" border-left="3px double red" border-bottom="3px double red" border-right="3px double red">
+      <mj-column width="100%">
+   
+        <mj-text color="#000" font-weight="700" font-size="25px" align="center"><a href="https://firstcanadianbenefits.ca/index.php/fcb" style="text-decoration:none;color:#000">https://firstcanadianbenefits.ca/</a></mj-text>
+
+      </mj-column>
+          
+
+    </mj-section>
+  </mj-body>
+</mjml>
