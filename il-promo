@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-title>IL PROMO</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Let us help you reach our marketplace with
+Canada’s most trusted source of information
+for logistics industry decision makers.
+Inside Logistics is the only national
+audited media outlet in Canada that
+reaches Transportation, Warehouse,
+DC and Logistics managers</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.insidelogistics.ca/wp-content/uploads/2020/11/ilheader.jpg" href="https://www.insidelogistics.ca" /> 
+      </mj-column>
+    </mj-section>
+       <mj-section  padding-top="0px" padding-bottom="0px" background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" width="150px"src="https://www.insidelogistics.ca/wp-content/uploads/2020/11/inside-logo.jpg" href="https://www.insidelogistics.ca" /> 
+        <mj-text align="center" font-weight="700" >CONTACT INFORMATION</mj-text>
+      </mj-column>
+    </mj-section>
+           <mj-section  padding-top="0px" background-color="#fff">
+      <mj-column  padding-top="0px"width="33%">
+        <mj-text>
+        <mj-table>
+          <tr>
+            <td><img src="https://www.insidelogistics.ca/wp-content/uploads/2020/11/anthony.jpg" width="100px"/></td>
+                        <td> <p style="font-size:10px;font-weight:700">QUEBEC INQUIRIES</p>
+            <p style="font-size:12px;font-weight:700">Anthony Buttino
+</p><p style="font-size:10px;font-weight:400"><em>National Advertising</em><br/>416-614-5830<br/>
+514-292-2297<br/>
+Email: <a href="mailto:anthonyb@newcom.ca" style="text-decoration:none;color:#000;">anthonyb@newcom.ca</a></p></td>
+					</tr>
+				</mj-table>
+          </mj-text>
+             </mj-column>
+                   <mj-column  width="33%">
+        <mj-text>
+        <mj-table>
+       
+          <tr>
+            <td><img src="https://www.insidelogistics.ca/wp-content/uploads/2020/11/lou.jpg" width="100px"/></td>
+                        <td> <p style="font-size:10px;font-weight:700">ADVERTISING INQUIRIES</p>
+            <p style="font-size:12px;font-weight:700">Lou Smyrlis
+</p><p style="font-size:10px;font-weight:400"><em>Managing Director</em><br/>416-510-6881<br/>
+Email: <a href="mailto:lou@newcom.ca" style="text-decoration:none;color:#000;">lou@newcom.ca</a></p></td>
+					</tr>
+				</mj-table>
+          </mj-text>
+             </mj-column>      <mj-column  width="33%">
+        <mj-text>
+        <mj-table>
+          <tr>
+            <td><img src="https://www.insidelogistics.ca/wp-content/uploads/2020/11/emily.jpg" width="100px"/></td>
+                        <td> <p style="font-size:10px;font-weight:700">EDITORIAL INQUIRIES</p>
+            <p style="font-size:12px;font-weight:700">Emily Atkins
+</p><p style="font-size:10px;font-weight:400"><em>Editor</em><br/>416-614-5801<br/>
+Email: <a href="mailto:emily@newcom.ca" style="text-decoration:none;color:#000;">emily@newcom.ca</a></p></td>
+					</tr>
+				</mj-table>
+          </mj-text>
+             </mj-column>
+
+
+    </mj-section>
+
+
+   
+ 
+
+
+
+          
+    
+
+
+      
+
+
+  </mj-body>
+</mjml>
