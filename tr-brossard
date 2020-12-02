@@ -1,0 +1,117 @@
+<mjml>
+  <mj-head>
+    <mj-title>TR- BROSSARD</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+À CHACUN SON MÉTIER
+Votre métier c’est la distribution? Le transport?
+La fabrication? L’offre d’un service aux entreprises?</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  background-color="#fff">
+      <mj-column  width="50%">
+        <mj-image padding="0px" width="249px" src="https://www.transportroutier.ca/wp-content/uploads/2020/12/trlogo.jpg" href="https://www.brossard.com/" /> 
+      </mj-column>
+        <mj-column  width="50%">
+       <mj-text color="#22418d" font-weight="700" font-size="20px" padding-top="30px"align="center">Une entreprise d’ici</mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section padding-bottom="0px" padding-left="20px">
+      <mj-column width="100%">
+		   <mj-text color="#ec1f30" font-weight="700" font-size="40px" align="center">À CHACUN SON MÉTIER</mj-text>  
+        <mj-text color="#000" font-weight="400" font-size="25px" align="center">Votre métier c’est la distribution? Le transport?</mj-text>  
+             <mj-text color="#000" font-weight="400" font-size="25px" align="center">La fabrication? L’offre d’un service aux entreprises?</mj-text>  
+     
+      </mj-column>
+    
+    </mj-section>
+    
+        <mj-section padding-left="30px" padding-top="0px" padding-bottom="0px">
+      <mj-column width="100%" background-color="#ec1f30">
+		   <mj-text color="#fff" font-weight="700" font-size="30px" align="center">NOUS, C’EST LA LOCATION HAUTE
+PERFORMANCE DE MATÉRIEL DE
+TRANSPORT ROUTIER AVEC ENTRETIEN.</mj-text>  
+        <mj-text color="#000" font-weight="700" font-size="20px" align="center">NOUS NE FAISONS QUE ÇA,</mj-text>  
+          <mj-text color="#fff" font-weight="700" font-size="30px" align="center">C’EST NOTRE PASSION,</mj-text>  
+        <mj-text color="#000" font-weight="700" font-size="20px" align="center">ET NOUS CONNAISSONS ÇA COMME PERSONNE D’AUTRE.
+ET ÇA SE TRADUIT PAR DES SOLUTIONS
+PERFORMANTES, RENTABLES ET FIABLES.</mj-text>  
+      </mj-column>
+           
+    
+    </mj-section>
+        <mj-section padding-left="20px">
+      <mj-column width="100%">
+		   <mj-text color="#000" font-weight="400" font-size="18px" padding-bottom="0px"align="left">Pourquoi c’est avantageux pour vous? Parce que vous allez pouvoir
+concentrer vos ressources et vos énergies sur votre activité principale.
+Laissez-nous le soin de prendre en charge vos équipements de transport.
+Nous nous occupons de tout. De la conception à la livraison des véhicules,
+en passant par tous les aspects opérationnels reliés à leur entretien,
+réparation et conformité.</mj-text>  
+        		 
+      </mj-column>
+    
+    </mj-section>
+            <mj-section padding-top="0px"padding-left="20px" >
+      <mj-column width="100%">
+		       <mj-image padding="0px"  src="https://www.transportroutier.ca/wp-content/uploads/2020/12/trtrucksection.jpg" href="https://www.brossard.com/" /> 
+        		 
+      </mj-column>
+    
+    </mj-section>
+            <mj-section padding-left="20px" >
+      <mj-column width="100%">
+		   <mj-text color="#ec1f30" font-weight="700" font-size="25px" padding-bottom="0px"align="left">NOS SERVICES-CONSEILS,
+C’EST L’INGRÉDIENT SPÉCIAL QUI NOUS DÉMARQUE.</mj-text>  
+          <mj-text color="#000" font-weight="400" font-size="18px" padding-bottom="0px"align="left"><strong>Pour chaque type de camion, tracteur de route ou semi-remorque, il
+n’est pas rare qu’on se retrouve avec jusqu’à 24 pages de spécifications,</strong> et il y a une bonne raison pour ça. Les manufacturiers offrent un énorme
+éventail de possibilités de spécifications mécaniques, de finitions et de
+capacités afin de concevoir des véhicules parfaitement adaptés
+aux besoins spécifiques de chaque utilisateur</mj-text>  
+        		 
+      </mj-column>
+    
+    </mj-section>
+                <mj-section padding-top="0px" >
+      <mj-column width="100%">
+		       <mj-image padding="0px"  src="https://www.transportroutier.ca/wp-content/uploads/2020/12/trgreenbox2.jpg" href="https://www.brossard.com/" /> 
+        		 
+      </mj-column>
+    
+    </mj-section>
+    <mj-section padding-left="20px">
+      <mj-column width="100%">
+	
+          <mj-text color="#000" font-weight="400" font-size="18px" padding-bottom="0px"align="left">
+            Pour les non-initiés, cette étape est très sous-évaluée. Pour la plupart
+des entreprises, un camion c’est un camion et une remorque n’est
+qu’une boîte avec des roues. Et elles passent malheureusement devant
+une importante opportunité d’améliorer substantiellement leur situation.<br/><strong><span style="color:#ec1f30">C’est ici que nous saurons faire une grande différence.</span></strong><br/>Cette étape, secondée par notre service renommé qui comprend tout,
+fera une différence énorme dans la gestion de votre parc de poids lourds</mj-text>  
+        		 
+      </mj-column>
+    
+    </mj-section>
+                <mj-section padding-top="0px" >
+      <mj-column width="100%">
+		       <mj-image padding="0px"  src="https://www.transportroutier.ca/wp-content/uploads/2020/12/tr-footer-1.jpg" href="https://www.brossard.com/" /> 
+        		 
+      </mj-column>
+    
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
