@@ -66,7 +66,7 @@ réparation et conformité.</mj-text>
     </mj-section>
             <mj-section padding-top="0px"padding-left="20px" >
       <mj-column width="100%">
-		       <mj-image padding="0px"  src="https://www.transportroutier.ca/wp-content/uploads/2020/12/trtrucksection.jpg" href="https://www.brossard.com/" /> 
+		       <mj-image padding-right="20px" src="https://www.transportroutier.ca/wp-content/uploads/2020/12/tr-trucks2.jpg" href="https://www.brossard.com/" /> 
         		 
       </mj-column>
     
