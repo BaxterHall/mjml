@@ -1,0 +1,226 @@
+<mjml>
+  <mj-head>
+    <mj-title>CE FRENCH</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+Ces cours accrédités sont offerts sur Espace FC</mj-preview>
+  </mj-head>
+  <mj-body   background-color="#e5e5e5"width="640px">
+    <mj-section  background-color="#e5e5e5">
+      <mj-column  padding="0px" width="50%">
+          <mj-text color="#000" font-weight="400" font-size="16px" align="left">Cours en ligne offerts par</mj-text>
+        <mj-image padding="0px" width="249px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2020/12/rbclogo.jpg" /> 
+      </mj-column>
+        <mj-column  width="50%">
+     
+      </mj-column>
+    </mj-section>
+        <mj-section  background-color="#fff">
+      <mj-column width="100%">
+		   <mj-text color="#0051a5" font-weight="700" font-size="40px" align="center">Vos clients ont besoin de vos conseils
+maintenant plus que jamais</mj-text>  
+        <mj-text padding="20px"color="#000" font-weight="400" font-size="18px" align="center">Améliorez vos connaissances sur les solutions et les stratégies
+d’assurance et de placement grâce aux webinaires suivants
+de RBC Assurances. Ces cours, donnant droit à des crédits
+de formation continue, sont offerts sur Espace FC pour
+les personnes qui ont manqué les séances en direct. </mj-text>  
+          
+     
+      </mj-column>
+    
+    </mj-section> 
+        <mj-section  background-color="#fedf01" padding="0px">
+      <mj-column width="100%" padding="0px">
+		   <mj-text color="#0051a5" padding="0px"font-weight="700" align="center">&nbsp;</mj-text>  
+        
+      </mj-column>
+    
+    </mj-section>
+
+           <mj-section  background-color="#fff">
+      <mj-column width="50%">
+		<mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2020/12/rbc-box1.jpg" width="183px"href="https://www.espacefc.com/lesson/la-valeur-de-l-assurance-invalidite-pour"/>
+          
+     
+      </mj-column>
+                   <mj-column width="50%">
+		   <mj-text color="#0051a5" font-weight="700" font-size="20px" align="left"><a href="https://www.espacefc.com/lesson/la-valeur-de-l-assurance-invalidite-pour" style="text-decoration:none;color:#0051a5">Vendre l’assurance<br/>
+invalidité, quelle que<br/>
+soit la profession</a></mj-text>  
+       <mj-button padding-top="40px"background-color="#0051a5" font-size="15px" color="#fff" align="left"href="https://www.espacefc.com/lesson/la-valeur-de-l-assurance-invalidite-pour">SUIVEZ CE COURS<br/>
+ET OBTENEZ 1 UFC</mj-button>
+          
+     
+      </mj-column>
+    
+    
+    </mj-section>
+       <mj-section  background-color="#fedf01" padding="0px">
+      <mj-column width="100%" padding="0px">
+		   <mj-text color="#0051a5" padding="0px"font-weight="700" align="center">&nbsp;</mj-text>  
+        
+      </mj-column>
+    
+    </mj-section>
+
+           <mj-section  background-color="#fff">
+      <mj-column width="50%">
+		<mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2020/12/rbc-box2.jpg" width="183px"href="https://www.espacefc.com/lesson/l-assurance-temporaire-une-solution-flex"/>
+          
+     
+      </mj-column>
+                   <mj-column width="50%">
+		   <mj-text color="#0051a5" font-weight="700" font-size="20px" align="left"><a href="https://www.espacefc.com/lesson/l-assurance-temporaire-une-solution-flex" style="text-decoration:none;color:#0051a5">L’assurance temporaire<br/>
+Une solution flexible pour<br/>
+chaque étape de la vie</a></mj-text>  
+       <mj-button padding-top="40px"background-color="#0051a5" font-size="15px"color="#fff" align="left"href="https://www.espacefc.com/lesson/l-assurance-temporaire-une-solution-flex">SUIVEZ CE COURS<br/>
+ET OBTENEZ 1 UFC</mj-button>
+          
+     
+      </mj-column>
+    
+    
+    </mj-section>
+         <mj-section  background-color="#fedf01" padding="0px">
+      <mj-column width="100%" padding="0px">
+		   <mj-text color="#0051a5" padding="0px"font-weight="700" align="center">&nbsp;</mj-text>  
+        
+      </mj-column>
+    
+    </mj-section>
+
+    
+           <mj-section  background-color="#fff">
+      <mj-column width="50%">
+		<mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2020/12/rbc-box3.jpg" width="183px"href="https://www.espacefc.com/lesson/assurance-invalidite-comment-vendre-aux"/>
+          
+     
+      </mj-column>
+                   <mj-column width="50%">
+		   <mj-text color="#0051a5" font-weight="700" font-size="20px" align="left"><a href="https://www.espacefc.com/lesson/assurance-invalidite-comment-vendre-aux" style="text-decoration:none;color:#0051a5">Assurance invalidité<br/>
+Comment vendre aux<br/>
+Canadiens un produit<br/>
+dont ils ignorent la<br/>
+nécessité</a></mj-text>  
+       <mj-button padding-top="40px"background-color="#0051a5" color="#fff" font-size="15px" align="left"href="https://www.espacefc.com/lesson/assurance-invalidite-comment-vendre-aux">SUIVEZ CE COURS<br/>
+ET OBTENEZ 1 UFC</mj-button>
+          
+     
+      </mj-column>
+    
+    
+    </mj-section>
+    
+           <mj-section  background-color="#fedf01" padding="0px">
+      <mj-column width="100%" padding="0px">
+		   <mj-text color="#0051a5" padding="0px"font-weight="700" align="center">&nbsp;</mj-text>  
+        
+      </mj-column>
+    
+    </mj-section>
+
+    
+           <mj-section  background-color="#fff">
+      <mj-column width="50%">
+		<mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2020/12/rbc-box4.jpg" width="183px"href="https://www.espacefc.com/lesson/la-valuer-de-l-assurance-invalidite-pour"/>
+          
+     
+      </mj-column>
+                   <mj-column width="50%">
+		   <mj-text color="#0051a5" font-weight="700" font-size="20px" align="left"><a href="https://www.espacefc.com/lesson/la-valuer-de-l-assurance-invalidite-pour" style="text-decoration:none;color:#0051a5">La valeur de <br/>
+l'assurance invalidité <br/>
+pour les propriétaires <br/>
+d'entreprise canadiens</a></mj-text>  
+       <mj-button padding-top="40px"background-color="#0051a5" color="#fff" href="https://www.espacefc.com/lesson/la-valuer-de-l-assurance-invalidite-pour" font-size="15px"align="left">SUIVEZ CE COURS<br/>
+ET OBTENEZ 1 UFC</mj-button>
+          
+     
+      </mj-column>
+    
+    
+    </mj-section>
+        <mj-section  background-color="#fedf01" padding="0px">
+      <mj-column width="100%" padding="0px">
+		   <mj-text color="#0051a5" padding="0px"font-weight="700" align="center">&nbsp;</mj-text>  
+        
+      </mj-column>
+    
+    </mj-section>
+
+    
+           <mj-section  background-color="#fff">
+      <mj-column width="50%">
+		<mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2020/12/rbc-box5.jpg" width="183px"href="https://www.espacefc.com/lesson/plus-d-investissements-moins-de-soucis-l-1"/>
+          
+     
+      </mj-column>
+                   <mj-column width="50%">
+		   <mj-text color="#0051a5" font-weight="700" font-size="20px" align="left"><a href="https://www.espacefc.com/lesson/plus-d-investissements-moins-de-soucis-l-1" style="text-decoration:none; color:#0051a5">Plus d'investissements.<br/>
+Moins de soucis. <br/>
+L'importance des fonds <br/>
+distincts lorsque les <br/>
+marchés sont volatils</a></mj-text>  
+       <mj-button padding-top="40px"background-color="#0051a5" color="#fff" font-size="15px"align="left" href="https://www.espacefc.com/lesson/plus-d-investissements-moins-de-soucis-l-1">SUIVEZ CE COURS<br/>
+ET OBTENEZ 1 UFC</mj-button>
+          
+     
+      </mj-column>
+    
+    
+    </mj-section>
+    
+          <mj-section  background-color="#fedf01" padding="0px">
+      <mj-column width="100%" padding="0px">
+		   <mj-text color="#0051a5" padding="0px"font-weight="700" align="center">&nbsp;</mj-text>  
+        
+      </mj-column>
+    
+    </mj-section>
+        <mj-section  background-color="#0051a5">
+      <mj-column width="50%" border-right="3px solid #fff">
+		   <mj-text color="#fff" padding-left="70px"font-weight="700" font-size="20px" align="left">TYPE DE COURS</mj-text> 
+        <mj-text color="#fff" padding-left="70px"font-weight="400" font-size="20px" align="left"> LIENS WEB</mj-text>  
+          <mj-text color="#fff"padding-left="70px" padding-top="40px"font-weight="700" font-size="20px" align="left">PRIX
+</mj-text> 
+        <mj-text color="#fff" padding-left="70px"font-weight="400" font-size="20px" align="left">GRATUITS</mj-text>  
+
+          
+     
+      </mj-column>
+        <mj-column width="50%" >
+   <mj-text color="#fff" font-weight="700" font-size="20px" align="left">ORGANISME
+D’ACCRÉDITATION
+</mj-text> 
+        <mj-text color="#fff" font-weight="400" font-size="20px" padding-bottom="50px"align="left">CSF</mj-text> 
+          
+     
+      </mj-column>
+    
+    </mj-section> 
+      <mj-section background-color="#fff">
+      <mj-column width="100%" background-color="#fff">
+		   <mj-text color="#000" font-weight="400" font-size="17px" align="center">Accréditation UFC offerte par</mj-text> 
+        <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2020/12/rbc-espacelogo.jpg" width="154px" padding-bottom="20px" href="https://cecorner.ca/"></mj-image>
+				<mj-image padding="0px"padding-top="20px"src="https://cdn.ofsys.com/T/OFSYS/H/C1024/4284/1lx5WL/newcom-footer.png"></mj-image>
+          
+     
+      </mj-column>
+       
+    
+    </mj-section> 
+
+
+  </mj-body>
+</mjml>
