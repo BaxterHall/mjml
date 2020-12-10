@@ -1,0 +1,122 @@
+<mjml>
+  <mj-head>
+    <mj-title>TN_TT BROSSARD</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+
+TO EACH THEIR SPECIALTY
+Your trade is distribution? Transportation?
+Manufacturing? Or a service to industry?
+    FOR US, IT’S HIGH PERFORMANCE
+FULL-SERVICE
+HEAVY VEHICLE LEASING.
+THAT’S ALL WE DO,
+IT’S OUR PASSION,
+AND WE KNOW OUR BUSINESS MORE THAN ANYBODY. THIS TRANSLATES INTO EFFICIENT, TRUSTWORTHY AND PROFITABLE SOLUTIONS.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  background-color="#fff">
+      <mj-column  width="50%">
+        <mj-image padding="0px" width="249px" src="https://www.trucknews.com/wp-content/uploads/2020/12/brossardlogo.jpg" href="https://www.brossard.com/" /> 
+      </mj-column>
+        <mj-column  width="50%">
+       <mj-text color="#22418d" font-weight="700" font-size="20px" padding-top="30px"align="center">A homegrown company</mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section padding-bottom="0px" padding-left="20px">
+      <mj-column width="100%">
+		   <mj-text color="#ec1f30" font-weight="700" font-size="40px" align="center">TO EACH THEIR SPECIALTY</mj-text>  
+        <mj-text color="#000" font-weight="400" font-size="25px" align="center">Your trade is distribution? Transportation?<br/>Manufacturing? Or a service to industry?</mj-text>  
+     
+      </mj-column>
+    
+    </mj-section>
+    
+        <mj-section padding-left="30px" padding-top="0px" padding-bottom="0px">
+      <mj-column width="100%" background-color="#ec1f30">
+		   <mj-text color="#fff" font-weight="700" font-size="30px" line-height="1.5"align="center">FOR US, IT’S HIGH PERFORMANCE<br/>FULL-SERVICE<br/>
+HEAVY VEHICLE LEASING.</mj-text>  
+        <mj-text color="#000" font-weight="700" font-size="20px" align="center">THAT’S ALL WE DO,</mj-text>  
+          <mj-text color="#fff" font-weight="700" font-size="30px" align="center">IT’S OUR PASSION,</mj-text>  
+        <mj-text color="#000" font-weight="700" font-size="20px" line-height="1.5"align="center">AND WE KNOW OUR BUSINESS MORE THAN ANYBODY.
+THIS TRANSLATES INTO EFFICIENT,
+TRUSTWORTHY AND PROFITABLE SOLUTIONS.</mj-text>  
+      </mj-column>
+           
+    
+    </mj-section>
+        <mj-section padding-left="20px">
+      <mj-column width="100%">
+		   <mj-text color="#000" font-weight="400" font-size="18px" padding-bottom="0px"align="left">Why is it advantageous for you? Because you will concentrate your
+assets and energy on your core activity. Let us take charge of your
+transportation equipment. We take care of everything.
+From the conception of specifications to the delivery of the vehicles
+and all operational aspects related to maintenance,
+repairs and conformity</mj-text>  
+        		 
+      </mj-column>
+    
+    </mj-section>
+            <mj-section padding-top="0px"padding-left="20px" >
+      <mj-column width="100%">
+		       <mj-image padding-right="20px" src="https://www.trucknews.com/wp-content/uploads/2020/12/brossadtrucks.jpg" href="https://www.brossard.com/" /> 
+        		 
+      </mj-column>
+    
+    </mj-section>
+            <mj-section padding-top="0px"padding-left="20px" >
+      <mj-column width="100%">
+		   <mj-text color="#ec1f30" font-weight="700" font-size="20px" padding-bottom="0px"align="left">OUR CONSULTING SERVICES,<br/>
+IT’S THE SPECIAL INGREDIENT THAT MAKES US UNIQUE:</mj-text>  
+          <mj-text color="#000" font-weight="400" font-size="18px" padding-bottom="0px"align="left"><strong>For every type of truck, tractor or trailer, It’s not rare to find ourselves
+with up to 24 pages of specifications, and there’s a good reason for that. </strong> Manufacturers offer a wide spread of possibilities when it comes to the
+mechanicals, the materials and capacities in order to be able to build
+vehicles that are perfectly adapted to the
+specific needs of each end-user. </mj-text>  
+        		 
+      </mj-column>
+    
+    </mj-section>
+            <mj-section padding-top="0px" >
+      <mj-column width="100%">
+		       <mj-image padding="0px"src="https://www.trucknews.com/wp-content/uploads/2020/12/brossardcheck3.jpg" href="https://www.brossard.com/" /> 
+        		 
+      </mj-column>
+    
+    </mj-section>
+    <mj-section padding-left="20px">
+      <mj-column width="100%">
+	
+          <mj-text color="#000" font-weight="400" font-size="18px" padding-bottom="0px"align="left">
+            For the uninitiated, this step is almost always under evaluated.
+For most companies, a truck is a truck and a trailer is just a box
+with wheels. And this is where they unfortunately miss important
+opportunities to significantly better their situation.<br/><strong><span style="color:#ec1f30">This is where we will make a big difference and bring value.</span></strong><br/>This step, combined with our legendary service that includes everything
+will make a huge difference in the management of your fleet.</mj-text>  
+        		 
+      </mj-column>
+    
+    </mj-section>
+                <mj-section padding-top="0px" >
+      <mj-column width="100%">
+		       <mj-image padding="0px"  src="https://www.trucknews.com/wp-content/uploads/2020/12/brossardcheck.jpg" href="https://www.brossard.com/" /> 
+        		 
+      </mj-column>
+    
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
