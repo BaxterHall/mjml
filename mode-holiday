@@ -1,0 +1,81 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - Holidays</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>We wish you a wonderful holiday season and a Happy New Year</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.modeshow.ca/wp-content/uploads/2020/12/mode-header.jpg" href="http://www.modeshow.ca" /> 
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.modeshow.ca/wp-content/uploads/2020/12/mode-banner.jpg" href="https://www.modeshow.ca/news/exciting-update-from-mode" /> 
+      </mj-column>
+    </mj-section>
+  
+           <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+            <mj-text color="#7d819a" font-weight="700" font-size="30px" align="center">We look forward<br/>
+to connecting in 2021!</mj-text>
+   
+
+
+      </mj-column>
+    </mj-section>
+          <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+            <mj-text color="#000" font-weight="400" font-size="30px" align="center"><a href="https://www.modeshow.ca/news/exciting-update-from-mode" style="text-decoration:none;color:#000">Visit <span style="text-decoration:underline">modeshow.ca</span> to <br/>see
+what we have in store for 2021</a> </mj-text>
+   
+
+
+      </mj-column>
+    </mj-section>
+   <mj-section padding-top="10px" padding-bottom="0px"background-color="#fff">
+      <mj-column width="100%">
+<mj-divider border-width="1px" width="80%"></mj-divider>
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px" background-color="#fff">
+      <mj-column width="100%">
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center">Join the Mode community </mj-text>
+      </mj-column>
+    </mj-section>
+          <mj-section padding-top="0px" background-color="#fff">
+      <mj-column  width="16%">
+				<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_IG_45x45.jpg" width="45px" href="https://www.instagram.com/modeshowcanada/"></mj-image>
+      </mj-column>
+              <mj-column  width="16%">
+		<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_TW_45x45.jpg" width="45px"href="https://twitter.com/modeshowcanada"></mj-image>
+      </mj-column>  <mj-column width="16%">
+		<mj-image src="https://www.mode-accessories.com/wp-content/uploads/2020/08/Mode_eblast-footer_social_FB_45x45.jpg" width="45px"href="https://www.facebook.com/modeshowcanada"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section padding-top="0px" background-color="#fff">
+      <mj-column width="100%">
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center">@modeshowcanada </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+ 
+
+ 
+  </mj-body>
+</mjml>
