@@ -1,0 +1,210 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHY NEWSLETTER</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .mobileLb {
+        display: none
+      }
+
+      .readMore,
+      .viewListing {
+        padding-top: 10px;
+      }
+    
+    	.articleDate{
+				font-size: 12px;
+				font-weight: 400;
+    		align: left;
+    		font-family :Helvetica, Arial, sans-serif;
+				color: #777;
+    	}
+    	.articleHeading{
+    		font-size: 16px;
+    		font-weight: 700;
+    		align: left;
+				font-family: Helvetica, Arial, sans-serif;
+    		color: #775ca7;
+				text-decoration: none;
+		}
+
+      @media all and (max-width: 480px) {
+
+        .no-padding-xs,
+        .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+        .email-title-wrapper td {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .desktopLb {
+          display: none !important;
+        }
+
+        .mobileLb {
+          display: block !important;
+          align: center !important;
+        }
+
+        .newsImg {
+          display: none !important;
+        }
+
+        .BGImg {
+          display: none !important;
+        }
+
+      }
+
+      @media all and (min-width: 480px) {
+        .email-title-wrapper td {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+    </mj-style>
+   <mj-style inline="inline">
+
+
+      .mobileLb {
+        display: none
+      }
+
+
+
+    </mj-style>
+    <mj-preview>PREVIEW TEXT GOES HEZRE</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <!-- Main Image -->
+    <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2020/12/OralHygieneLogo.jpg" href="https://www.oralhealthgroup.com/oral-hygiene/" /> 
+            <mj-text font-size="12px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7">Sponsored by</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Main Image -->
+    <!-- Sponsors -->
+     <mj-section padding-top="0px"background-color="#fff">
+      <mj-column  padding="0px" width="25%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/12/OralHygieneLogo.jpg" href="#" /> 
+           
+      </mj-column>
+       <mj-column width="25%"  padding="0px">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/12/OralHygieneLogo.jpg" href="#" /> 
+  
+      </mj-column> 
+           <mj-column  width="25%" padding="0px">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/12/OralHygieneLogo.jpg" href="#" /> 
+         
+      </mj-column>
+             <mj-column  width="25%"  padding="0px">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/12/OralHygieneLogo.jpg" href="" /> 
+         
+      </mj-column>
+    </mj-section>
+    <!-- End Sponsors -->
+    <!-- LEADER 1 -->
+      <mj-section background-color="#fff" padding="0px" text-align="center" >
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.oralhealthgroup.com/ad/em_OHY_LB_1/640x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_OHY_LB_1&sz=640x90"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https:/www.oralhealthgroup.com/ad/em_OHY_LB_1/300x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_OHY_LB_1&sz=300x90"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- END LEADER 1 -->
+    <!-- Section 1 Row 1-->
+     <mj-section background-color="#fff">
+      <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/11/periodontology-hygiene-768x432.jpg" href="https://www.oralhealthgroup.com/oral-hygiene/" /> 
+        <mj-text css-class="articleDate"font-size="12px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#777">November 25, 2020</mj-text>
+        <mj-text font-size="16px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7"><a href="#" class="articleHeadingLink" style="color:#775ca7;text-decoration:none">Implementing the 2018 Classification of Periodontal and Peri-implant Diseases into Your Practice</a></mj-text>
+      </mj-column>
+              <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/10/BOK-1st-image-768x432.jpg" href="https://www.oralhealthgroup.com/oral-hygiene/" /> 
+          <mj-text css-class="articleDate"font-size="12px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#777">November 13, 2020</mj-text>
+                <mj-text font-size="16px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7"><a href="#" class="articleHeadingLink"  style="color:#775ca7;text-decoration:none">Streamlining Instrumentation</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End S1R1 -->
+    <!-- Section 1 Row 2 -->
+      <mj-section padding-top="0px"background-color="#fff">
+      <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/10/exceptional-hygiene-experience-768x432.jpg" href="https://www.oralhealthgroup.com/oral-hygiene/" /> 
+        <mj-text css-class="articleDate"font-size="12px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#777">November 13, 2020</mj-text>
+            <mj-text font-size="16px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7"><a href="#" class="articleHeadingLink"  style="color:#775ca7;text-decoration:none">Breaking Down Barriers to an Exceptional Hygiene Department: What’s Holding Your Team Back?</a></mj-text>
+      </mj-column>
+              <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/10/hygienists-pivotal-role-768x432.jpg" href="https://www.oralhealthgroup.com/oral-hygiene/" /> 
+          <mj-text css-class="articleDate" font-size="12px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#777">November 13, 2020</mj-text>
+            <mj-text css-class="articleHeading" font-size="16px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7"><a class="articleHeadingLink"  href="#" style="color:#775ca7;text-decoration:none">The Hygienist’s Pivotal Role in the Patient Experience</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END S1R2 -->
+    <!-- LEADER 2 -->
+      <mj-section background-color="#fff" padding="0px" text-align="center" >
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.oralhealthgroup.com/ad/em_OHY_LB_2/640x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_OHY_LB_2&sz=640x90"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https:/www.oralhealthgroup.com/ad/em_OHY_LB_2/300x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_OHY_LB_2&sz=300x90"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- END LEADER 2 -->
+    <!-- SECTION 2 -->
+     <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column padding="0px" width="100%">
+            <mj-text font-size="20px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7">NEWS:</mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-section padding-top="5px"background-color="#fff">
+      <mj-column  width="100%">
+            <mj-text font-size="16px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7">
+         <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#775ca7; font-size:16px;" align="left" type="disc">
+            <li style="Margin: 10px 0 10px 0;"><a class="articleHeadingLink" href="https://www.oralhealthgroup.com/news/patterson-dental-canada-selects-pura-air-to-provide-clean-air-solutions-for-customers-1003956798/" style="color:#775ca7;text-decoration:none">
+Patterson Dental Canada Selects Pura Air to Provide Clean Air Solutions For Customers													</a></li>
+             <li style="Margin: 10px 0 10px 0;"><a class="articleHeadingLink" href="https://www.oralhealthgroup.com/news/cold-laker-wins-scholarship-to-research-metis-centered-dental-care-1003956788/"style="color:#775ca7;text-decoration:none">Cold Laker Wins Scholarship to Research Métis-Centered Dental Care													</a></li>
+           
+              
+         </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END SECTION  2 -->
+     <!-- SECTION 3 HEADER-->
+     <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column padding="0px" width="100%">
+            <mj-text font-size="20px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7">BLOGS:</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END SECTION 3 HEADER -->
+    <!-- SECTION 3 ROW 1 -->
+     <mj-section background-color="#fff">
+      <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/11/mobile-apps-blog-768x432.jpg" href="https://www.oralhealthgroup.com/oral-hygiene/" /> 
+        <mj-text css-class="articleHeading" font-size="12px"css-class="articleDate" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#777">November 25, 2020</mj-text>
+        <mj-text font-size="16px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7"><a href="#" class="articleHeadingLink"style="color:#775ca7;text-decoration:none">How Can Dentists Improve Dental Care Using a Mobile Application?</a></mj-text>
+      </mj-column>
+              <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2020/11/affordable-dental-care-blog-768x432.jpg" href="https://www.oralhealthgroup.com/oral-hygiene/" /> 
+          <mj-text css-class="articleDate" font-size="12px" font-weight="400" align="left" font-family="Helvetica, Arial, sans-serif" color="#777">December 13, 2020</mj-text>
+                <mj-text font-size="16px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#775ca7"><a href="#" class="articleHeadingLink"style="color:#775ca7;text-decoration:none">Helping Patients Get Affordable Dental Care: Good for Them and Good for You</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End S3R1 -->
+    <!-- LEADER 3  -->
+      <mj-section background-color="#fff" padding="0px" text-align="center" >
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.oralhealthgroup.com/ad/em_OHY_LB_3/640x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_OHY_LB_3&sz=640x90"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https:/www.oralhealthgroup.com/ad/em_OHY_LB_3/300x90/" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_OHY_LB_3&sz=300x90"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- END LEADER 3 -->
+    
+    
+
+
+
+       
+ 
+  </mj-body>
+</mjml>
