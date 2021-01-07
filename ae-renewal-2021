@@ -1,0 +1,69 @@
+<mjml>
+  <mj-head>
+    <mj-title>Advisor promo</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Keep Advisor’s Edge coming…</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section padding-bottom="0px" background-color="#fff"  >
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/01/AE-email-requalification-V03.jpg" href="https://www.b2bmediaportal.com/dynamicregister/register.aspx?fid=ADVF&key=ADVR_EM2021E1&account=[subscriber_account]&cty=[h_city]&lnm=[h_last_name]" /> 
+      </mj-column>
+    </mj-section>
+
+            <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+       <mj-text align="left" color="#2c6863" font-weight="700" font-size="30px" ><em>Advisor’s Edge</em>: helping you be
+a better advisor!</mj-text>
+            <mj-text align="left" color="#000" font-weight="400" font-size="25px" >Fname Lname, take a minute to renew your
+complimentary subscription to <em>Advisor’s Edge</em> magazine.</mj-text>
+        <mj-button background-color="#2c6863" font-size="40px" href="https://www.b2bmediaportal.com/dynamicregister/register.aspx?fid=ADVF&key=ADVR_EM2021E1&account=[subscriber_account]&cty=[h_city]&lnm=[h_last_name]">RENEW NOW</mj-button>
+        
+      </mj-column>
+    </mj-section>
+               <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-text align="left" color="#2c6863" font-weight="700" font-size="30px" >Coming in 2021:</mj-text>
+          <mj-text align="left" color="#000" font-weight="400" font-size="25px" >
+        <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#000; font-size:25px;" align="left" type="disc">
+          	<li style="Margin: 10px 0 10px 0;">Five ways Covid-19 has permanently changed
+wealth management</li>
+            <li style="Margin: 10px 0 10px 0;">Managing your product shelf</li>
+          	<li style="Margin: 10px 0 10px 0;">Challenging retirement rules of thumb</li>
+          	<li style="Margin: 10px 0 10px 0;">Opportunities in estate planning</li>
+          	<li style="Margin: 10px 0 10px 0;">And more!</li>
+          
+            </ul></mj-text>
+        
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0px"background-color="#d5e1e0">
+      <mj-column padding="0px" width="100%">
+        <mj-text padding="0px">&nbsp;</mj-text>
+       
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#eaf0ef">
+      <mj-column padding="0px" width="100%">
+        <mj-text padding="0px">&nbsp;</mj-text>
+       
+      </mj-column>
+    </mj-section>
+
+
+
+
+  </mj-body>
+</mjml>
