@@ -1,0 +1,91 @@
+<mjml>
+  <mj-head>
+    <mj-title>Advisor promo</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+.headerText{
+text-align:left !important;}}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Keep Advisor’s Edge coming…</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section padding="0px" padding-bottom="0px" background-color="#fff"  >
+      <mj-column  width="40%">
+        <mj-image padding="0px" src="https://www.insidelogistics.ca/wp-content/uploads/2021/01/Screen-Shot-2021-01-07-at-2.31.48-PM.png" href="http://cantruck.ca" /> 
+      </mj-column>
+         <mj-column width="60%">
+       <mj-text padding-top="30px" padding-bottom="0px"css-class="headerText" align="right" color="#000" font-weight="400" font-size="14px" >555 Dixon Road
+</mj-text>
+              <mj-text css-class="headerText" padding-bottom="0px" padding-top="3px"align="right" color="#000" font-weight="400" font-size="14px" >Toronto, ON M9W 1H8
+</mj-text>
+             <mj-text css-class="headerText" padding-bottom="0px" padding-top="3px"align="right" color="#000" font-weight="400" font-size="14px" >Tel: 416.249.7401 – Fax: 1.866.713.4188
+
+</mj-text>  <mj-text css-class="headerText"padding-bottom="0px" padding-top="3px"align="right" color="#000" font-weight="400" font-size="14px" >Follow us on Twitter @cantruck or online at <a href="http://cantruck.ca/" style="text-decoration:none;color:#000;">www.cantruck.ca</a>
+
+</mj-text> 
+           
+      </mj-column>
+    </mj-section>
+
+            <mj-section padding="0px"background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-divider width="100%" border-width="1px" ></mj-divider>
+       <mj-text align="left" color="#000" font-weight="400" font-size="16px" >Dear <strong>Shipper Representative</strong></mj-text>
+         <mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+        
+As the head of the association representing close to 5000 trucking companies across Canada, I am writing you with the sincere hope that you will join my sector, the trucking industry, in trying to stamp out unsafe, non-compliant carriers from the supply chain. 
+</mj-text>
+ <mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+
+There’s an old adage that says if it’s “too good to be true, it probably is”. Through a new business-to-business awareness campaign, the Canadian Trucking Alliance is imploring the supply chain to keep in mind the ‘cost of compliance’ when choosing legitimate transportation providers and to ensure their freight carriers aren’t cheating on taxes, cutting corners on safety, carrying little to no insurance, violating labour rules and polluting the environment by removing all emission controls from their trucks. This is how too many trucking firms are cutting costs. Unfortunately, supporting businesses that engage in such criminal and socially irresponsible behaviour, is how many companies – knowingly or unknowingly – reduce transportation cost.  
+
+ </mj-text>
+<mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+As a good corporate Canadian citizen who is understandably protective of its brand, I trust that this issue would be important to your company/sector and its customers. Our campaign aims to educate members of the supply chain on how to help remove illegal, polluting, unsafe and non-compliant carriers from the roadways.  Make no mistake about it – your firm and/or members could be heavily relying on companies that do not align with your organization’s mission statements and corporate culture. 
+</mj-text>
+ 
+<mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+The CTA Cost of Compliance campaign – which includes printable and digital education pamphlets, as well as downloadable social media banners and images for sharing – is attached and can also be <a href="http://cantruck.ca/digital-brochure-cost-of-compliance/" target="_blank">accessed online by clicking here</a>. 
+</mj-text>
+ <mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+
+CTA believes this campaign provides a roadmap for customers of freight services on how they can limit exposure to these carriers while bolstering their commitment to corporate mission statements and ethical responsibilities many companies publicly stand for. 
+</mj-text>
+      
+<mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+As a leader of a progressive company, I believe these issues equally concern you and am hopeful that you would be interested in addressing these matters.
+  </mj-text>
+<mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+After you have reviewed the CTA material, I encourage you to consider having CTA address your senior management team/membership to discuss how you could take proactive steps to rid noncompliant carriers from your supply chain.  
+</mj-text>
+ <mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+
+Please feel free to contact me via e-mail <a href="mailto: stephen.laskowski@ontruck.org" target="_blank">stephen.laskowski@ontruck.org</a> or by phone at 416-704-6106 to discuss. Together, we can clean up this supply chain embarrassment; Let’s make it happen. 
+</mj-text>
+ <mj-text align="left" color="#000" font-weight="400" font-size="16px" >
+
+Sincerely <br/>
+
+Stephen Laskowski,<br/>
+
+President, Canadian Trucking Alliance
+            
+        </mj-text>
+      </mj-column>
+    </mj-section>
+           
+
+
+
+  </mj-body>
+</mjml>
