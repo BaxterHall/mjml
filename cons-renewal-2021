@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-title>Cons promo</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Continuez Conseiller...</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section padding-bottom="0px" background-color="#fff"  >
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/01/AE-email-requalification-French-V04.jpg" href="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/01/AE-email-requalification-French-V04.jpg" /> 
+      </mj-column>
+    </mj-section>
+
+            <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+       <mj-text align="left" color="#2c6863" font-weight="700" font-size="30px" >Devenez un meilleur conseiller
+grâce à <em>Conseiller</em>!</mj-text>
+            <mj-text align="left" color="#000" font-weight="400" font-size="25px" >Fname Lname, prenez une minute pour renouveler
+votre abonnement gratuit au magazine <em>Conseiller</em>.</mj-text>
+        <mj-button background-color="#2c6863" font-size="40px" href="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/01/AE-email-requalification-French-V04.jpg">JE RENOUVELLE</mj-button>
+        
+      </mj-column>
+    </mj-section>
+               <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-text align="left" color="#2c6863" font-weight="700" font-size="30px" >Dossiers spéciaux à venir en
+2021:</mj-text>
+          <mj-text align="left" color="#000" font-weight="400" font-size="25px" >
+        <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#000; font-size:25px;" align="left" type="disc">
+          	<li style="Margin: 10px 0 10px 0;">Concours <em>Les conseillers à l’honneur!</em>;</li>
+            <li style="Margin: 10px 0 10px 0;">Les hauts et les bas de l’assurance maladies
+graves;</li>
+          	<li style="Margin: 10px 0 10px 0;">En affaires avec son conjoint;</li>
+          	<li style="Margin: 10px 0 10px 0;">Pourquoi votre client devrait consulter un
+notaire;</li>
+          	<li style="Margin: 10px 0 10px 0;">Et bien plus encore!</li>
+          
+            </ul></mj-text>
+        
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0px"background-color="#d5e1e0">
+      <mj-column padding="0px" width="100%">
+        <mj-text padding="0px">&nbsp;</mj-text>
+       
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#eaf0ef">
+      <mj-column padding="0px" width="100%">
+        <mj-text padding="0px">&nbsp;</mj-text>
+       
+      </mj-column>
+    </mj-section>
+
+
+
+
+  </mj-body>
+</mjml>
