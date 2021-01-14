@@ -1,0 +1,171 @@
+<mjml>
+  <mj-head>
+    <mj-title>CWRE-Jan-19</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+CWRE 2021 – Top 5 Reasons to Exhibit</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://media.solidwastemag.com/uploads/2020/11/wre-header.jpg" href="https://waste-recycling-expo-canada.us.messefrankfurt.com/canada/en.html" /> 
+      </mj-column>
+    </mj-section>
+
+
+        <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+		   <mj-text color="#8dc63f" font-weight="700" font-size="50px" align="center">September 14 + 15, 2021</mj-text>  
+      </mj-column>
+    
+    </mj-section>
+    
+        <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="20%">
+		   <mj-text color="#8dc63f" font-weight="700" font-size="50px" align="center">&nbsp;</mj-text>  
+      </mj-column>
+             <mj-column width="60%" background-color="#00b2f0">
+		   <mj-text color="#000" font-weight="700" font-size="40px" align="center">NEW LOCATION!</mj-text>  
+      </mj-column>
+             <mj-column width="20%">
+		   <mj-text color="#8dc63f" font-weight="700" font-size="50px" align="center">&nbsp;</mj-text>  
+      </mj-column>
+    
+    </mj-section>
+        <mj-section padding-top="0px" >
+      <mj-column width="100%">
+		   <mj-text color="#000" font-weight="400" font-size="25px" padding-bottom="0px"align="center">International Centre, Hall 5</mj-text>  
+        		   <mj-text color="#000" font-weight="400" font-size="25px" padding-bottom="0px"align="center">Mississauga, ON</mj-text>  
+      </mj-column>
+    
+    </mj-section>
+
+      <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+         <mj-image padding="0px" src="https://media.solidwastemag.com/uploads/2021/01/wcre-top5.jpg" href="https://waste-recycling-expo-canada.us.messefrankfurt.com/canada/en.html" /> 
+	
+      </mj-column>
+    
+    </mj-section>
+          <mj-section padding-top="0px"padding-bottom="0px" background-color="#fff">
+      <mj-column padding="0px"width="25%">
+			<mj-image padding="0px"src="https://media.solidwastemag.com/uploads/2021/01/box1.jpg"></mj-image>
+      </mj-column>
+             <mj-column padding="0px"width="25%">
+			<mj-image padding="0px"src="https://media.solidwastemag.com/uploads/2021/01/box2.jpg"></mj-image>
+      </mj-column>
+             <mj-column padding="0px"width="25%">
+			<mj-image padding="0px"src="https://media.solidwastemag.com/uploads/2021/01/box3.jpg"></mj-image>
+      </mj-column>
+               <mj-column padding="0px"width="25%">
+			<mj-image padding="0px"src="https://media.solidwastemag.com/uploads/2021/01/box4.jpg"></mj-image>
+      </mj-column>
+    
+    </mj-section>
+            <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+		   <mj-text color="#8dc63f" font-weight="700" font-size="30px" align="center">BOOK WITH CONFIDENCE TODAY</mj-text>  
+      </mj-column>
+    
+    </mj-section>
+      <mj-section padding-bottom="0px">
+      <mj-column width="50%">
+
+         <mj-text color="#000" font-weight="400" font-size="20px" align="center"><a href="https://media.solidwastemag.com/uploads/2020/09/CWRE_BROCH_2021.pdf" style="text-decoration:none;color:#000">EXHIBITOR SALES KIT</a></mj-text>  
+              
+     
+      </mj-column>
+              <mj-column width="50%">
+
+                  <mj-text color="#000" font-weight="400" font-size="20px" align="center"><a href="https://media.solidwastemag.com/uploads/2021/01/SWE_contract_2021-Final.pdf" style="text-decoration:none;color:#000">EXHIBITOR CONTRACT</a></mj-text>
+     
+      </mj-column>
+    
+    
+        
+    </mj-section>
+ 
+          <mj-section  background-color="#fff">
+      <mj-column padding="0px"width="33%">
+		 <mj-text>&nbsp;</mj-text>
+      </mj-column>
+             <mj-column padding="0px"width="33%" background-color="#000">
+		  <mj-text color="#fff" font-weight="400" font-size="20px" align="center"><a href="#" style="text-decoration:none;color:#fff">CONTACT US:</a></mj-text>  
+      </mj-column>
+             <mj-column padding="0px"width="33%">
+				 <mj-text>&nbsp;</mj-text>
+      </mj-column>
+    
+    </mj-section>
+              <mj-section  background-color="#fff">
+      <mj-column padding="0px"width="33%">
+   <mj-text color="#000" font-weight="700" font-size="17px" align="center" padding-bottom="0px">Thierry Quagliata</mj-text> 
+           <mj-text color="#000" font-weight="400" font-size="11px" padding-top="3px" align="center" padding-bottom="0px">SHOW MANAGER</mj-text> 
+         <mj-text color="#000" font-weight="700" font-size="15px" padding-top="3px" align="center" padding-bottom="0px"><a href="mailto:thierry@newcom.ca" style="text-decoration:none;color:#000">Thierry@newcom.ca </a></mj-text> 
+         <mj-text color="#000" font-weight="400" font-size="14px" padding-top="3px" align="center" padding-bottom="0px">DIRECT: <b>416-510-5235</b></mj-text> 
+      </mj-column>
+                     <mj-column padding="0px"width="33%">
+   <mj-text color="#000" font-weight="700" font-size="17px" align="center" padding-bottom="0px">Kathy Koras</mj-text> 
+           <mj-text color="#000" font-weight="400" font-size="11px" padding-top="3px" align="center" padding-bottom="0px">SALES MANAGER</mj-text> 
+         <mj-text color="#000" font-weight="700" font-size="15px" padding-top="3px" align="center" padding-bottom="0px"><a href="mailto:kathy@newcom.ca" style="text-decoration:none;color:#000">Kathy@newcom.ca</a></mj-text> 
+         <mj-text color="#000" font-weight="400" font-size="14px" padding-top="3px" align="center" padding-bottom="0px">DIRECT: <b>416-510-6892</b></mj-text> 
+      </mj-column>
+                     <mj-column padding="0px" width="33%">
+   <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding-bottom="0px">Melissa Arnott</mj-text> 
+           <mj-text  color="#000" font-weight="400" font-size="11px" padding-top="3px" align="center" padding-bottom="0px">DIRECTOR; SHOW DIVISION</mj-text> 
+         <mj-text color="#000" font-weight="700" font-size="15px" padding-top="3px" align="center" padding-bottom="0px"><a href="mailto:mArnott@newcom.ca" style="text-decoration:none;color:#000">mArnott@newcom.ca </a></mj-text> 
+         <mj-text color="#000" font-weight="400" font-size="14px" padding-top="3px" align="center" padding-bottom="0px">DIRECT: <b>416-510-5141</b></mj-text> 
+      </mj-column>
+
+          
+    
+    </mj-section>
+
+       <mj-section  background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://media.solidwastemag.com/uploads/2020/11/wre-footer.jpg" /> 
+      </mj-column>
+    </mj-section>
+        <mj-section  padding-top="0px"background-color="#fff">
+      <mj-column  width="100%">
+        <mj-text color="#8dc63f" font-weight="700" font-size="50px" align="center"><a href="https://waste-recycling-expo-canada.us.messefrankfurt.com/canada/en.html" style="text-decoration:none;color:#8dc63f">www.cwre.ca</a></mj-text>  
+      </mj-column>
+    </mj-section>
+            <mj-section padding-top="0px" background-color="#fff">
+      <mj-column  width="13%">
+				<mj-image src="https://media.solidwastemag.com/uploads/2020/11/wre-fb.jpg" width="45px" href="https://www.facebook.com/WasteRecyclingExpo/"></mj-image>
+      </mj-column>
+              <mj-column  width="13%">
+		<mj-image src="https://media.solidwastemag.com/uploads/2020/11/wre-ig.jpg" width="45px"href="https://www.instagram.com/CWRExpo/"></mj-image>
+      </mj-column>  <mj-column width="13%">
+		<mj-image src="https://media.solidwastemag.com/uploads/2020/11/wre-li.jpg" width="45px"href="https://www.linkedin.com/groups/3110032/"></mj-image>
+      </mj-column>
+               <mj-column width="13%">
+		<mj-image src="https://media.solidwastemag.com/uploads/2020/11/wre-tw.jpg" width="45px"href="https://twitter.com/CWRExpo"></mj-image>
+      </mj-column>
+              </mj-section>
+           
+         <mj-section padding-top="0px">
+      <mj-column width="100%">
+         <mj-image padding="0px" src="https://media.solidwastemag.com/uploads/2020/11/CWRE-footer.png" width="400px" align="center" /> 
+		 
+      </mj-column>
+
+    
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
