@@ -1,0 +1,127 @@
+<mjml>
+  <mj-head>
+    <mj-title>CUW WEBINAR</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+BROKERAGE
+EXECUTIVE OUTLOOK  What’s Ahead for Brokers in 2021</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2021/01/cuw-header.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" /> 
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff" direction="rtl"border-left="1px solid black" border-right="1px solid black" padding-bottom="0px">
+           <mj-column width="40%">
+        <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2020/10/registernow.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="245px" /> 
+ 
+      </mj-column>
+      <mj-column width="60%">
+				   <mj-text color="#e11c23" padding-top="20px"font-weight="700" font-size="30px" align="left">BROKERAGE
+EXECUTIVE OUTLOOK</mj-text>
+ 
+      </mj-column>
+  
+    </mj-section>
+        <mj-section padding-top="0px" background-color="#fff" border-left="1px solid black" border-right="1px solid black">
+      <mj-column width="100%">
+		   <mj-text color="#000" font-weight="700" font-size="23px" align="left"> What’s Ahead for Brokers in 2021</mj-text>
+    <mj-text color="#000" font-weight="400" font-size="18px" align="left"> With the arrival of vaccines in Canada, we can now
+see the light at the end of the COVID-19 tunnel. Join
+Canadian Underwriter as we discuss with broker execs how
+brokerages will adjust to succeed in a post-COVID future.</mj-text>
+          
+        
+        <mj-divider border-width="1px"></mj-divider>
+                <mj-text color="#000" font-weight="700" font-size="20px"  align="center" padding-bottom="0px">Moderated by: <span style="color:#e11c23">Adam Malik,</span></mj-text>
+ 
+            <mj-text color="#000" font-weight="400" font-size="18px"  align="center" padding-bottom="0px"><em>Editor in Chief, Canadian Underwriter</em></mj-text>
+      </mj-column>
+    
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff" direction="ltr"border-left="1px solid black" border-right="1px solid black" padding-bottom="0px">
+           <mj-column width="50%" background-color="#000">
+    <mj-text color="#fff" font-weight="400" font-size="20px" align="center">PANELLISTS</mj-text>
+ 
+      </mj-column>
+      <mj-column width="50%">
+				   <mj-text color="#e11c23" padding-top="20px"font-weight="700" font-size="35px" align="left">&nbsp;</mj-text>
+ 
+      </mj-column>
+  
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff" direction="ltr"border-left="1px solid black" border-right="1px solid black" padding-bottom="0px">
+           <mj-column width="25%" background-color="#fff">
+       <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2021/01/cuw1.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="151px" /> 
+                 <mj-text color="#e11c23" font-weight="700" font-size="14px" align="center">Tina Osen </mj-text>
+                 <mj-text color="#000" font-weight="400" font-size="14px" align="center">President,<br/><em>Hub
+International
+Canada</em>  </mj-text>
+                
+ 
+      </mj-column>
+      <mj-column width="25%">
+				   <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2021/01/cuw2.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="155px" /> 
+        <mj-text color="#e11c23" font-weight="700" font-size="14px" align="center">Brian Parsons</mj-text>
+
+                 <mj-text color="#000" font-weight="400" font-size="14px" align="center"> President & Head
+of Canada<br/><em>Willis Towers
+Watson</em>  </mj-text>
+ 
+      </mj-column>
+       <mj-column width="25%">
+		    <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2021/01/cuw3.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="151px" /> 
+                 <mj-text color="#e11c23" padding-top="13px" font-weight="700" font-size="14px" align="center">Dave Partington</mj-text>
+                 <mj-text color="#000" font-weight="400" font-size="14px" align="center">CEO, <br/><em>Gallagher Global
+Brokerage –
+Canada</em>  </mj-text>
+ 
+      </mj-column>
+            <mj-column width="25%">
+		    <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2021/01/cuw4.jpg" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" width="151px" /> 
+                 <mj-text color="#e11c23" font-weight="700" padding-top="14px"font-size="14px" align="center">Sarah Robson </mj-text>
+                 <mj-text color="#000" font-weight="400" font-size="14px" align="center">President,
+CEO,
+ <br/><em>Marsh
+Canada</em>  </mj-text>
+ 
+      </mj-column>
+  
+    </mj-section>
+        <mj-section padding-top="0px" background-color="#fff" direction="ltr"border-left="1px solid black" border-top="1px solid black"border-right="1px solid black" padding-bottom="0px">
+           <mj-column width="50%" background-color="#000">
+    <mj-text color="#fff" font-weight="400" font-size="20px" align="center">SPONSORED BY</mj-text>
+ 
+      </mj-column>
+      <mj-column width="50%">
+				   <mj-text color="#e11c23" padding-top="20px"font-weight="700" font-size="35px" align="left">&nbsp;</mj-text>
+ 
+      </mj-column>
+  
+    </mj-section>
+    <mj-section  padding="0px" background-color="#fff" border-left="1px solid black" border-right="1px solid black">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" width="300px"src="https://media.canadianunderwriter.ca/uploads/2021/01/sponsor.jpg" width="152px" href="https://attendee.gotowebinar.com/register/193352825476363536?source=eDirect" /> 
+      </mj-column>
+</mj-section>
+        <mj-section  padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%" background-color="#e11c23">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+</mj-section>
+
+  </mj-body>
+</mjml>
