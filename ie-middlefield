@@ -1,0 +1,139 @@
+<mjml>
+  <mj-head>
+    <mj-title>IE_ICPL</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+    
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>Middlefield Group is pleased to introduce the IPO of
+our International Clean Power Dividend Fund</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/01/ie-1.jpg" href="http://www.middlefield.com/"  /> 
+      </mj-column>       
+    </mj-section>
+       <mj-section padding="0px"background-color="#fff" padding-bottom="20px">
+      <mj-column padding="0px" width="100%">
+          <mj-text font-size="20px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#003768">Middlefield Group is pleased to introduce the IPO of
+            our <span style="color:#60bb46;"><em>International Clean Power Dividend Fund</em></span></mj-text>
+ 
+        
+      </mj-column>
+    </mj-section>
+
+        <mj-section background-color="#60bb46" padding-bottom="0px">
+      <mj-column padding="0px" width="100%">
+     <mj-text font-size="20px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#003768"><em>“A Portfolio of Industry Leaders and
+Disruptors Powering a Cleaner Future”</em></mj-text>
+       
+       
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#60bb46" padding-top="0px">
+      <mj-column padding="0px" width="30%">
+    	<mj-image padding-left="20px" padding="0px" padding-top="10px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/01/6-10-Click-to-learn-more.png" href="http://www.middlefield.com/pdf/clp_exchange_ad.pdf"></mj-image>
+       
+       
+      </mj-column>
+             <mj-column padding="0px" padding-top="10px"width="70%">
+     <mj-text font-size="14px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#003768">EXCHANGE OFFER AND CASH OPTION - February 25, 2021</mj-text>
+       
+       
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#fff" padding-bottom="20px">
+      <mj-column padding="0px" width="100%">
+          <mj-text font-size="20px" font-weight="700" align="left" font-style="italic" font-family="Helvetica, Arial, sans-serif" color="#003768"><ul style="padding: 0; Margin: 0 0 0 40px;"> 
+    <li style="Margin:10px 0 10px 0;">Actively managed portfolio of companies leading the renewable
+energy revolution</li>
+              <li style="Margin: 10px 0 10px 0;">Exposure to internationally-listed entities typically underrepresented
+in Canadian portfolios</li>
+	</ul>
+        </mj-text>
+        <mj-image padding="0px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/01/ie-2.jpg"></mj-image>
+         <mj-image  padding="0px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/01/ie-3.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#60bb46" padding-bottom="0px">
+      <mj-column padding="0px" width="100%">
+     <mj-text font-size="20px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#003768"><em>ESG integration to complement fundamental analysis, with a focus on
+companies with sustainable competitive advantages</em></mj-text>
+       
+       
+      </mj-column>
+    </mj-section>
+       <mj-section background-color="#60bb46" padding-top="0px" padding-bottom="0px">
+      <mj-column padding="0px" width="30%">
+    	<mj-image padding-left="20px" padding="0px" padding-top="10px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/01/6-10-Click-to-learn-more.png" href="http://www.middlefield.com/pdf/clp_exchange_ad.pdf"></mj-image>
+       
+       
+      </mj-column>
+             <mj-column padding="0px" padding-top="10px"width="70%">
+     <mj-text font-size="14px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#003768">EXCHANGE OFFER AND CASH OPTION</mj-text>
+       
+       
+      </mj-column>
+    </mj-section>
+            <mj-section background-color="#fff" padding-top="0px" padding-bottom="7px">
+      <mj-column padding="0px" width="100%">
+ 		<mj-text padding="0px">&nbsp;</mj-text>
+       
+       
+      </mj-column>
+           
+    </mj-section>
+           <mj-section background-color="#cdcccc" >
+      <mj-column width="50%">
+  <mj-text font-size="20px" font-weight="700" align="left" padding-top="20px"font-family="Helvetica, Arial, sans-serif" color="#003768"><a href="http://www.middlefield.com/" style="color:#003768">www.midfield.com</a></mj-text>
+       	<mj-image padding="0px" padding-top="10px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/01/ie-4.jpg" href="#"> </mj-image>
+       
+      </mj-column>
+             <mj-column width="50%">
+  <mj-text font-size="20px" font-weight="700" align="left" text-decoration="underline"padding-top="20px"font-family="Helvetica, Arial, sans-serif" color="#003768">Advisor:</mj-text>
+                 <mj-text font-size="18px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#474748">Middlefield Capital Corporation<br/>
+First Canadian Place<br/>
+58th Floor, P.O. Box 192<br/>
+Toronto, Canada M5X 1A6</mj-text>
+       
+       
+      </mj-column>
+    </mj-section>
+               <mj-section background-color="#cdcccc" padding-top="0px" >
+      <mj-column width="100%">
+  <mj-text font-size="20px" font-weight="700" align="center" padding-top="20px"font-family="Helvetica, Arial, sans-serif" color="#000"><a href="http://www.middlefield.com/" style="color:#000">Contact Us</a> | 
+    <a href="http://www.middlefield.com/" style="color:#000">Privacy and Security</a> | 
+        <a href="http://www.middlefield.com/" style="color:#000">Legal</a></mj-text>
+      
+         <mj-text font-size="16px" font-weight="400" align="left" padding-top="20px"font-family="Helvetica, Arial, sans-serif" color="#000">A preliminary prospectus containing important information relating to these securities has been filed with securities
+commissions or similar authorities in each of the provinces of Canada. The preliminary prospectus is still subject
+to completion or amendment. Copies of the preliminary prospectus may be obtained from any of the syndicate
+of agents using the contact information for such agent. There will not be any sale or any acceptance of an offer
+to buy the securities until a receipt for the final prospectus has been issued.</mj-text>
+      </mj-column>
+   
+       
+
+    </mj-section>
+
+       <mj-section background-color="#fff" >
+      <mj-column width="100%">
+ 		<mj-text>&nbsp;</mj-text>
+       
+       
+      </mj-column>
+           
+ 
+  </mj-body>
+</mjml>
