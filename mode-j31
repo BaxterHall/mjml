@@ -1,0 +1,107 @@
+<mjml>
+  <mj-head>
+    <mj-title>MODE - we Miss you</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Let’s throw it back a little bit.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.modeshow.ca/wp-content/uploads/2021/01/mode-heADER.jpg" width="197px" href="http://www.modeshow.ca" /> 
+      </mj-column>
+    </mj-section>
+      <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+            <mj-text color="#819dc3" font-weight="700" font-size="35px" align="center">Remember when?<br/>We can’t wait to see you again!</mj-text>
+   
+
+
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+            <mj-text color="#000" font-weight="400" font-size="25px" align="center">Today would have been the day that we all got to reconnect.
+Since we can’t see each other this January, let’s throw it back a bit.
+Enjoy our video highlights from the Mode January 2020 show.</mj-text>
+   
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.modeshow.ca/wp-content/uploads/2021/01/modebannr.jpg" href="https://www.modeshow.ca/throwback-2020" /> 
+      </mj-column>
+    </mj-section>
+  
+           <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+          <mj-button href="https://www.modeshow.ca/throwback-2020" background-color="#000" font-size="25px">SEE IT HERE!</mj-button>
+   
+
+
+      </mj-column>
+    </mj-section>
+          <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+            <mj-text color="#819dc3" font-weight="700" font-size="35px" align="center">Let’s meet soon. Save the date.!</mj-text>
+   
+
+
+      </mj-column>
+    </mj-section>
+          <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+            <mj-text color="#000" font-weight="400" font-size="30px" align="center">August 8 - 10, 2021<br/>
+The International Centre<br/>
+Mississauga, ON</mj-text>
+   
+
+
+      </mj-column>
+    </mj-section>
+   <mj-section padding-top="10px" padding-bottom="0px"background-color="#fff">
+      <mj-column width="100%">
+<mj-divider border-width="1px" width="80%"></mj-divider>
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px" background-color="#fff">
+      <mj-column width="100%">
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center">Join the Mode community </mj-text>
+      </mj-column>
+    </mj-section>
+          <mj-section padding-top="0px" background-color="#fff">
+      <mj-column  width="16%">
+				<mj-image src="https://www.modeshow.ca//wp-content/uploads/2020/08/Mode_eblast-footer_social_IG_45x45.jpg" width="45px" href="https://www.instagram.com/modeshowcanada/"></mj-image>
+      </mj-column>
+              <mj-column  width="16%">
+		<mj-image src="https://www.modeshow.ca/wp-content/uploads/2020/08/Mode_eblast-footer_social_TW_45x45.jpg" width="45px"href="https://twitter.com/modeshowcanada"></mj-image>
+      </mj-column>  <mj-column width="16%">
+		<mj-image src="https://www.modeshow.ca//wp-content/uploads/2020/08/Mode_eblast-footer_social_FB_45x45.jpg" width="45px"href="https://www.facebook.com/modeshowcanada"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section padding-top="0px" background-color="#fff">
+      <mj-column width="100%">
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center">@modeshowcanada </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+ 
+
+ 
+  </mj-body>
+</mjml>
