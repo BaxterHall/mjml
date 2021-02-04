@@ -2,9 +2,17 @@
   <mj-head>
     <mj-title>CMPX</mj-title>
     <mj-attributes>
-      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+      <mj-all font-family="'Barlow Condensed', sans-serif;Arial, sans-serif"></mj-all>
     </mj-attributes>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600&display=swap" rel="stylesheet">
   <mj-style>
+   
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600&display=swap');
+
+  </mj-style>
+  <mj-style>
+    
       .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
       { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
       } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
@@ -20,33 +28,37 @@
   <mj-body background-color="#fff"  width="640px">
     <mj-section background-color="#fff">
       <mj-column  width="100%">
-        <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/02/cmpxbanner.jpg" width="640px" href="https://www.cmpxshow.com" /> 
-        <mj-text color="#d2232a" font-weight="700" padding="0px" font-size="22px" align="center">Canada’s Show for the Mechanicals and Plumbing Industries</mj-text>
-      </mj-column>
-    </mj-section>
-     <mj-section background-color="#ed1c24">
-      <mj-column width="100%">
-            <mj-text color="#fff" font-weight="700" font-size="30px" align="center">March 23, 24 & 25, 2022 </mj-text>
-        <mj-text color="#fff" font-weight="400" font-size="25px" align="center">METRO TORONTO CONVENTION CENTRE</mj-text>
-   
+        <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/02/cmpxnewheader.jpg" width="640px" alt="
+Canada’s Trade Show for the mechanicals
+and plumbing industries, and the largest show of its kind
+in Canada, CMPX offers unmatched opportunities
+to gain direct access to decisionmakers.
+FOR CMPX 2022
+REBOOK YOUR SPACE TODAY
+2022
+Canadian
+Plumbing
+Exposition
+Mechanical&
+Canada’s Show for the Mechanicals March 23, 24 & 25, 2022
+METRO TORONTO CONVENTION CENTRE "href="https://www.cmpxshow.com" /> 
+        <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/02/rebook-1.jpg" width="640px" alt="
 
-
+FOR CMPX 2022
+REBOOK YOUR SPACE TODAY
+2022
+"href="https://www.cmpxshow.com" /> 
       </mj-column>
     </mj-section>
-        <mj-section background-color="#fff">
-      <mj-column  width="100%">
-        <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/02/rebook.jpg" width="640px" href="https://www.cmpxshow.com" /> 
-      </mj-column>
-    </mj-section>
-       <mj-section padding-top="10px" background-color="#fff">
+       <mj-section padding-top="0px" background-color="#fff">
       <mj-column width="100%">
             <mj-text color="#000" font-weight="400" font-size="20px" align="center" padding-bottom="40px">As a past exhibitor you have the opportunity to
 rebook for 2022 before we open up to new companies.
 Contact us today to review your booth options and
 other programs that will raise your profile and brand. </mj-text>
-           <mj-button href="https://www.cmpxshow.com/buy-exhibit-space" background-color="#61c6da" font-size="25px" width="350px">EXHIBITOR BROCHURE</mj-button>
-         <mj-button href="https://www.cmpxshow.com/buy-exhibit-space" background-color="#61c6da" font-size="25px" width="350px">SHOW QUICK FACTS</mj-button>
-         <mj-button href="https://www.cmpxshow.com/buy-exhibit-space" background-color="#61c6da" font-size="25px" width="350px">FLOOR PLAN</mj-button>
+           <mj-button href="https://www.cmpxshow.com/buy-exhibit-space" background-color="#61c6da" font-size="25px" width="400px">EXHIBITOR BROCHURE</mj-button>
+         <mj-button href="https://www.cmpxshow.com/buy-exhibit-space" background-color="#61c6da" font-size="25px" width="400px">EXHIBITOR APPLICATION</mj-button>
+         <mj-button href="https://www.cmpxshow.com/buy-exhibit-space" background-color="#61c6da" font-size="25px" width="400px">FLOOR PLAN</mj-button>
 
 
       </mj-column>
@@ -72,13 +84,31 @@ other programs that will raise your profile and brand. </mj-text>
  <mj-text color="#000" font-weight="700" font-size="20px" align="center"><a href="mailto:tiffany@newcom.ca" style="text-decoration:none;color:#000;font-weight:700">tiffany@newcom.ca</a></mj-text>
       </mj-column>
     </mj-section>
-  
-            <mj-section padding-top="10px" background-color="#fff">
-      <mj-column width="100%">
-            <mj-text color="#000" font-weight="700" font-size="20px" align="center" padding-bottom="40px"><em>As Canada’s Trade Show for the mechanicals
+      <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/02/cmpxtriangle.jpg" width="640px" alt="
+Canada’s Trade Show for the mechanicals
 and plumbing industries, and the largest show of its kind
 in Canada, CMPX offers unmatched opportunities
-              to gain direct access to decisionmakers.</em> </mj-text>
+to gain direct access to decisionmakers.
+FOR CMPX 2022
+REBOOK YOUR SPACE TODAY
+2022
+Canadian
+Plumbing
+Exposition
+Mechanical&
+Canada’s Show for the Mechanicals March 23, 24 & 25, 2022
+METRO TORONTO CONVENTION CENTRE "href="https://www.cmpxshow.com" /> 
+
+      </mj-column>
+    </mj-section>
+            <mj-section padding-top="10px" background-color="#fff">
+      <mj-column width="100%">
+            <mj-text color="#000" font-weight="700" font-size="20px" align="center" padding-bottom="40px"><em>As Canada’s trade show for the mechanicals
+and plumbing industries, and the largest show of its kind
+in Canada, CMPX offers unmatched opportunities
+              to gain direct access to decision makers.</em> </mj-text>
          
 
 
@@ -108,13 +138,13 @@ in Canada, CMPX offers unmatched opportunities
           <mj-section padding-bottom="0px" background-color="#fff">
       <mj-column width="50%">
             
-      <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/02/hrailogo.jpg" width="254px" /> 
+      <mj-image padding="0px" align="center" src="https://www.newcom.ca/wp-content/uploads/2021/02/hrailogo.jpg" width="254px" /> 
 
 
       </mj-column>
             <mj-column width="50%">
             
-      <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/02/ciphlogo.jpg" width="103px" align="left" /> 
+      <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/02/ciphlogo-1.jpg" width="103px" align="center" /> 
 
 
       </mj-column>
