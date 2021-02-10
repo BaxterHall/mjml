@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-title>Tankmart French</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  padding-bottom="0px" background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.transportroutier.ca/wp-content/uploads/2021/02/tank-fr-header.jpg" href="https://www.citernes.ca/" /> 
+      </mj-column>
+    </mj-section>
+
+
+        <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+		   <mj-text color="#ee3524" font-weight="700" font-size="40px" align="center">Decouvrez nos nouveautés!</mj-text>  
+      </mj-column>
+    
+    </mj-section>
+   <mj-section  padding-bottom="0px" background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.transportroutier.ca/wp-content/uploads/2021/02/tank-fr-middle.jpg" href="https://www.citernes.ca/" /> 
+      </mj-column>
+    </mj-section>
+      <mj-section padding-bottom="0px">
+      <mj-column width="70%">
+        <mj-text color="#ee3524" padding="0px"font-weight="700" font-size="25px" align="left">Voir Inventaire Complet</mj-text>    
+      </mj-column>
+          <mj-column width="30%">
+        <mj-text color="#000" padding="0px"font-weight="700" font-size="20px" align="left"><a href=" https://www.citernes.ca" style="color:#000;text-decoration:none;">www.<span style="color:#ee3524;">citernes</span>.ca</a></mj-text>  
+      </mj-column>
+    
+    </mj-section>
+          <mj-section  padding-bottom="0px" background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.transportroutier.ca/wp-content/uploads/2021/02/tank-fr-red.jpg" href="https://www.citernes.ca" /> 
+      </mj-column>
+    </mj-section>
+       <mj-section  padding-top="0px" padding-bottom="0px" background-color="#fff">
+      <mj-column width="100%">
+        <mj-image padding="0px" src="https://www.transportroutier.ca/wp-content/uploads/2021/02/tank-fr-footer.jpg" href="https://www.citernes.ca" /> 
+      </mj-column>
+    </mj-section>
+
+
+
+  </mj-body>
+</mjml>
