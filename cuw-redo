@@ -1,0 +1,312 @@
+<mjml>
+  <mj-head>
+    <mj-title>Canadian Underwriter Daily</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .besideBB {
+        width: 100%
+      }
+
+      .BBAd {
+        min-width: 300px;
+        width: 300px;
+      }
+    </mj-style>
+    <mj-preview>PREVIEW TEXT GOES HERE DO DOO DO DOO</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" width="640px">
+    <mj-section css-class="header" padding="0px">
+      <mj-column>
+        <mj-image src="https://media.canadianunderwriter.ca/uploads/2018/10/CUWDaily_logo_2018.png"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="bodyStoryBB" padding="0px">
+       
+      <mj-column css-class="besideBB" width="50%" padding="0px">
+        <mj-image src="https://media.canadianunderwriter.ca/uploads/2020/06/iStock-458096051-queens-park-170x128.jpg"/>
+        <mj-text font-size="15px" padding-bottom="0px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Telematics surcharges arrive for Ontario auto</a>
+        </mj-text>
+
+
+      </mj-column>
+     <mj-column width="50%">
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CUW_BB_5/&sz=300x250" href="https://www.canadianunderwriter.ca/ad/em_CUW_BB_2/300x250/" />
+      </mj-column>
+       </mj-section>
+      <mj-section css-class="bodyStory2" padding="0px">
+      <mj-column width="100%">
+            <mj-text font-size="13px">A B.C. driver has failed in his bid to receive a refund for his insurance premium increase and deductible after B.C.’s public auto insurer found him 100% responsible for failing to clear an intersection for an ambulance. A B.C. ambulance… read more
+        </mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section css-class="bodyStoryBB" padding="0px">
+        
+      <mj-column css-class="besideBB" width="50%" padding="0px">
+      <mj-image src="https://media.canadianunderwriter.ca/uploads/2020/08/iStock-456859541-wallet-with-money-170x128.jpg"/>
+        <mj-text font-size="15px" padding-bottom="0px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Get ready for a ‘multi-year correction’ upwards in commercial insurance pricing</a></mj-text>
+   
+     
+      
+      </mj-column>
+     <mj-column width="50%">
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://pubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CUW_BB_2/&sz=300x250" href="https://www.canadianunderwriter.ca/ad/em_CUW_BB_2/300x250/" />
+      </mj-column>
+      </mj-section>
+          <mj-section css-class="bodyStory2" padding="0px">
+      <mj-column width="100%">
+            <mj-text font-size="13px">Despite consecutive quarters of double-digit increases in specialty lines, commercial insurers are likely to continue raising your clients’ premiums even further in the coming years, a Bermuda insurance CEO warns. “While the pricing momentum we are seeing in both insurance…
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-section css-class="bodyStory3" padding="0px">
+      <mj-column width="25%">
+        <mj-image src="https://media.canadianunderwriter.ca/uploads/2021/01/iStock-1213895704-gavel-covid-crop-170x128.jpg" />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">How weak insurance sector growth puts technology in the spotlight</a>
+        </mj-text>
+        <mj-text font-size="12px">A B.C. driver has failed in his bid to receive a refund for his insurance premium increase and deductible after B.C.’s public auto insurer found him 100% responsible for failing to clear an intersection for an ambulance. A B.C. ambulance… read more
+        </mj-text>
+      </mj-column>
+    </mj-section>
+          <mj-section css-class="bodyStory4" padding="0px">
+      <mj-column width="25%">
+        <mj-image src="    https://media.canadianunderwriter.ca/uploads/2020/05/iStock-876353660-MA-web-170x128.jpg" />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">How weak insurance sector growth puts technology in the spotlight</a>
+        </mj-text>
+        <mj-text font-size="12px">A B.C. driver has failed in his bid to receive a refund for his insurance premium increase and deductible after B.C.’s public auto insurer found him 100% responsible for failing to clear an intersection for an ambulance. A B.C. ambulance… read more
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="textad" padding="0px" border="0">
+      <mj-column width="100%">
+        <mj-text color="#000" align="right" font-size="10px">advertisement
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="textad" padding="0px" border="1px solid black">
+      <mj-column css-class="text-partner-img" width="25%">
+        <mj-image src="https://www.canadianunderwriter.ca/wp-content/uploads/2019/01/Ambulance-170x113.jpg" />
+      </mj-column>
+      <mj-column css-class="text-partner-text" width="75%">
+        <mj-text font-size="15px" padding-bottom="0px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Can’t hear the ambulance? Turn down your radio</a>
+        </mj-text>
+        <mj-text font-size="12px">A B.C. driver has failed in his bid to receive a refund for his insurance premium increase and deductible after B.C.’s public auto insurer found him 100% responsible for failing to clear an intersection for an ambulance. A B.C. ambulance… read more
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="inspress" padding="0px">
+      <mj-column width="100%">
+        <mj-text color="#eb1f2a" font-size="21px" vertical-align="middle"><img src="https://www.insblogs.com/wp-content/uploads/2014/07/inspress-logo.gif"/> Insurance Press Release Service
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="inspress" padding="0px">
+      <mj-column width="100%">
+        <mj-text padding="0px">
+          <hr noshade="" color="#eb1f2a" width="100%" size="1" style="padding:0; margin:8px 0 8px 0; border:none; width:100%; height: 1px; color:#eb1f2a; background-color: #eb1f2a"/>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+      <mj-section css-class="inspress" padding="0px">
+      <mj-column width="25%">
+        <mj-image src="https://www.canadianunderwriter.ca/wp-content/uploads/2019/01/iStock-997604840-170x127.jpg" />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">How weak insurance sector growth puts technology in the spotlight</a>
+        </mj-text>
+        <mj-text font-size="12px">A B.C. driver has failed in his bid to receive a refund for his insurance premium increase and deductible after B.C.’s public auto insurer found him 100% responsible for failing to clear an intersection for an ambulance. A B.C. ambulance… read more
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="insBlogs" padding="0px">
+      <mj-column width="100%">
+        <mj-text color="#eb1f2a" font-size="21px" vertical-align="middle"><img src="https://www.insblogs.com/wp-content/uploads/2014/07/insblog-com-logo-no-tag.gif"/> Commentary &amp; Analysis
+        </mj-text>
+      </mj-column>
+       </mj-section>
+    <mj-section css-class="insBlogs" padding="0px">
+      <mj-column width="100%">
+        <mj-text padding="0px">
+          <hr noshade="" color="#eb1f2a" width="100%" size="1" style="padding:0; margin:8px 0 8px 0; border:none; width:100%; height: 1px; color:#eb1f2a; background-color: #eb1f2a">
+        </mj-text>
+      </mj-column>
+       </mj-section>
+    <mj-section css-class="insBlogs" padding="0px">
+      <mj-column width="25%">
+        <mj-image src="https://www.canadianunderwriter.ca/wp-content/uploads/2019/01/iStock-997604840-170x127.jpg" />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">How weak insurance sector growth puts technology in the spotlight</a>
+        </mj-text>
+        <mj-text font-size="12px">A B.C. driver has failed in his bid to receive a refund for his insurance premium increase and deductible after B.C.’s public auto insurer found him 100% responsible for failing to clear an intersection for an ambulance. A B.C. ambulance… read more
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="fromtTheMag" padding="0px">
+      <mj-column width="100%">
+        <mj-text color="#eb1f2a" font-size="21px" vertical-align="middle">From The Magazine
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="fromtTheMag" padding="0px">
+      <mj-column width="100%">
+        <mj-text padding="0px">
+          <hr noshade="" color="#eb1f2a" width="100%" size="1" style="padding:0; margin:8px 0 8px 0; border:none; width:100%; height: 1px; color:#eb1f2a; background-color: #eb1f2a"/>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="fromtTheMag" padding="0px">
+      <mj-column width="25%">
+        <mj-image src="https://www.canadianunderwriter.ca/wp-content/uploads/2019/01/iStock-997604840-170x127.jpg" />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">How weak insurance sector growth puts technology in the spotlight</a>
+        </mj-text>
+        <mj-text font-size="12px">A B.C. driver has failed in his bid to receive a refund for his insurance premium increase and deductible after B.C.’s public auto insurer found him 100% responsible for failing to clear an intersection for an ambulance. A B.C. ambulance… read more
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="editorPicks" padding="0px">
+      <mj-column width="100%">
+        <mj-text color="#eb1f2a" font-size="21px" vertical-align="middle">Editors Picks
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="editorPicks" padding="0px">
+      <mj-column width="100%">
+        <mj-text padding="0px">
+          <hr noshade="" color="#eb1f2a" width="100%" size="1" style="padding:0; margin:8px 0 8px 0; border:none; width:100%; height: 1px; color:#eb1f2a; background-color: #eb1f2a"/>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="editorPicks" padding="0px">
+      <mj-column width="25%">
+        <mj-image src="https://www.canadianunderwriter.ca/wp-content/uploads/2019/01/iStock-997604840-170x127.jpg" />
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">How weak insurance sector growth puts technology in the spotlight</a>
+        </mj-text>
+        <mj-text font-size="12px">A B.C. driver has failed in his bid to receive a refund for his insurance premium increase and deductible after B.C.’s public auto insurer found him 100% responsible for failing to clear an intersection for an ambulance. A B.C. ambulance… read more
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section css-class="eventsCalender" padding="0px">
+      <mj-column width="100%">
+        <mj-text color="#eb1f2a" font-size="21px" padding-bottom="0px">Events Calendar
+        </mj-text>
+      </mj-column>
+       </mj-section>
+    <mj-section css-class="eventsCalender" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text padding="0px">
+          <hr noshade="" color="#eb1f2a" width="100%" size="1" style="padding:0; margin:8px 0 8px 0; border:none; width:100%; height: 1px; color:#eb1f2a; background-color: #eb1f2a"/>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="eventsCalender" padding="0px">
+      <mj-column width="50%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">YIPO Launch Party</a>
+        </mj-text>
+        <mj-text font-size="12px">July 11 2019, Moscow Tea Room - 526 Sussex Dr, Ottawa, ON July 11th, 2019 we’re celebrating the launch of the new non-profit organization, Young...
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">YIPO Launch Party</a>
+        </mj-text>
+        <mj-text font-size="12px">July 11 2019, Moscow Tea Room - 526 Sussex Dr, Ottawa, ON July 11th, 2019 we’re celebrating the launch of the new non-profit organization, Young...
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="eventsCalender" padding="0px">
+      <mj-column width="100%">
+        <mj-text font-size="12px" color="#e01d25">
+          all events
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="ihire" padding="0px">
+      <mj-column width="100%">
+        <mj-text color="#eb1f2a" font-size="21px" vertical-align="middle"><img src="https://www.canadianunderwriter.ca/wp-content/uploads/2016/03/i-hire.gif"/> Latest Insurance Jobs
+        </mj-text>
+      </mj-column>
+       </mj-section>
+    <mj-section css-class="ihire" padding="0px">
+      <mj-column width="100%">
+        <mj-text padding="0px">
+          <hr noshade="" color="#eb1f2a" width="100%" size="1" style="padding:0; margin:8px 0 8px 0; border:none; width:100%; height: 1px; color:#eb1f2a; background-color: #eb1f2a"/>
+        </mj-text>
+      </mj-column>
+       </mj-section>
+    <mj-section css-class="ihire" padding="0px">
+      <mj-column width="80%">
+        <mj-text font-size="15px"><a href="https://www.canadianunderwriter.ca/insurance/cant-hear-the-ambulance-turn-down-your-radio-1004150876/" target="_blank" style="font-size:15px;color:#333333;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">JUNIOR COMMERCIAL LINES ACCOUNT MANAGER</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-text font-size="12px">04/07/19</mj-text>
+      </mj-column>
+       </mj-section>
+    <mj-section css-class="ihire" padding="0px">
+      <mj-column width="100%" padding="0px">
+        <mj-text padding="0px">
+          <hr noshade="" color="#000" width="100%" size="1" style="padding:0; margin:8px 0 8px 0; border:none; width:100%; height: 1px; color:#eb1f2a; background-color: #000"/>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section css-class="ihire" padding="0px">
+      <mj-column width="100%">
+        <mj-text font-size="12px" color="#e01d25">
+          all careers
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="footer" background-color="#e3e3e3" padding="0px">
+      <mj-column width="70%">
+        <mj-text color="#eb1f2a" font-size="21px" vertical-align="middle"><img src="https://www.canadianunderwriter.ca/wp-content/uploads/2018/10/CU-Logo_rgb_10-2018-newsletter.png"/>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-text color="#eb1f2a" font-size="21px" vertical-align="middle">
+          <img src="https://www.canadianunderwriter.ca/wp-content/uploads/2017/08/twitter_icon.png"/>
+          <img src="https://www.canadianunderwriter.ca/wp-content/uploads/2017/08/facebook_icon.png"/>
+          <img src="https://www.canadianunderwriter.ca/wp-content/uploads/2017/08/linkedin_icon.png"/>
+          <img src="https://www.canadianunderwriter.ca/wp-content/uploads/2017/08/rss-w30.png"/>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="footer" background-color="#e3e3e3" padding="0px">
+      <mj-column width="100%">
+        <mj-text color="#555555" font-size="13px" align="right">
+          <a href="https://www.canadianunderwriter.ca/digital-edition/?utm_medium=email&amp;utm_source=newcom&amp;utm_campaign=CanadianUnderwriterDaily&amp;utm_content=20190705105349" alt="View Current Issue" class="footerWidgetMenuItem" rel="noopener" target="_blank" style="color: #555555;
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 20px;">Current Issue</a> |
+          <a href="https://www.canadianunderwriter.ca/contacts/?utm_medium=email&amp;utm_source=newcom&amp;utm_campaign=CanadianUnderwriterDaily&amp;utm_content=20190705105349" alt="Contact Us" class="footerWidgetMenuItem" rel="noopener" target="_blank" style="color: #555555;
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 20px;">Contact Us</a> |
+          <a href="https://www.canadianunderwriter.ca/buyers-guide/?utm_medium=email&amp;utm_source=newcom&amp;utm_campaign=CanadianUnderwriterDaily&amp;utm_content=20190705105349" alt="view InsuranceInsurance Marketer" rel="noopener" class="footerWidgetMenuItem" target="_blank" style="color: #555555;
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 20px;">Insurance Marketer</a> |
+          <a href="https://www.canadianunderwriter.ca/statistical-subscription-page/?utm_medium=email&amp;utm_source=newcom&amp;utm_campaign=CanadianUnderwriterDaily&amp;utm_content=20190705105349" alt="View Stats Guide" rel="noopener" class="footerWidgetMenuItem" target="_blank" style="color: #555555;
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 20px;">Stats Guide</a>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
