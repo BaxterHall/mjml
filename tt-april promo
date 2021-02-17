@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-title>TT APRIL 2020</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:25% !important; display:inline-block !important; }}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Hydrogen Hopes
+Fueling interest in fuel cells  Equipment Focus
+Engine oils&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" color="#fff" font-family="Arial, sans-serif">
+    <mj-section background-color="#fff"padding-bottom="0px"  >
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.trucknews.com/wp-content/uploads/2021/02/TTapriltop.jpg"  />
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="0px" border-left="1px solid #007ac3" border-right="1px solid #007ac3" >
+      <mj-column background-color="#fff"  width="25%">
+        <mj-text  color="#007ac3" font-size="15px" font-weight="700" padding="0px" padding-top="5px" padding-left="5px"align="left" padding-bottom="0px">Joe Glionna</mj-text>
+    
+          <mj-text  color="#000" font-size="14px" font-weight="700"padding="0px" padding-left="5px"padding-top="5px" align="left" padding-bottom="0px">President</mj-text>
+         <mj-text  color="#000" font-size="14px" font-weight="400" padding="0px"padding-left="5px" padding-top="5px"align="left" padding-bottom="0px">(416) 614-5805 </mj-text>
+
+           <mj-text  color="#000" font-size="14px" font-weight="400"padding="0px"padding-left="5px" padding-top="5px" align="left" padding-bottom="0px"><a href="mailto:joeb@newcom.ca" style="text-decoration:none;color:#000;font-weight:400">joe@newcom.ca</a></mj-text>
+      </mj-column>
+         <mj-column background-color="#fff"  width="25%">
+        <mj-text  color="#007ac3" font-size="15px" font-weight="700"padding="0px" padding-top="5px" align="left" padding-bottom="0px">Lou Smyrlis</mj-text>
+    
+          <mj-text  color="#000" font-size="14px" font-weight="700"padding="0px" padding-top="5px" align="left" padding-bottom="0px">Managing Director</mj-text>
+         <mj-text  color="#000" font-size="14px" font-weight="400" padding="0px" padding-top="5px"align="left" padding-bottom="0px">(416) 510-6881</mj-text>
+
+           <mj-text  color="#000" font-size="14px" font-weight="400" padding="0px" padding-top="5px"align="left" padding-bottom="0px"><a href="mailto:lou@newcom.ca" style="text-decoration:none;color:#000;">lou@newcom.ca</a></mj-text>
+      </mj-column>
+          <mj-column background-color="#fff"  width="25%">
+        <mj-text  color="#007ac3" font-size="15px" font-weight="700"padding="0px" padding-top="5px" align="left" padding-bottom="0px">Nickisha Rashid</mj-text>
+    
+          <mj-text  color="#000" font-size="14px" font-weight="700"padding="0px" padding-top="5px" align="left" padding-bottom="0px">Midwest & Western U.S.,
+Western Canada & Ontario</mj-text>
+         <mj-text  color="#000" font-size="14px" font-weight="400"padding="0px" padding-top="5px" align="left" padding-bottom="0px">(416) 614-5824</mj-text>
+
+           <mj-text  color="#000" font-size="14px" padding="0px" padding-top="5px"font-weight="400" align="left" padding-bottom="0px"><a href="mailto:nickisha@newcom.ca" style="text-decoration:none;color:#000;">nickisha@newcom.ca</a></mj-text>
+      </mj-column>
+          <mj-column background-color="#fff"  width="25%">
+        <mj-text  color="#007ac3" font-size="15px" font-weight="700" align="left"padding="0px"  padding-left="5px"padding-top="5px">Denis Arsenault</mj-text>
+    
+          <mj-text  color="#000" font-size="14px" font-weight="700" align="left" padding="0px"  padding-left="5px"padding-top="5px">Quebec, Maritimes</mj-text>
+         <mj-text  color="#000" font-size="14px" font-weight="400" align="left" padding="0px"  padding-left="5px"padding-top="5px">(514) 947-7228</mj-text>
+
+           <mj-text  color="#000" font-size="14px" font-weight="400" align="left" padding="0px"  padding-left="5px"padding-top="5px"><a href="mailto:denis@newcom.ca" style="text-decoration:none;color:#000;"> denis@newcom.ca</a></mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#fff">
+      <mj-column background-color="#fff" padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.trucknews.com/wp-content/uploads/2021/02/ttaprilbottom.png"  />
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
