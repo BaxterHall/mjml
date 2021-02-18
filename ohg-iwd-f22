@@ -1,0 +1,88 @@
+<mjml>
+  <mj-head>
+    <mj-title>IWD - OHG </mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Register now
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  padding-bottom="0px" background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2021/02/iwdheader.jpg" href="https://attendee.gotowebinar.com/register/8698988965925854220?source=eBlast1-OHG" /> 
+      </mj-column>
+    </mj-section>
+
+
+        <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+		   <mj-text color="#000" font-weight="400" font-size="18px" align="left">The last 12 months have forced us to dig into our reserves of strength, 
+patience and creativity. But tackling great challenges can reveal powerful
+ truths about who we are and what we’re capable of.</mj-text> 
+         <mj-text color="#000" font-weight="400" font-size="18px" align="left">Join us on International Women’s Day to celebrate the accomplishments
+ of women everywhere after a year that has tested even the strongest of mindsets.</mj-text>  
+          <mj-text color="#000" font-weight="400" font-size="18px" align="left">In this webinar, you’ll hear from renowned Canadian entrepreneur Michele Romanow on how to build resilience and overcome obstacles to achieve success in your life and career</mj-text> 
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2021/02/iwdregisternow.jpg" href="https://attendee.gotowebinar.com/register/8698988965925854220?source=eBlast1-OHG" width="175px" align="left"/>
+      </mj-column>
+    
+    </mj-section>
+    <mj-section  padding-bottom="0px" background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2021/02/iwdmichelle.jpg" href="https://attendee.gotowebinar.com/register/8698988965925854220?source=eBlast1-OHG" /> 
+      </mj-column>
+    </mj-section>
+
+
+        <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+		   <mj-text color="#000" font-weight="400" font-size="18px" align="left">Tech titan Michele Romanow is a serial entrepreneur who started five companies
+ before her 33rd birthday. A “Dragon” on CBC’s hit show Dragons’ Den, Romanow
+ is the Co-founder and President of Clearbanc. In 2015, Romanow became the
+ youngest judge on CBC’s Dragons’ Den and has been a ‘Dragon’ for the last six seasons. A prolific investor, Romanow was recently named Fortune’s 40 under 40, 
+a Young Global Leader by the World Economic Forum, one of Canada’s Most
+ <strong>Powerful Women and Canada’s Angel Investor of the Year.</strong></mj-text> 
+       
+      </mj-column>
+    
+    </mj-section>
+
+       <mj-section  padding-bottom="0px" background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2021/02/iwdmshin.jpg" href="https://attendee.gotowebinar.com/register/8698988965925854220?source=eBlast1-OHG" /> 
+      </mj-column>
+    </mj-section>
+
+
+        <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+		   <mj-text color="#000" font-weight="400" font-size="18px" align="left">With more than a decade of financial reporting and newsroom management
+ experience, Melissa Shin heads Newcom Media Inc.’s suite of industry-leading
+ English and French investment publications. Her work has been cited in university
+ syllabi, in textbooks and to national regulators. In 2017, she won awards from
+ both CFA Society Toronto and the Portfolio Management Association of Canada
+ for her reporting</mj-text> 
+       
+      </mj-column>
+    
+    </mj-section>
+    
+       <mj-section  padding-bottom="0px" background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2021/02/iwd-ohg-footer.jpg" href="https://attendee.gotowebinar.com/register/8698988965925854220?source=eBlast1-OHG" /> 
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
