@@ -1,0 +1,131 @@
+<mjml>
+  <mj-head>
+    <mj-title>CUW May Promo.</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+     
+
+      @media only screen and (max-width:480px) {
+        .noMob {
+          display: none !important;
+          mso-hide: all !important;
+        }
+
+
+        .yesMob {
+          display: inline-block !important;
+          text-align: center !important;
+          align: center !important;
+
+
+        }
+
+        .mobPad {
+          padding-top: 10px !important;
+          ;
+          text-align: center !important;
+          align: center !important;
+        }
+
+        .centerMe {
+          text-align: center !important;
+          align: center !important;
+        }
+
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob {
+        display: none !important;
+        mso-hide: all !important;
+      }
+    </mj-style>
+    <mj-preview>Reach independent brokers as they review
+results of the Annual Broker Survey &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section  padding="0px" background-color="#fff">
+      <mj-column  background-color="#fff" padding-top="20px" width="50%">
+        <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2021/03/cuw-header-2.png" width="640px" href="https://www.canadianunderwriter.ca" />
+          <mj-text font-size="17px" font-weight="400" color="#000" padding-bottom="0px" align="left">Reach independent brokers as they review
+results of the Annual Broker Survey</mj-text>
+        <mj-text font-size="14px" font-weight="400" color="#000" padding-bottom="0px" align="left">The 2021 National Broker Survey will unveil results of our annual
+study that measures sentiments, aspirations and methods of brokerage
+owners and producers. Data will be translated into practical business
+insights so brokers know what’s successful and how to seize the
+opportunity.</mj-text>
+          <mj-text font-size="14px" font-weight="400" color="#000" padding-bottom="0px" align="left">The 2021 This special combined issue will also feature our Reinsurance
+Guide that will map out the regulatory environment and market issues
+facing reinsurers in Canada today. Learn how global reinsurers are
+making the most out of their support for Canadian primary carriers.</mj-text>
+      </mj-column>
+            <mj-column width="50%">
+            <mj-image  width="300px" src="https://media.canadianunderwriter.ca/uploads/2021/03/cuw-nat-cover.jpg"/>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+                 <mj-text font-size="14px" font-weight="400" color="#000" padding-bottom="0px" align="left">Canadian Underwriter is the #1 brand reaching independent
+brokers in Canada and the May issue presents you with a premium
+editorial environment for your advertising message.</mj-text>
+   
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="0px">
+      <mj-column width="100%">
+        <mj-image  align="center" src="https://media.canadianunderwriter.ca/uploads/2021/03/dates3.jpg" />
+             <mj-divider width="100%"></mj-divider>
+      </mj-column>
+
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column  padding="0px" width="100%">
+       <mj-text font-size="16px" font-weight="700" color="red"  align="left">CONTACT YOUR
+SALES CONSULTANT
+TO BOOK YOUR
+SPACE TODAY!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#fff">
+       <mj-column  width="33%">
+        <mj-text font-size="15px" font-weight="700" color="#000" padding-bottom="0px" align="left">Sandra Parente</mj-text>
+         <mj-text font-size="11px" font-weight="400" color="#000" padding-top="5px" padding-bottom="0px" align="left"><a href="mailto:sandra@canadianunderwriter.ca" style="text-decoration:none;color:#000">sandra@canadianunderwriter.ca</a></mj-text>
+        <mj-text font-size="14px" font-weight="400" color="#000" padding-top="5px" padding-bottom="0px"  align="left">Managing Director</mj-text>
+        <mj-text font-size="14px" font-weight="700" color="#000" padding-top="5px" padding-bottom="0px"  align="left">(416) 510-5114</mj-text>
+            <mj-text font-size="14px" font-weight="700" color="#000" padding-top="5px" padding-bottom="0px"  align="left">MOBILE: (647) 970-5981</mj-text>
+      </mj-column>
+       <mj-column   width="33%">
+<mj-text font-size="15px" font-weight="700" color="#000" padding-bottom="0px" align="left">Pam Chodda Young </mj-text>
+         <mj-text font-size="11px" font-weight="400" color="#000" padding-top="5px" padding-bottom="0px" align="left"><a href="mailto:pam@canadianunderwriter.ca" style="text-decoration:none;color:#000">pam@canadianunderwriter.ca</a></mj-text>
+        <mj-text font-size="14px" font-weight="400" color="#000" padding-top="5px" padding-bottom="0px"  align="left">Advertising & Marketing Consultant</mj-text>
+        <mj-text font-size="14px" font-weight="700" color="#000" padding-top="5px" padding-bottom="0px"  align="left">(416) 510-5122</mj-text>
+          <mj-text font-size="14px" font-weight="700" color="#000" padding-top="5px" padding-bottom="0px"  align="left">MOBILE: (647) 970-5637</mj-text>
+      </mj-column>
+         <mj-column  width="33%">
+<mj-text font-size="15px" font-weight="700" color="#000" padding-bottom="0px" align="left">Andrea Berry</mj-text>
+         <mj-text font-size="10px" font-weight="400" color="#000" padding-top="5px" padding-bottom="0px" align="left"><a href="mailto:andreab@canadianunderwriter.ca" style="text-decoration:none;color:#000">andreab@canadianunderwriter.ca</a></mj-text>
+        <mj-text font-size="14px" font-weight="400" color="#000" padding-top="5px" padding-bottom="0px"  align="left">Advertising & Marketing Consultant</mj-text>
+        <mj-text font-size="14px" font-weight="700" color="#000" padding-top="5px" padding-bottom="0px"  align="left">(416) 510-5122</mj-text>
+            <mj-text font-size="14px" font-weight="700" color="#000" padding-top="5px" padding-bottom="0px"  align="left">MOBILE: (416) 938-6264</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="20px" padding="0px" background-color="#fff">
+      <mj-column  padding="0px" width="50%">
+        <mj-image padding="0px"  align="center" src="https://media.canadianunderwriter.ca/uploads/2020/01/cufooter2.jpg" href="https://www.canadianunderwriter.ca/" />
+      </mj-column>
+         <mj-column  padding="0px" width="50%">
+        <mj-image padding="0px" align="center" src="https://media.canadianunderwriter.ca/uploads/2020/01/claimsfopoter.jpg" href="https://www.canadianunderwriter.ca/claimscanada/" />
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
