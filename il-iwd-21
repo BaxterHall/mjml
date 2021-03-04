@@ -58,12 +58,12 @@
         }
       }
     </mj-style>
-    <mj-preview>Your Complete Guide To Canada's ELD Mandate</mj-preview>
+    <mj-preview>Challenges and achievements for women in the supply chain</mj-preview>
   </mj-head>
   <mj-body background-color="#fff" width="640px">
     <mj-section css-class="header" padding="0px" padding-bottom="30px">
       <mj-column width="640px">
-        <mj-image align="center" padding="0px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Newsletter-Banner-600x240-1.jpg"></mj-image>
+        <mj-image align="center" padding="0px" href="https://www.insidelogistics.ca" src="https://www.insidelogistics.ca/wp-content/uploads/2021/03/Womens-Day-head_640_240_IL.jpg"></mj-image>
 
 
       </mj-column>
@@ -78,19 +78,19 @@
     <!-- INDUSTRY NEWS -->
     <mj-section css-class="bodyStoryBB" padding="0px">
       <mj-column css-class="besideBB" width="50%" padding="0px">
-        <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.insidelogistics.ca/features/women-at-work/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Women at work</a>
+        <mj-text font-size="18px" color="#ee1c26" padding-bottom="0px"><a href="https://www.insidelogistics.ca/features/women-at-work/" target="_blank" style="font-size:18px;color:#ee1c26;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Women at work</a>
         </mj-text>
         <mj-text font-size="15px"><a href="https://www.insidelogistics.ca/features/women-at-work/" style="text-decoration:none;color:#000">How women navigate the challenges of working in the supply chain, from education to mentorship and beyond</a></mj-text>
  
         
-        <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.insidelogistics.ca/features/making-kayaks-faster/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Making kayaks faster</a>
+        <mj-text font-size="18px" color="#ee1c26" padding-bottom="0px"><a href="https://www.insidelogistics.ca/features/making-kayaks-faster/" target="_blank" style="font-size:18px;color:#ee1c26;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Making kayaks faster</a>
         </mj-text>
         <mj-text font-size="15px"><a href="https://www.insidelogistics.ca/features/making-kayaks-faster/" style="text-decoration:none;color:#000">Doom and gloom had settled in like a bad spring storm at ClearWater Design. It was March 24 and the owners, husband and wife team Michelle Laframboise and Ian Crerar, had just decided to lay off their staff and shut down production at their Prince Edward County, Ontario-based factory.
 </a></mj-text>
 
       </mj-column>
       <mj-column width="50%">
-        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.trucknews.com/wp-content/uploads/2021/03/Location_Brossard_BB.gif" href="https://www.brossard.com/en/" />
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.insidelogistics.ca/wp-content/uploads/2021/03/Polaris_Animated_GIF_300x250.gif" href="https://www.polaristransport.com/en/" />
       </mj-column>
     </mj-section>
 
@@ -98,44 +98,61 @@
       <mj-column css-class="besideBB" width="50%" padding="0px">
 
 
-               <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.insidelogistics.ca/features/the-gender-based-wage-gap-persists-in-supply-chain//" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">The gender-based wage gap persists in supply chain</a>
+               <mj-text font-size="18px" color="#ee1c26" padding-bottom="0px"><a href="https://www.insidelogistics.ca/features/the-gender-based-wage-gap-persists-in-supply-chain//" target="_blank" style="font-size:18px;color:#ee1c26;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">The gender-based wage gap persists in supply chain</a>
         </mj-text>
      <mj-text font-size="15px"><a href="https://www.insidelogistics.ca/features/the-gender-based-wage-gap-persists-in-supply-chain/" style="text-decoration:none;color:#000">For 2021, we decided to fire up the time machine and take a look back at 10 years worth of salary survey data. After digging through the <em>MM&amp;D Magazine</em> (now <em>Inside Logistics</em>) archives, we’re delighted to share this trip back in time to 2010.
 </a></mj-text>
-               <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href=" https://www.insidelogistics.ca/features/front-personal-jenna-brooks/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Up Front &amp; Personal: Racked Out’s Jenna Brooks</a>
+               <mj-text font-size="18px" color="#ee1c26" padding-bottom="0px"><a href=" https://www.insidelogistics.ca/features/front-personal-jenna-brooks/" target="_blank" style="font-size:18px;color:#ee1c26;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Up Front &amp; Personal: Racked Out’s Jenna Brooks</a>
         </mj-text>
      <mj-text font-size="15px"><a href=" https://www.insidelogistics.ca/features/front-personal-jenna-brooks//" style="text-decoration:none;color:#000">It’s not the typical start to a business, and Jenna Brooks acknowledges that she was simply trying to earn a better wage as a maintenance worker in a warehouse facility when she started working for herself. But once she registered her business and began earning double the money, suddenly the work began to change.
 </a></mj-text>
       </mj-column>
       <mj-column width="50%">
-        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.trucknews.com/wp-content/uploads/2021/03/Womens-Day-BB_Logist_300x250.jpg" href=" https://attendee.gotowebinar.com/register/2758250675484242956?source=BB" />
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.insidelogistics.ca/wp-content/uploads/2021/03/ACC555_IL_BigBox_women_Ad_022021.gif" href="http://www.aircanadacargo.com" />
       </mj-column>
     </mj-section>
 
     <mj-section css-class="bodyStoryBB" padding="0px">
       <mj-column css-class="besideBB" width="50%" padding="0px">
 
-             <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.insidelogistics.ca/video/video/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">People Power Episode 1 – Tackling the Gender Gap</a>
+             <mj-text font-size="18px" color="#ee1c26" padding-bottom="0px"><a href="https://www.insidelogistics.ca/video/video/" target="_blank" style="font-size:18px;color:#ee1c26;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">People Power Episode 1 – Tackling the Gender Gap</a>
         </mj-text>
      <mj-text font-size="15px"><a href="https://www.insidelogistics.ca/video/video/" style="text-decoration:none;color:#000">Naharah Icuté is used to playing on men’s teams, whether at school, in sports, or at work. It was hardly a barrier when she decided to choose heavy vehicle maintenance as a profession.
 </a></mj-text>
 
-         <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.insidelogistics.ca/opinions/up-with-women/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Up with women!</a>
+
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.insidelogistics.ca/wp-content/uploads/2021/03/GX_BigBox_300x250.png" href="http://www.gxts.com" />
+      </mj-column>
+    </mj-section>
+        <mj-section css-class="bodyStoryBB" padding="0px">
+      <mj-column css-class="besideBB" width="50%" padding="0px">
+
+         <mj-text font-size="18px" color="#ee1c26" padding-bottom="0px"><a href="https://www.insidelogistics.ca/opinions/up-with-women/" target="_blank" style="font-size:18px;color:#ee1c26;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Up with women!</a>
         </mj-text>
      <mj-text font-size="15px"><a href="https://www.insidelogistics.ca/opinions/up-with-women/" style="text-decoration:none;color:#000">There are many more than 100 worthy women in Canada. But 100 is the number that the Supply Chain Management Association (SCMA) has chosen to honour in its first-ever listing of influential women in Canadian supply chain. And, to be fair, the number is actually 200, including the women-to-watch list.
 </a></mj-text>
       </mj-column>
       <mj-column width="50%">
-        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.trucknews.com/wp-content/uploads/2020/10/ELD-Supplement_EN-Max-Quality.jpg" href="https://www.isaac.ca/en/canadian-eld-rule/?utm_source=trucknews&utm_medium=email&utm_campaign=eld" />
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.insidelogistics.ca/wp-content/uploads/2021/03/Womens-Day-BB_Logist_300x2501614871098908.jpg" href="https://register.gotowebinar.com/register/2758250675484242956?source=BB" />
       </mj-column>
     </mj-section>
     <!-- LEADERBOARD 2 -->
     <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" >
-      <mj-column width="640px">
+      <mj-column width="100%">
         <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.manac.com/en/products/?utm_source=website&utm_medium=banner&utm_campaign=Flatbed&utm_content=Truck_News" src="https://www.trucknews.com/wp-content/uploads/2021/03/TN-steel-flat-728x90-1.gif"></mj-image>
         <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.manac.com/en/products/?utm_source=website&utm_medium=banner&utm_campaign=Flatbed&utm_content=Truck_News" src="https://www.trucknews.com/wp-content/uploads/2021/03/TN-steel-flat-300x90-1.gif"></mj-image>
       </mj-column>
     </mj-section>
+        <!-- LEADERBOARD3  -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" >
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.manac.com/en/products/?utm_source=website&utm_medium=banner&utm_campaign=Flatbed&utm_content=Truck_News" src="https://www.trucknews.com/wp-content/uploads/2021/03/TN-steel-flat-728x90-1.gif"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.manac.com/en/products/?utm_source=website&utm_medium=banner&utm_campaign=Flatbed&utm_content=Truck_News" src="https://www.trucknews.com/wp-content/uploads/2021/03/TN-steel-flat-300x90-1.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+
 
 
     
