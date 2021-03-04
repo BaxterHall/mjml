@@ -1,0 +1,177 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHY NEWSLETTER</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+      .mobileLb {
+        display: none
+      }
+
+      .readMore,
+      .viewListing {
+        padding-top: 10px;
+      }
+    
+    	.articleDate{
+				font-size: 12px;
+				font-weight: 400;
+    		align: left;
+    		font-family :Helvetica, Arial, sans-serif;
+				color: #777;
+    	}
+    	.articleHeading{
+    		font-size: 16px;
+    		font-weight: 700;
+    		align: left;
+				font-family: Helvetica, Arial, sans-serif;
+    		color: #775ca7;
+				text-decoration: none;
+		}
+
+      @media all and (max-width: 480px) {
+
+        .no-padding-xs,
+        .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+        .email-title-wrapper td {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .desktopLb {
+          display: none !important;
+        }
+
+        .mobileLb {
+          display: block !important;
+          align: center !important;
+        }
+
+        .newsImg {
+          display: none !important;
+        }
+
+        .BGImg {
+          display: none !important;
+        }
+
+      }
+
+      @media all and (min-width: 480px) {
+        .email-title-wrapper td {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+    </mj-style>
+   <mj-style inline="inline">
+
+
+      .mobileLb {
+        display: none
+      }
+
+
+
+    </mj-style>
+    <mj-preview>Happy International Women’s Day from Oral Health Group</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <!-- Main Image -->
+    <mj-section background-color="#fff">
+      <mj-column padding="0px" width="50%">
+        <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2021/03/ohg-logo-pink-2.jpg" href="https://www.oralhealthgroup.com/" /> 
+       
+      </mj-column>
+            <mj-column padding="0px" width="50%">
+   
+            <mj-text font-size="12px" font-weight="700" align="left" font-family="Helvetica, Arial, sans-serif" color="#000" padding-bottom="0px">Sponsored by</mj-text>
+                <mj-image padding="0px" src="https://media.oralhealthgroup.com/uploads/2021/03/dentalcorp-C_RGB.png" href="https://www.dentalcorp.ca/site/home"  width="200px"/> 
+      </mj-column>
+    </mj-section>
+    <!-- End Main Image -->
+
+    <!-- End Sponsors -->
+
+    <!-- END LEADER 1 -->
+    <!-- Section 1 Row 1-->
+     <mj-section background-color="#fff">
+      <mj-column  width="50%">
+
+        <mj-text font-size="18px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#ff94fc"><a href="https://www.oralhealthgroup.com/oral-health/a-note-from-the-president-of-the-fcdsa-1003957970/" class="articleHeadingLink" style="color:#ff94fc;text-decoration:none">A Note From the President 
+of the FCDSA</a></mj-text>
+        <mj-button background-color="#ff94fc" font-size="16px" href="https://www.oralhealthgroup.com/oral-health/a-note-from-the-president-of-the-fcdsa-1003957970/">Read More</mj-button>
+      </mj-column>
+        <mj-column  width="50%">
+
+        <mj-text font-size="18px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#ff94fc"><a href="https://www.oralhealthgroup.com/oral-health/what-does-it-mean-to-be-a-woman-in-dentistry-1003957991/" class="articleHeadingLink" style="color:#ff94fc;text-decoration:none">What Does it Mean
+ to be a Woman in Dentistry?</a></mj-text>
+        <mj-button background-color="#ff94fc" font-size="16px" href="https://www.oralhealthgroup.com/oral-health/what-does-it-mean-to-be-a-woman-in-dentistry-1003957991/">Read More</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- End S1R1 -->
+    <!-- Section 1 Row 2 -->
+      <mj-section background-color="#fff">
+      <mj-column  width="50%">
+
+        <mj-text font-size="18px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#ff94fc"><a href="https://www.oralhealthgroup.com/oral-health/through-the-eyes-of-a-dental-hygienist-1003957984/" class="articleHeadingLink" style="color:#ff94fc;text-decoration:none">Through the Eyes of a 
+Dental Hygienist</a></mj-text>
+        <mj-button background-color="#ff94fc" font-size="16px" href="https://www.oralhealthgroup.com/oral-health/through-the-eyes-of-a-dental-hygienist-1003957984/">Read More</mj-button>
+      </mj-column>
+          <mj-column  width="50%">
+
+        <mj-text font-size="18px" font-weight="700" align="center" font-family="Helvetica, Arial, sans-serif" color="#ff94fc"><a href="https://www.oralhealthgroup.com/oral-health/international-womens-day-2021-celebrating-women-in-dentistry-1003958144/" class="articleHeadingLink" style="color:#ff94fc;text-decoration:none">International Women’s Day
+ 2021: Celebrating Women
+in Dentistry</a></mj-text>
+        <mj-button background-color="#ff94fc" font-size="16px" href="https://www.oralhealthgroup.com/oral-health/international-womens-day-2021-celebrating-women-in-dentistry-1003958144/">Read More</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END S1R2 -->
+    <!-- LEADER 2 -->
+      <mj-section background-color="#fff" padding="0px" text-align="center" >
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.dentalcorp.ca/site/partnership" src="https://media.oralhealthgroup.com/uploads/2021/03/dc-WEB2272_IWDWebinarBanner-640x90-Blue.jpg"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.dentalcorp.ca/site/partnership" src="https://media.oralhealthgroup.com/uploads/2021/03/dc-WEB2272_IWDWebinarBanner-300x90-Blue.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- END LEADER 2 -->
+
+    <!-- END SECTION  2 -->
+     <!-- SECTION 3 HEADER-->
+
+    <!-- END SECTION 3 HEADER -->
+    <!-- SECTION 3 ROW 1 -->
+     <mj-section background-color="#fff">
+      <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2021/03/IWD-IG01.jpg" href="https://www.oralhealthgroup.com/data-driven-dentistry/" /> 
+  
+      </mj-column>
+              <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2021/03/IWD-IG02.jpg" href="https://www.oralhealthgroup.com/data-driven-dentistry/" /> 
+    
+      </mj-column>
+    </mj-section>
+    <!-- End S3R1 -->
+        <!-- SECTION 3 ROW 1 -->
+     <mj-section background-color="#fff">
+      <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2021/03/IWD-IG03.jpg" href="https://www.oralhealthgroup.com/data-driven-dentistry/" /> 
+  
+      </mj-column>
+              <mj-column  width="50%">
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2021/03/IWD-IG04.jpg" href="https://www.oralhealthgroup.com/data-driven-dentistry/" /> 
+    
+      </mj-column>
+    </mj-section>
+    <!-- End S3R1 -->
+
+    
+    
+
+
+
+       
+ 
+  </mj-body>
+</mjml>
