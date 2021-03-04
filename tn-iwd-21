@@ -1,0 +1,160 @@
+<mjml>
+  <mj-head>
+    <mj-title>CRUNCH TIME 1</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .besideBB {
+        width: 100%
+      }
+
+      .BBAd {
+        min-width: 300px;
+        width: 300px;
+      }
+
+      .mobileLb {
+        display: none
+      }
+
+      .readMore,
+      .viewListing {
+        padding-top: 10px;
+      }
+
+      @media all and (max-width: 480px) {
+
+        .no-padding-xs,
+        .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+        .email-title-wrapper td {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .desktopLb {
+          display: none !important;
+        }
+
+        .mobileLb {
+          display: block !important;
+          align: center !important;
+        }
+
+        .newsImg {
+          display: none !important;
+        }
+
+        .BGImg {
+          display: none !important;
+        }
+
+      }
+
+      @media all and (min-width: 480px) {
+        .email-title-wrapper td {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+    </mj-style>
+    <mj-preview>Your Complete Guide To Canada's ELD Mandate</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff" width="640px">
+    <mj-section css-class="header" padding="0px" padding-bottom="30px">
+      <mj-column width="640px">
+        <mj-image align="center" padding="0px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Newsletter-Banner-600x240-1.jpg"></mj-image>
+
+
+      </mj-column>
+    </mj-section>
+    <!-- LEADERBOARD 1 -->
+   <!-- <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" >
+      <mj-column width="640px">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Leader-Board-640x90-1.jpg"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.trucknews.com/microsite/crunch-time/" src="https://www.trucknews.com/wp-content/uploads/2020/10/Crunch-Time-Mobile-Banner-300x90-1-1.jpg"></mj-image>
+      </mj-column>
+    </mj-section> -->
+    <!-- INDUSTRY NEWS -->
+    <mj-section css-class="bodyStoryBB" padding="0px">
+      <mj-column css-class="besideBB" width="50%" padding="0px">
+        <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.trucknews.com/features/women-of-trucking-are-still-a-rarity-in-canada" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Women of trucking are still a rarity in Canada</a>
+        </mj-text>
+        <mj-text font-size="15px"><a href="https://www.trucknews.com/features/women-of-trucking-are-still-a-rarity-in-canada" style="text-decoration:none;color:#000">Shannon Holicza is a rarity.
+
+          Her path to the driver’s seat sounds familiar on the surface. Like many others in the trucking industry, she came from a family of truck drivers, learning tricks of the trade while riding along with her dad. By the time she was a teenager, she already knew how to handle most of the paperwork.</a></mj-text>
+ 
+        
+        <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.trucknews.com/features/how-fleets-are-successfully-recruiting-women/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">How fleets are successfully recruiting women</a>
+        </mj-text>
+        <mj-text font-size="15px"><a href="https://www.trucknews.com/features/how-fleets-are-successfully-recruiting-women/" style="text-decoration:none;color:#000">The secret to attracting more women to your trucking company is that there is no secret.
+</a></mj-text>
+
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.trucknews.com/wp-content/uploads/2021/03/Location_Brossard_BB.gif" href="https://www.brossard.com/en/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff"  text-align="center" >
+      <mj-column width="100%">
+               <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.trucknews.com/features/championing-women-in-the-industry/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Championing women in the industry</a>
+        </mj-text>
+     <mj-text font-size="15px"><a href="https://www.trucknews.com/features/championing-women-in-the-industry/" style="text-decoration:none;color:#000">As the founder and CEO of Women In Trucking (WIT), Ellen Voie has been passionate about creating a better environment for women in the industry. She knows what women want.
+</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="bodyStoryBB" padding="0px">
+      <mj-column css-class="besideBB" width="50%" padding="0px">
+
+
+               <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.trucknews.com/features/qta-president-eyes-the-10-objective/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">QTA president eyes the 10% objective</a>
+        </mj-text>
+     <mj-text font-size="15px"><a href="https://www.trucknews.com/features/qta-president-eyes-the-10-objective/" style="text-decoration:none;color:#000">Don’t be fooled by her reserved nature and soft voice. Karine Goyette is one of the most influential women in Quebec’s trucking industry. At 40, she is executive vice-president of C.A.T. Inc., and one of only three women to have served as president of the Quebec Trucking Association (QTA).
+</a></mj-text>
+               <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.trucknews.com/features/driverette-found-her-dream-job-in-a-dream-rig/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">‘Driverette’ found her dream job in a dream rig</a>
+        </mj-text>
+     <mj-text font-size="15px"><a href="https://www.trucknews.com/features/driverette-found-her-dream-job-in-a-dream-rig/" style="text-decoration:none;color:#000">When Eva Knelsen delivered to London, Ont.-based West Coast Transportation, she was asked to back into a notoriously tight dock. Kevin English, the owner’s brother, watched with some apprehension as she backed it in square on her first attempt.
+</a></mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.trucknews.com/wp-content/uploads/2021/03/Womens-Day-BB_Logist_300x250.jpg" href=" https://attendee.gotowebinar.com/register/2758250675484242956?source=BB" />
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#ffffff"  text-align="center" >
+      <mj-column width="100%">
+               <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.trucknews.com/features/western-canadian-programs-aim-to-get-more-women-into-trucking/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Western Canadian programs aim to get more women into trucking</a>
+        </mj-text>
+     <mj-text font-size="15px"><a href="https://www.trucknews.com/features/western-canadian-programs-aim-to-get-more-women-into-trucking/" style="text-decoration:none;color:#000">It’s no secret that women make up a small percentage of the trucking industry’s workforce, but across Western Canada, several organizations have been striving to change that.
+</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="bodyStoryBB" padding="0px">
+      <mj-column css-class="besideBB" width="50%" padding="0px">
+
+             <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.trucknews.com/features/icute-always-eager-to-compete-on-the-mens-team/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">Icute always eager to compete on the men’s team</a>
+        </mj-text>
+     <mj-text font-size="15px"><a href="https://www.trucknews.com/features/icute-always-eager-to-compete-on-the-mens-team/" style="text-decoration:none;color:#000">Naharah Icuté is used to playing on men’s teams, whether at school, in sports, or at work. It was hardly a barrier when she decided to choose heavy vehicle maintenance as a profession.
+</a></mj-text>
+
+         <mj-text font-size="18px" color="#006699" padding-bottom="0px"><a href="https://www.trucknews.com/features/tyt-truck-drivers-challenge-stereotypes/" target="_blank" style="font-size:18px;color:#006699;line-height: 100% !important;font-weight:bold;font-family:Arial,Helvetica,sans-serif !important;text-decoration: none;">TYT truck drivers challenge stereotypes</a>
+        </mj-text>
+     <mj-text font-size="15px"><a href="https://www.trucknews.com/features/tyt-truck-drivers-challenge-stereotypes/" style="text-decoration:none;color:#000">Drummondville, Quebec-based Groupe TYT is quick to shine the spotlight on the female truck drivers within its ranks.
+</a></mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image padding-left="0px" width="300px" css-class="BBAd" src="https://www.trucknews.com/wp-content/uploads/2020/10/ELD-Supplement_EN-Max-Quality.jpg" href="https://www.isaac.ca/en/canadian-eld-rule/?utm_source=trucknews&utm_medium=email&utm_campaign=eld" />
+      </mj-column>
+    </mj-section>
+    <!-- LEADERBOARD 2 -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" >
+      <mj-column width="640px">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.manac.com/en/products/?utm_source=website&utm_medium=banner&utm_campaign=Flatbed&utm_content=Truck_News" src="https://www.trucknews.com/wp-content/uploads/2021/03/TN-steel-flat-728x90-1.gif"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.manac.com/en/products/?utm_source=website&utm_medium=banner&utm_campaign=Flatbed&utm_content=Truck_News" src="https://www.trucknews.com/wp-content/uploads/2021/03/TN-steel-flat-300x90-1.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    
+  </mj-body>
+</mjml>
