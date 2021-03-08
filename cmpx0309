@@ -1,0 +1,186 @@
+<mjml>
+  <mj-head>
+    <mj-title>CMPX</mj-title>
+    <mj-attributes>
+      <mj-all font-family="'Barlow Condensed', sans-serif;Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600&display=swap" rel="stylesheet">
+  <mj-style>
+   
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600&display=swap');
+
+  </mj-style>
+  <mj-style>
+    
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview>  Interactive Floorplan now LIVE!</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpxheader.jpg" width="640px" alt="
+Canada’s Trade Show for the mechanicals
+and plumbing industries, and the largest show of its kind
+in Canada, CMPX offers unmatched opportunities
+to gain direct access to decisionmakers.
+FOR CMPX 2022
+REBOOK YOUR SPACE TODAY
+2022
+Canadian
+Plumbing
+Exposition
+Mechanical&
+Canada’s Show for the Mechanicals March 23, 24 & 25, 2022
+METRO TORONTO CONVENTION CENTRE "href="https://www.cmpxshow.com" /> 
+        
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px" background-color="#fff" border-bottom="1px solid black">
+      <mj-column width="100%">
+            <mj-text color="#0d9eb5" font-weight="700" font-size="70px" align="center">Get ready to connect </mj-text>
+          <mj-text color="#003256" font-weight="700" font-size="30px" align="center">with the Mechanicals & Plumbing industry at CMPX</mj-text>
+      </mj-column>
+    </mj-section>
+           <mj-section  background-color="#fff" >
+      <mj-column width="100%">
+            <mj-text color="#0d9eb5" font-weight="700" font-size="50px" align="center">Book Your Booth Today! </mj-text>
+
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px" background-color="#fff"border-bottom="1px solid black" >
+      <mj-column width="50%">
+            <mj-image src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx1.jpg"/>
+
+      </mj-column>
+                  <mj-column width="50%">
+            <mj-text color="#000" font-weight="400" font-size="30px" align="left">Network and sell to key
+industry decision makers
+at Canada’s tradeshow
+for the Mechanicals &
+Plumbing Industry</mj-text>
+
+      </mj-column>
+    </mj-section>
+               <mj-section  background-color="#fff" >
+      <mj-column width="100%">
+            <mj-text color="#0d9eb5" font-weight="700" font-size="50px" align="center">Next Steps To Book:</mj-text>
+
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px" background-color="#fff"border-bottom="1px solid black" direction="ltr" >
+
+                  <mj-column width="50%">
+            <mj-text color="#000" font-weight="400" font-size="30px" align="left">
+              <ul>
+                <li style="color:6a7a96">   <a href="https://www.cmpxshow.com/buy-exhibit-space" style="text-decoration:none;color:#000;">Exhibitor Brochure</a></li>
+                    <li style="color:6a7a96">   <a href="https://www.cmpxshow.com/buy-exhibit-space"  style="text-decoration:none;color:#000;">Exhibitor Application</a></li>
+                  <li style="color:6a7a96">    <a href="https://homebase.map-dynamics.com/cmpx2022/floorplan"  style="text-decoration:none;color:#000;">Floor plan</a></li>
+           
+
+
+                    </ul></mj-text>
+
+      </mj-column>
+                     <mj-column width="50%">
+            <mj-image href="https://www.cmpxshow.com" src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx2.jpg" width="122px"/>
+
+      </mj-column>
+    </mj-section>
+                 <mj-section  background-color="#fff"border-bottom="1px solid black" >
+      <mj-column width="50%">
+            <mj-image src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx3.jpg"/>
+
+      </mj-column>
+                  <mj-column width="50%">
+            <mj-text color="#0d9eb5" font-weight="400" font-size="40px" align="left">Want to
+expand your
+reach further?</mj-text>
+                     <mj-text color="#000" font-weight="400" font-size="30px" align="left">We have the marketing
+and <strong>sponsorship
+opportunities </strong>to help
+you achieve your goals.</mj-text>
+
+      </mj-column>
+    </mj-section>
+                   <mj-section  background-color="#fff" >
+      <mj-column width="100%">
+            <mj-text color="#0d9eb5" font-weight="700" font-size="50px" align="center">Let us know how we can help</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border-bottom="1px solid black">
+      <mj-column  width="50%">
+         <mj-text color="#000" font-weight="700" font-size="20px" align="center">MELISSA ARNOTT</mj-text>
+ <mj-text color="#000" font-weight="400" font-size="18px" align="center" padding-bottom="2px">DIRECTOR; SHOW DIVISION</mj-text>
+ <mj-text color="#000" font-weight="400" font-size="20px" align="center" padding-bottom="2px">Sales: Companies A - L</mj-text>
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center"padding-bottom="2px">416 510 5141</mj-text>
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center"><a href="mailto:marnott@newcom.ca" style="text-decoration:none;color:#000;font-weight:700">marnott@newcom.ca</a></mj-text>
+      </mj-column>
+     
+
+
+
+
+          <mj-column border-left="1px solid black" width="50%">
+              <mj-text color="#000" font-weight="700" font-size="20px" align="center"> TIFFANY GIN</mj-text>
+ <mj-text color="#000" font-weight="400" font-size="18px" align="center" padding-bottom="2px">ASSISTANT SHOW MANAGER</mj-text>
+ <mj-text color="#000" font-weight="400" font-size="20px" align="center" padding-bottom="2px">Sales: Companies M-Z</mj-text>
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center"padding-bottom="2px">416 510 5236</mj-text>
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center"><a href="mailto:tiffany@newcom.ca" style="text-decoration:none;color:#000;font-weight:700">tiffany@newcom.ca</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+
+              <mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+   <mj-column  width="100%">
+     <mj-text color="#000" font-weight="400" font-size="25px" align="center" >Follow us to stay up-to-date on everything CMPX</mj-text>
+
+      </mj-column>
+    </mj-section>
+          <mj-section  background-color="#fff">
+      <mj-column width="50%">
+              <mj-text color="#000" font-weight="400" font-size="25px" align="center" >&nbsp;</mj-text>
+      <mj-table>
+		<tr>
+      <td width="25%"><a href="https://www.linkedin.com/in/cmpxshow/" style="text-decoration:none;"><img src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx7.jpg"></img></a></td>
+            <td width="25%"><a href="https://twitter.com/CMPXShow" style="text-decoration:none;"><img src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx4.jpg"></img></a></td>
+            <td width="25%"><a href="https://www.facebook.com/CMPXShow" style="text-decoration:none;"><img src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx6.jpg"></img></a></td>
+            <td width="25%"><a href="https://www.instagram.com/cmpxshow/" style="text-decoration:none;"><img src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx5.jpg"></img></a></td>
+	</tr>
+		</mj-table>
+
+
+      </mj-column>
+            <mj-column width="50%">
+             <mj-text color="#000" font-weight="400" font-size="25px" align="center" >Jointly produced by:</mj-text>
+      <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx8.jpg"  align="center" /> 
+
+
+      </mj-column>
+    </mj-section>
+
+       <mj-section background-color="#0d9eb5">
+      <mj-column width="100%" padding="0px">
+ <mj-text color="#000" font-weight="700" font-size="50px" padding="0px" align="center"><a href="https://www.cmpxshow.com" style="color:#fff;text-decoration:none;">cmpxshow.com</a> </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section>
+    <mj-column><mj-text>&nbsp;</mj-text></mj-column>
+    </mj-section>
+
+
+ 
+
+ 
+  </mj-body>
+</mjml>
