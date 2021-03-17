@@ -1,0 +1,105 @@
+<mjml>
+  <mj-head>
+    <mj-title>EXPO FR</mj-title>
+
+
+  <mj-style>
+    
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Participez à l’évènement essentiel du camionnage en 2021</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.expocam.ca/wp-content/uploads/2021/03/EX21-Register-Now-Header-3.jpg" width="640px" href="https://www.expocam.ca/fr/" /> 
+        
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px" background-color="#fff" border-bottom="1px solid black">
+      <mj-column width="100%">
+            <mj-text color="#6999d0" font-weight="700" font-size="20px" align="center">Participez à l’évènement essentiel du camionnage en 2021
+</mj-text>
+      </mj-column>
+    </mj-section>
+           <mj-section  background-color="#fff" >
+      <mj-column width="50%">
+            <mj-text color="#000" font-weight="700" font-size="16px" align="center">NOUVEAU LIEU</mj-text>
+            <mj-text color="#000" font-weight="700" font-size="16px" align="center">Espace Saint-Hyacinthe, Saint-Hyacinthe, QC</mj-text>
+      </mj-column>
+                <mj-column width="50%">
+            <mj-text color="#000" font-weight="700" font-size="15px" align="center">NOUVELLES DATES </mj-text>
+                             <mj-text color="#000" font-weight="700" font-size="16px" align="center">mercredi 22 et jeudi 23 septembre 2021</mj-text>
+
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px" background-color="#fff" >
+
+                  <mj-column width="100%">
+            <mj-text color="#000" font-weight="400" font-size="16px" align="left"><strong>ExpoCam 2021 sera de nouveau, l’évènement majeur de l’industrie du camionnage au Canada</strong>, organisé dans un nouveau Parc d’expositions à l’Espace Saint-Hyacinthe, à environ 60 kms de Montréal, et 200kms de Québec. Facile d’accès par autoroute, offrant du stationnement gratuit, trois hôtels de premier ordre à proximité et de nombreux restaurants dans les environs.</mj-text>
+                     <mj-text color="#000" font-weight="400" font-size="16px" align="left">
+De plus, ExpoCam a un nouveau plan d’étage avec <strong>4 pavillons intérieurs et une zone exposition extérieure</strong>, ce qui fait de cet événement du camionnage, un salon unique en son genre au Canada et offre une expérience incomparable pour les participants.</mj-text>
+            <mj-text color="#000" font-weight="400" font-size="16px" align="left">Pour réserver votre espace à <strong>ExpoCam 2021</strong>, veuillez compléter votre demande de participation en cliquant sur les liens ci-dessous. Indiquez les dimensions de l’espace requises et vos emplacements préférés et retournez votre demande de participation, soit par courriel ou par fax au : 416-510-5140.
+</mj-text>
+                    <mj-text color="#000" font-weight="400" font-size="16px" align="left">Nous ferons de notre mieux pour répondre à vos attentes.</mj-text>
+                    
+      </mj-column>
+    </mj-section>
+               <mj-section  background-color="#fff" >
+      <mj-column width="100%">
+            	<mj-button background-color="#6999d0" color="#fff" font-size="18px" href="https://www.expocam.ca/wp-content/uploads/2020/12/EX21-Sept-Contract-FRE-FINAL.pdf" width="250px">Demande de participation 2021</mj-button>
+        	<mj-button background-color="#6999d0" color="#fff" font-size="18px" href="https://homebase.map-dynamics.com/expocam2021/floorplan" width="250px">Plans d’étage 2021</mj-button>
+        	<mj-button background-color="#6999d0" color="#fff" font-size="18px" href="https://www.expocam.ca/wp-content/uploads/2020/12/EX21-Fact-Sheet-FRE-September.pdf" width="250px">Brochure du salon</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+             <mj-section padding-top="0px" background-color="#fff" >
+
+                  <mj-column width="100%">
+            <mj-text color="#000" font-weight="400" font-size="16px" align="left">Pour toute question concernant votre participation à ExpoCam 2021, n’hésitez pas à nous contacter
+</mj-text>
+            <mj-text color="#000" font-weight="400" font-size="16px" align="left">Thierry Quagliata: 416-510-5235 <br/> <a href="mailto:thierry@newcom.ca">thierry@newcom.ca</a></mj-text>
+                    <mj-text color="#000" font-weight="400" font-size="16px" align="left">*Mise à jour -Covid 19. Votre santé et votre sécurité sont nos priorités absolues <a href="https://www.expocam.ca/covid19-update/">Cliquez-ici pour plus d’informations</a></mj-text>
+                    
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px" background-color="#fff" >
+
+                  <mj-column width="16%">
+          			<mj-image href="https://www.linkedin.com/in/newcom-media-quebec-expocam-0508b1126/"src="https://www.expocam.ca/wp-content/uploads/2021/03/EX21-Social-Icons-for-eBlast_LI-2.png"/>
+     					 </mj-column>
+               <mj-column width="16%">
+          			<mj-image href="https://www.facebook.com/ExpoCam" src="https://www.expocam.ca/wp-content/uploads/2021/03/EX21-Social-Icons-for-eBlast_FB-2.png"/>
+     					 </mj-column><mj-column width="16%">
+          			<mj-image href="https://www.instagram.com/expocammtl/"src="https://www.expocam.ca/wp-content/uploads/2021/03/EX21-Social-Icons-for-eBlast_IG-2.png"/>
+     					 </mj-column><mj-column width="16%">
+          			<mj-image href="https://twitter.com/expocam2021"src="https://www.expocam.ca/wp-content/uploads/2021/03/EX21-Social-Icons-for-eBlast_TW-2.png"/>
+     					 </mj-column>
+    </mj-section>
+               <mj-section padding-top="0px" background-color="#fff" >
+
+                  <mj-column width="100%">
+          			<mj-image src="https://www.expocam.ca/wp-content/uploads/2021/03/Newcom-Media-Quebec-Logo.jpg" width="250x" align="center"/>
+     				
+     					 </mj-column>
+    </mj-section>
+
+<mj-section>
+    <mj-column><mj-text>&nbsp;</mj-text></mj-column>
+    </mj-section>
+
+
+ 
+
+ 
+  </mj-body>
+</mjml>
