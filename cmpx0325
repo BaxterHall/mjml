@@ -1,0 +1,124 @@
+<mjml>
+  <mj-head>
+    <mj-title>CMPX</mj-title>
+    <mj-attributes>
+      <mj-all font-family="'Barlow Condensed', sans-serif;Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600&display=swap" rel="stylesheet">
+  <mj-style>
+   
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600&display=swap');
+
+  </mj-style>
+  <mj-style>
+    
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+    <mj-preview> Prizes await you inside.</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff"  width="640px">
+    <mj-section background-color="#fff">
+      <mj-column  width="100%">
+        <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpxheader.jpg" width="640px" alt="
+Canada’s Trade Show for the mechanicals
+and plumbing industries, and the largest show of its kind
+in Canada, CMPX offers unmatched opportunities
+to gain direct access to decisionmakers.
+FOR CMPX 2022
+REBOOK YOUR SPACE TODAY
+2022
+Canadian
+Plumbing
+Exposition
+Mechanical&
+Canada’s Show for the Mechanicals March 23, 24 & 25, 2022
+METRO TORONTO CONVENTION CENTRE "href="https://www.cmpxshow.com" /> 
+        
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px" background-color="#fff" border-bottom="1px solid black">
+      <mj-column width="100%">
+            <mj-text color="#0d9eb5" font-weight="700" font-size="60px" align="center">TAKE OUR SURVEY</mj-text>
+          <mj-text color="#003256" font-weight="700" font-size="30px" align="center">Help shape your CMPX experience
+for a chance to WIN!</mj-text>
+      </mj-column>
+    </mj-section>
+
+             <mj-section  background-color="#fff"border-bottom="1px solid black" >
+
+                  <mj-column width="100%">
+            <mj-text color="#000" font-weight="400" font-size="25px" align="center">As you continue to advance in your field and adapt
+to the new products and emerging technologies
+in the mechanicals and plumbing industry,
+we want to be by your side.</mj-text>
+ <mj-text color="#000" font-weight="400" font-size="25px" align="center">By completing our survey,
+your feedback and ideas will impact the
+changes we make as we continue to evolve the show.</mj-text>
+
+      </mj-column>
+    </mj-section>
+           <mj-section  background-color="#fff"border-bottom="1px solid black" >
+
+                  <mj-column width="100%">
+            <mj-text color="#000" font-weight="400" font-size="25px" align="center">Complete the survey for a chance to win
+one of the following prizes:</mj-text>
+  <mj-text color="#0d9eb5" font-weight="700" font-size="30px" align="center">2 X $200 CANADIAN TIRE GIFT CARDS</mj-text>  <mj-text color="#0d9eb5" font-weight="700" font-size="30px" align="center">4 X $25 TIM HORTON’S GIFT CARDS</mj-text>
+                       <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/03/beginsurvey.jpg"  align="center"  width="307px" href=" https://www.surveymonkey.com/r/R3Q8YZS" alt="BEGIN SURVEY"/> 
+                    
+                     <mj-text color="#000" font-weight="400" font-size="20px" align="center">Draws will be done after the survey
+closes on April 13th, 2021.</mj-text>
+
+      </mj-column>
+    </mj-section>
+              <mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+   <mj-column  width="100%">
+     <mj-text color="#000" font-weight="400" font-size="25px" align="center" >Winners will be announced on social so follow us!</mj-text>
+
+      </mj-column>
+    </mj-section>
+          <mj-section  background-color="#fff">
+      <mj-column width="50%">
+              <mj-text css-class="noMob" color="#000" font-weight="400" font-size="25px" align="center" >&nbsp;</mj-text>
+      <mj-table>
+		<tr>
+      <td width="25%"><a href="https://www.linkedin.com/in/cmpxshow/" style="text-decoration:none;"><img src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx7.jpg"></img></a></td>
+            <td width="25%"><a href="https://twitter.com/CMPXShow" style="text-decoration:none;"><img src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx4.jpg"></img></a></td>
+            <td width="25%"><a href="https://www.facebook.com/CMPXShow" style="text-decoration:none;"><img src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx6.jpg"></img></a></td>
+            <td width="25%"><a href="https://www.instagram.com/cmpxshow/" style="text-decoration:none;"><img src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx5.jpg"></img></a></td>
+	</tr>
+		</mj-table>
+
+
+      </mj-column>
+            <mj-column width="50%">
+             <mj-text color="#000" font-weight="400" font-size="25px" align="center" >Jointly produced by:</mj-text>
+      <mj-image padding="0px" src="https://www.newcom.ca/wp-content/uploads/2021/03/cmpx8.jpg"  align="center" /> 
+
+
+      </mj-column>
+    </mj-section>
+
+       <mj-section padding-top="0px" background-color="#0d9eb5">
+      <mj-column width="100%" padding="0px">
+ <mj-text color="#000" font-weight="700" font-size="50px" padding="0px" padding-top="0px" align="center"><a href="https://www.cmpxshow.com" style="color:#fff;text-decoration:none;">cmpxshow.com</a> </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section>
+    <mj-column><mj-text>&nbsp;</mj-text></mj-column>
+    </mj-section>
+
+
+ 
+
+ 
+  </mj-body>
+</mjml>
