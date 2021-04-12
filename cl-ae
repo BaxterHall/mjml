@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-title>AE - CL</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+    <mj-preview>Expert Advice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section  background-color="#b90b2e">
+      <mj-column background-color="#000" width="40%">
+        		 <mj-text color="#fff" font-weight="700" padding="10px" font-size="20px"  align="center">EXPERT ADVICE</mj-text>
+
+      </mj-column>
+        <mj-column background-color="#b90b2e" padding-left="20px" padding-right="20px" width="60%">
+        		<mj-text>&nbsp;</mj-text>
+
+      </mj-column>
+    </mj-section>
+        <mj-section padding="0px" background-color="#b90b2e">
+      <mj-column background-color="#b90b2e" width="100%">
+        		 <mj-text color="#fff" font-weight="700" font-size="25px"  align="left">Why Canada Life My Term<br/>
+is the best term choice for your clients</mj-text>
+
+      </mj-column>
+        
+
+    </mj-section>
+        <mj-section background-color="#b90b2e" padding-bottom="0px">
+      <mj-column background-color="#fff" width="90%">
+        <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/cd-image1.jpg" href="https://www.advisor.ca/partner-content_/expert-advice_/why-canada-life-my-term-is-the-best-term-choice-for-your-clients/"/>
+
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px" background-color="#dcdddf">
+      <mj-column background-color="#fff" width="90%">
+
+       <mj-text color="#000" font-size="16px" font-weight="400" align="left">Your clients’ needs are unique, so why should they be limited to traditional term lengths where they might pay for insurance longer than they need it?</mj-text>
+        <mj-text color="#000" font-size="16px" font-weight="400" align="left">Learn how Canada Life<sup>™</sup> is making term life insurance more customizable than 
+ever before.</mj-text>
+          <mj-text color="#000" font-size="16px" font-weight="400" align="left">“At Canada Life , we know that everyone’s lives are different,” says Katrina-Lee Kwen, SVP Non Par Insurance Solutions and Digital Strategies.</mj-text>
+          <mj-text color="#000" font-size="16px" font-weight="400" align="left">We hope that bye liminating the set traditional term lengths, we will help advisors put their clients in the driver’s seat of their insurance needs.”</mj-text>
+  
+        <mj-button background-color="#000" align="left" font-size="16px" href="https://www.advisor.ca/partner-content_/expert-advice_/why-canada-life-my-term-is-the-best-term-choice-for-your-clients/">LEARN MORE</mj-button>
+        
+       <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/cl-logo.jpg" width="125px" align="left"></mj-image>
+         <mj-text color="#000" font-size="12px" font-weight="400" align="left">Expert advice is a space made available for businesses who wish to publish content for financial professionals.
+           <em>Advisor’s Edge</em> journalists are not involved inwriting these articles.</mj-text>
+      </mj-column>
+    </mj-section>
+        
+    <mj-section padding-top="0px" background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+     		<mj-text>footer</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
