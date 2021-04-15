@@ -1,0 +1,171 @@
+<mjml>
+  <mj-head>
+    <mj-title>IE-WIF</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+    <mj-preview>DISCOVER THE SERIES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#000">
+    <mj-section padding-top="0px" padding-bottom="0px" background-color="#000">
+  		<mj-column background-color="#000" width="50%">
+        	<mj-text>&nbsp;</mj-text>
+
+      </mj-column>
+      <mj-column background-color="#000" width="50%">
+        		<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/WomenFinanceSeries2021_logo.png" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/"/>
+
+      </mj-column>
+       
+    </mj-section>
+        <mj-section  padding-top="0px" padding-bottom="0px" background-color="#000">
+      <mj-column background-color="#fff" width="100%">
+        		<mj-image padding="0px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/hero_760x520.png" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/"/>
+
+      </mj-column>
+       
+    </mj-section>
+
+        <mj-section padding-top="0px"background-color="#000" padding-bottom="0px">
+      <mj-column padding-top="20px" background-color="#fff" width="100%">
+        <mj-text color="#778c86" font-size="18px" font-weight="700" align="left">Hear from women in finance on leadership,
+challenges and investing in women-friendly firms</mj-text>
+				<mj-button background-color="#000" align="left" font-size="14px" font-weight="700" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/">DISCOVER THE SERIES</mj-button>
+        <mj-divider border-color="#bcafb9"> </mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px"background-color="#000" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+	<mj-text color="#000" font-size="15px" font-weight="700" align="left">ARTICLE - Women in Leadership</mj-text>
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+  
+           <mj-column  background-color="#fff" width="70%">
+              <mj-text color="#000" font-size="14px" font-weight="400" align="left">
+“Creating an inclusive work culture starts by securing the support and
+involvement of the organization's senior leaders. Have them sponsor
+employee resource groups to facilitate learning and  cooperation up
+and down the chain.”</mj-text>
+<mj-text color="#000" font-size="14px" font-weight="400" align="left">- Vivian Hsu, Director, ETFs and Alternatives, Fidelity Investments Canada</mj-text>
+
+      </mj-column>
+              <mj-column  background-color="#fff" width="30%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/wifcircl1.jpg" href="ttps://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-leadership-fidelity-investments-canada/"/>
+
+      </mj-column>
+    </mj-section>
+         <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+				<mj-button background-color="#000" align="left" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-leadership-fidelity-investments-canada/" font-size="14px" font-weight="700" >READ THE FULL Q&amp;A</mj-button>
+        			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/wiffidelity.jpg" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-leadership-fidelity-investments-canada/" width="100px" align="left"/>
+        <mj-divider border-color="#778c86"> </mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+	<mj-text color="#000" font-size="15px" font-weight="700" align="left">ARTICLE - Women in Leadership</mj-text>
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+    
+            <mj-column  background-color="#fff" width="70%">
+        
+              <mj-text color="#000" font-size="14px" font-weight="400" align="left">
+“If we don’t make a one-on-one connection with all our female and
+diverse potential leaders, then we’re doing them a disservice.”</mj-text>
+
+<mj-text color="#000" font-size="14px" font-weight="400" align="left">- Andrea Andersen, General Partner and Financial Advisor, Western
+Canada Area Leader, Edward Jones Canada</mj-text>
+
+      </mj-column>
+              <mj-column background-color="#fff" width="30%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/wifcircl1.jpg" href=" https://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-leadership-edward-jones-canada/" />
+
+      </mj-column>
+    </mj-section>
+         <mj-section padding-top="0px"background-color="#000" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+				<mj-button background-color="#000" align="left" font-size="14px" href=" https://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-leadership-edward-jones-canada/" font-weight="700" >READ THE FULL Q&amp;A</mj-button>
+        			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/wifjones.jpg" href=" https://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-leadership-edward-jones-canada/" width="100px" align="left"/>
+        <mj-divider border-color="#778c86"> </mj-divider>
+      </mj-column>
+    </mj-section>
+        <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+	<mj-text color="#000" font-size="15px" font-weight="700" align="left"> WEBINAR - Investing in women-friendly firms</mj-text>
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+    
+            <mj-column  background-color="#fff" width="70%" >
+
+              <mj-text color="#000" font-size="14px" font-weight="400" align="left">
+The pandemic brought with it a recession that has disproportionately
+affected women, particularly women of colour. This could be a business
+risk: extensive research also shows correlations between diversity
+within firms and improved financial performance of those firms.
+Don’t miss the replay!”</mj-text>
+
+
+             
+
+
+      </mj-column>
+              <mj-column background-color="#fff" width="30%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/wifcircle2.jpg" href="https://www.investmentexecutive.com/tools_/webinars/investing-in-women-friendly-firms/"/>
+
+      </mj-column>
+    </mj-section>
+         <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+				<mj-button background-color="#000" align="left" font-size="14px" font-weight="700" href="https://www.investmentexecutive.com/tools_/webinars/investing-in-women-friendly-firms/">WATCH NOW AND GET CE CREDITS</mj-button>
+        			
+       
+      </mj-column>
+    </mj-section>
+           <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column  background-color="#fff" width="100%">
+							<mj-text color="#000" font-size="15px" font-weight="700" align="left">Sponsored By:</mj-text>
+      </mj-column>
+    </mj-section>
+          <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column  background-color="#fff" width="25%">
+						<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/EdwardJones_160x60.png"/>
+      </mj-column>
+               <mj-column  background-color="#fff" width="25%">
+						<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/Fidelity_160x60.png"/>
+      </mj-column>
+               <mj-column  background-color="#fff" width="25%">
+						<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/FranklinTempleton_160x60.png"/>
+      </mj-column>   <mj-column  background-color="#fff" width="25%">
+						<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/TD_160x60.png"/>
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column  background-color="#fff" width="100%">
+ <mj-divider border-color="#bcafb9"> </mj-divider>
+      </mj-column>
+    </mj-section>
+           <mj-section  background-color="#000" >
+      <mj-column  background-color="#000" width="50%">
+						<mj-image width="200px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/AE_Logo_W.png" />
+      </mj-column>  <mj-column  background-color="#000" width="50%">
+									<mj-image width="200px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/IE_Logo_W.png" padding="0px"  />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+     		<mj-text>footer</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
