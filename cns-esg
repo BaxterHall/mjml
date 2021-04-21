@@ -1,0 +1,186 @@
+
+
+<mjml>
+  <mj-head>
+    <mj-title>CONS</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+    <mj-preview> TABLE RONDE VIRTUELLE: Enrichissez votre boîte à outils ESG 
+Jeudi le 20 mai 2021 de 13h à 14h HE
+Inscrivez-vous maintenant et obtenez des UFC
+(CSF en attente d’approbation)</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+
+      <mj-column background-color="#fff" width="100%">
+        <mj-text color="#000" font-size="16px" padding-bottom="5px" font-weight="700" align="center">TABLE RONDE VIRTUELLE: Enrichissez votre boîte à outils ESG </mj-text>
+        <mj-text color="#000" font-size="16px" padding-bottom="5px" font-weight="700" align="center">TJeudi le 20 mai 2021 de 13h à 14h HE</mj-text>
+
+
+
+
+        <mj-text color="#000" font-size="16px" font-weight="700"padding-bottom="5px"  align="center"><a href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1" style="text-decoration:underline;color:#000">Inscrivez-vous maintenant et obtenez des UFC</a></mj-text>
+        <mj-text color="#000" font-size="15px" font-weight="700" padding-bottom="5px"  align="center">
+(CSF en attente d’approbation)</mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section  padding-top="0px" padding-bottom="0px" background-color="#000">
+      <mj-column background-color="#fff" width="100%">
+        <mj-image padding="0px" src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/fr-header.jpg" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="30px" font-weight="700" align="center">Enrichissez votre boîte à outils ESG </mj-text>
+        <mj-text color="#0098ad" font-size="20px" font-weight="700" align="center">- En direct jeudi le 20 mai 2021 à 13 h HE -</mj-text>
+
+        <mj-button background-color="#ffbf2b" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1" font-size="18px" color="#fff">Inscrivez-vous !</mj-button>
+        <mj-image padding="0px"src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/fr-body.jpg" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0px"background-color="#0098ad">
+      <mj-column  background-color="#0098ad" width="100%">
+        <mj-text color="#fff" font-size="18px" font-weight="400" align="center">Obtenez des UFC de la CSF (en attente d'approbation)</mj-text>
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+        <mj-text color="#004769" font-size="20px" font-weight="700" align="left">  Apprenez comment atteindre les objectifs de vos clients
+en matière d'investissement responsable</mj-text>
+        <mj-text color="#000"  font-size="18px" font-weight="400" align="left">
+      
+
+Avec l'explosion de l’offre en investissement ESG et IR, il peut être confondant de choisir
+le produit qui correspond aux besoins de ses clients. Dans cette table ronde virtuelle
+présentée par <em>Conseiller</em> et <em>Finance et Investissement</em>, des experts répondent aux
+questions qui vous aideront à concilier les valeurs et les objectifs de vos clients avec l’offre
+en investissement IR / ESG. Vous verrez également quels sont les facteurs qui distinguent
+un processus ESG / IR véritablement engagé et intégré. Vous aurez ainsi en main les
+bonnes informations pour interagir avec vos clients et les manufacturiers de fonds. 
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section> 
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/fr-1.jpg" width="120px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px"align="center">Steve Bélisle</mj-text>
+        <mj-text color="#0098ad"  font-size="18px" font-weight="400" align="center">
+
+ 
+Directeur général et
+gestionnaire de portefeuille principal
+Gestion de placements Manuvie
+        </mj-text>
+      </mj-column>
+
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/fr-2.jpg" width="120px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px"align="center"> Alain Desbiens</mj-text>
+        <mj-text color="#0098ad"  font-size="18px" font-weight="400" align="center">
+  
+Directeur, FNB BMO
+BMO Gestion mondiale d’actifs
+        </mj-text> 
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/fr-3.jpg" width="120px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px"align="center">Maral Dolmadjian</mj-text>
+        <mj-text color="#0098ad"  font-size="18px" font-weight="400" align="center">
+
+Spécialiste des produits de placement
+Gestion d’actifs PMSL inc. 
+        </mj-text>
+      </mj-column>
+
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/fr-4.jpg" width="120px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#000"  font-size="18px" font-weight="400" padding-bottom="2px"align="center">   Modéré par :</mj-text>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px"align="center">Rosalie Vendette</mj-text>
+        <mj-text color="#0098ad"  font-size="18px" font-weight="400" align="center">
+ 
+
+Experte en finance durable
+DécodESG 
+        </mj-text> 
+
+      </mj-column>
+
+    </mj-section> 
+ 
+    <mj-section padding="0px"background-color="#ffbf2b">
+      <mj-column  background-color="#ffbf2b" width="100%">
+        <mj-button background-color="#ffbf2b" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1" border="3px solid #fff" font-size="18px" color="#fff">Inscrivez-vous !</mj-button>
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+        <mj-text color="#000"  font-size="12px" font-weight="400" align="center">
+        Vous est offert par
+        </mj-text>
+             <mj-image src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/fr-sponsor.jpg" padding="0px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+
+
+    </mj-section>
+        <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="50%">
+
+        <mj-text color="#000"  font-size="12px" font-weight="400" align="center">
+         Accréditation UFC offerte par
+        </mj-text>
+             <mj-image src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/espcae.jpg" width="86px" padding="0px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+   <mj-column background-color="#fff" width="50%">
+
+         <mj-text color="#000"  font-size="12px" font-weight="400" align="center">
+        Association des partenaires de l’industrie
+        </mj-text>
+             <mj-image src=
+"https://www.conseiller.ca/wp-content/uploads/sites/4/2021/04/air.jpg" padding="0px" width="86px"href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+
+    </mj-section>
+    <mj-section padding="0px"background-color="#22a355">
+      <mj-column padding="0px" background-color="#22a355" width="100%">
+
+        <mj-text  padding="0px"color="#000"  font-size="12px" font-weight="400" align="center">
+      &nbsp;
+        </mj-text>
+
+
+      </mj-column>
+    </mj-section>
+            <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+        <mj-text color="#000"  font-size="12px" font-weight="400" align="center">
+        Footer
+        </mj-text>
+             
+      </mj-column>
+  
+
+    </mj-section>
+
+
+
+  </mj-body>
+</mjml>
