@@ -1,0 +1,190 @@
+
+
+<mjml>
+  <mj-head>
+    <mj-title>AE</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+    <mj-preview> VIRTUAL ROUNDTABLE: Expanding your ESG toolkit
+      Tues, May 13, 2021 from 1:00 PM to 2:00 PM ET
+      REGISTER NOW
+      (FP Canada and IIROC credits pending)</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding-top="0px" padding-bottom="0px" background-color="#fff">
+
+      <mj-column background-color="#fff" width="100%">
+        <mj-text color="#000" font-size="18px" padding-bottom="5px" font-weight="700" align="center">VIRTUAL ROUNDTABLE: Expanding your ESG toolkit</mj-text>
+        <mj-text color="#000" font-size="18px" padding-bottom="5px" font-weight="700" align="center">Tues, May 13, 2021 from 1:00 PM to 2:00 PM ET</mj-text>
+
+
+        <mj-text color="#000" font-size="18px" font-weight="700"padding-bottom="5px"  align="center"><a href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1" style="text-decoration:underline;color:#000">REGISTER NOW</a></mj-text>
+        <mj-text color="#000" font-size="16px" font-weight="700" padding-bottom="5px"  align="center">(FP Canada and IIROC credits pending)</mj-text>
+      </mj-column>
+
+    </mj-section>
+    <mj-section  padding-top="0px" padding-bottom="0px" background-color="#000">
+      <mj-column background-color="#fff" width="100%">
+        <mj-image padding="0px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/en-header.jpg" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="30px" font-weight="700" align="center">Expanding your ESG toolkit </mj-text>
+        <mj-text color="#0098ad" font-size="20px" font-weight="700" align="center">- Live Thursday, May 13 at 1:00 pm ET -</mj-text>
+
+        <mj-button background-color="#ffbf2b" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1" font-size="18px" color="#fff">Register Today</mj-button>
+        <mj-image padding="0px"src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/en-head.jpg" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0px"background-color="#0098ad">
+      <mj-column  background-color="#0098ad" width="100%">
+        <mj-text color="#fff" font-size="18px" font-weight="400" align="center">Receive CE credits from FP Canada and IIROC (pending approval)</mj-text>
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+        <mj-text color="#004769" font-size="20px" font-weight="700" align="left">Learn how to meet your clients’ responsible investing goals</mj-text>
+        <mj-text color="#000"  font-size="18px" font-weight="400" align="left">
+          With the explosion of ESG and RI investment offerings, you may be justifiably
+          overwhelmed when it comes to choosing the product that suits your clients’ needs. In this
+          virtual roundtable hosted by <em>Advisor’s Edge</em> and <em>Investment Executive</em>, experts share the
+          questions that can help you determine your clients’ values and objectives from RI/ESG
+          investing. You’ll also hear about the factors that distinguish a truly committed and
+          integrated RI/ESG process. Attendees will walk away with a list of questions to ask their
+          clients as well as their product manufacturers. 
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section> 
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/circle1.jpg" width="120px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px"align="center">Patrick Blais</mj-text>
+        <mj-text color="#0098ad"  font-size="18px" font-weight="400" align="center">
+
+          Head of the Canadian Fundamental Equity Team
+          Manulife Investment Management 
+        </mj-text>
+      </mj-column>
+
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/circle2.jpg" width="120px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px"align="center">Deborah Debas</mj-text>
+        <mj-text color="#000"  font-size="18px" font-weight="400" align="center">
+          Responsible Investment Specialist
+          Desjardins Wealth Management
+        </mj-text> 
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/circle3.jpg" width="120px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px"align="center">Kathrin Forrest</mj-text>
+        <mj-text color="#0098ad"  font-size="18px" font-weight="400" align="center">
+
+          Vice President, Portfolio Manager
+          SLGI Asset Management Inc. 
+        </mj-text>
+      </mj-column>
+
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/circle4-1.jpg" width="120px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px"align="center">David Rutherford</mj-text>
+        <mj-text color="#0098ad"  font-size="18px" font-weight="400" align="center">
+          Vice President, ESG Services
+          NEI Investments 
+        </mj-text> 
+
+      </mj-column>
+
+    </mj-section> 
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="50%">
+        <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/circle5.jpg" width="120px" align="center" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+
+      <mj-column background-color="#fff" width="50%">
+        <mj-text color="#000" font-size="20px" font-weight="400" padding-bottom="5px" align="left">Moderated by:</mj-text>
+        <mj-text color="#004769" font-size="20px" font-weight="700" padding-bottom="5px" align="left">Mary Robinson</mj-text>
+        <mj-text color="#0098ad"  css-class="centerMe" font-size="18px" font-weight="400" align="left">
+
+
+          Director of Research, Policy & Collaboration
+          Responsible Investment Association 
+        </mj-text> 
+
+      </mj-column>
+
+    </mj-section> 
+    <mj-section padding="0px"background-color="#ffbf2b">
+      <mj-column  background-color="#ffbf2b" width="100%">
+        <mj-button background-color="#ffbf2b" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1" border="3px solid #fff" font-size="18px" color="#fff">Register Today</mj-button>
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+        <mj-text color="#000"  font-size="12px" font-weight="400" align="center">
+          Sponsored by
+        </mj-text>
+             <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/sponsors.jpg" padding="0px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+
+
+    </mj-section>
+        <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="50%">
+
+        <mj-text color="#000"  font-size="12px" font-weight="400" align="center">
+         CE accreditation powered by
+        </mj-text>
+             <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/cecorner-1.jpg" width="86px" padding="0px" href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+   <mj-column background-color="#fff" width="50%">
+
+         <mj-text color="#000"  font-size="12px" font-weight="400" align="center">
+        Industry Association Partner
+        </mj-text>
+             <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/ria.jpg" padding="0px" width="86px"href="https://attendee.gotowebinar.com/register/8745762191929831183?source=eDirect+1"/>
+      </mj-column>
+
+    </mj-section>
+    <mj-section padding="0px"background-color="#22a355">
+      <mj-column padding="0px" background-color="#22a355" width="100%">
+
+        <mj-text  padding="0px"color="#000"  font-size="12px" font-weight="400" align="center">
+      &nbsp;
+        </mj-text>
+
+
+      </mj-column>
+    </mj-section>
+            <mj-section  background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+        <mj-text color="#000"  font-size="12px" font-weight="400" align="center">
+        Footer
+        </mj-text>
+             
+      </mj-column>
+  
+
+    </mj-section>
+
+
+
+  </mj-body>
+</mjml>
