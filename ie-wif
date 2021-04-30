@@ -32,7 +32,7 @@
        
     </mj-section>
 
-        <mj-section padding-top="0px"background-color="#000" padding-bottom="0px">
+        <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
       <mj-column padding-top="20px" background-color="#fff" width="100%">
         <mj-text color="#778c86" font-size="18px" font-weight="700" align="left">Hear from women in finance on leadership,
 challenges and investing in women-friendly firms</mj-text>
@@ -40,7 +40,7 @@ challenges and investing in women-friendly firms</mj-text>
         <mj-divider border-color="#bcafb9"> </mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section padding-top="0px"background-color="#000" padding-bottom="0px">
+    <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
       <mj-column padding-top="0px" background-color="#fff" width="100%">
 	<mj-text color="#000" font-size="15px" font-weight="700" align="left">ARTICLE - Women in Leadership</mj-text>
       </mj-column>
