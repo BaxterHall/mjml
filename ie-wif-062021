@@ -1,0 +1,171 @@
+<mjml>
+  <mj-head>
+    <mj-title>IE-WIF</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+    <mj-preview>DISCOVER THE SERIES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#000">
+    <mj-section padding-top="0px" padding-bottom="0px" background-color="#000">
+  		<mj-column background-color="#000" width="50%">
+        	<mj-text>&nbsp;</mj-text>
+
+      </mj-column>
+      <mj-column background-color="#000" width="50%">
+        		<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/WomenFinanceSeries2021_logo.png"href="https://www.investmentexecutive.com/microsite/women-in-finance-series//"/>
+
+      </mj-column>
+       
+    </mj-section>
+        <mj-section  padding-top="0px" padding-bottom="0px" background-color="#000">
+      <mj-column background-color="#fff" width="100%">
+        		<mj-image padding="0px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/Hero_530x358.png" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/"/>
+
+      </mj-column>
+       
+    </mj-section>
+
+        <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="20px" background-color="#fff" width="100%">
+        <mj-text color="#778c86" font-size="18px" font-weight="700" align="left">Discover ways to take action and build
+a more inclusive workplace</mj-text>
+				<mj-button background-color="#000" align="left" font-size="14px" font-weight="700" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/">DISCOVER THE SERIES</mj-button>
+        <mj-divider border-color="#bcafb9"> </mj-divider>
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+  
+           <mj-column  background-color="#fff" width="70%">
+             	<mj-text color="#000" font-size="15px" font-weight="700" align="left">VIDEO – Taking action for racial justice</mj-text>
+              <mj-text color="#000" font-size="14px" font-weight="400" align="left">
+
+Dahabo Ahmed-Omer, executive director of The BlackNorth Initiative,
+shares practical ideas for how financial services firms can work toward
+more inclusive and equitable workplaces.</mj-text>
+	<mj-button background-color="#000" align="left" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/taking-action-for-racial-justice/" font-size="14px" font-weight="700" >WATCH NOW</mj-button>
+
+      </mj-column>
+              <mj-column  background-color="#fff" width="30%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/video-icon_120x120.png" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/taking-action-for-racial-justice/"/>
+
+      </mj-column>
+    </mj-section>
+         <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+       <mj-divider border-color="#bcafb9"> </mj-divider>
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+    
+            <mj-column  background-color="#fff" width="70%">
+        	<mj-text color="#000" font-size="15px" font-weight="700" align="left">ARTICLE – Stories of Challenge</mj-text>
+              <mj-text color="#000" font-size="14px" font-weight="400" align="left">
+This partner report shares inspirational stories from women at
+Mackenzie Investments on leadership and life lessons learned.
+“Know your why — the purpose of what you do.”</mj-text>
+
+<mj-text color="#000" font-size="14px" font-weight="400" align="left">
+
+- Lesley Marks, Chief Investment Officer, Equities, Mackenzie Investments</mj-text>
+
+      </mj-column>
+              <mj-column background-color="#fff" width="30%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/wifcircl1.jpg" href="https://www.investmentexecutive.com/in-depth_/partner-reports/stories-of-challenge-lesley-marks/" />
+
+      </mj-column>
+    </mj-section>
+         <mj-section padding-top="0px"background-color="#000" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+				<mj-button background-color="#000" align="left" font-size="14px" href="https://www.investmentexecutive.com/in-depth_/partner-reports/stories-of-challenge-lesley-marks/" font-weight="700" >LEARN MORE HERE</mj-button>
+        			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/MackenzieWIF_logo_80x50.png" href="https://www.investmentexecutive.com/in-depth_/partner-reports/stories-of-challenge-lesley-marks/" width="100px" align="left"/>
+        <mj-divider border-color="#778c86"> </mj-divider>
+      </mj-column>
+    </mj-section>
+
+             <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+    
+            <mj-column  background-color="#fff" width="70%" >
+	<mj-text color="#000" font-size="15px" font-weight="700" align="left">VIDEO – Lessons for building resilience </mj-text>
+              <mj-text color="#000" font-size="14px" font-weight="400" align="left">
+
+Dahabo Ahmed-Omer, executive director of The BlackNorth Initiative,
+shares her moving story of how she overcame adversity and how
+she uses her hard-won experience to help others in her community
+and beyond.</mj-text>
+
+
+             
+
+
+      </mj-column>
+              <mj-column background-color="#fff" width="30%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/video-icon_120x120.png" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-finance-series-dahabo-ahmed-omer/"/>
+
+      </mj-column>
+    </mj-section>
+         <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+				<mj-button background-color="#000" align="left" font-size="14px" font-weight="700" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-finance-series-dahabo-ahmed-omer/">WATCH NOW</mj-button>
+        			
+       	<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/MackenzieWIF_logo_80x50.png" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/women-in-finance-series-dahabo-ahmed-omer/" width="100px" align="left"/>
+                 <mj-divider border-color="#bcafb9"> </mj-divider>
+      </mj-column>
+    </mj-section>
+             <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+    
+            <mj-column  background-color="#fff" width="70%">
+        	<mj-text color="#000" font-size="15px" font-weight="700" align="left">ARTICLE – Stories of Challenge</mj-text>
+              <mj-text color="#000" font-size="14px" font-weight="400" align="left">
+
+This partner report shares inspirational stories from women at
+Mackenzie Investments on leadership and life lessons learned.
+“Even when it seems you don’t have a choice, you always have a choice.”
+</mj-text>
+
+<mj-text color="#000" font-size="14px" font-weight="400" align="left">
+
+- Leisha Roche, senior vice-president and head of marketing,
+Mackenzie Investments.</mj-text>
+
+      </mj-column>
+              <mj-column background-color="#fff" width="30%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/wifcircl1.jpg" href="https://www.investmentexecutive.com/in-depth_/partner-reports/stories-of-challenge-leisha-roche/" />
+
+      </mj-column>
+    </mj-section>
+         <mj-section padding-top="0px"background-color="#000" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="100%">
+				<mj-button background-color="#000" align="left" font-size="14px" href="https://www.investmentexecutive.com/in-depth_/partner-reports/stories-of-challenge-leisha-roche/" font-weight="700" >LEARN MORE HERE</mj-button>
+        			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/MackenzieWIF_logo_80x50.png" href="https://www.investmentexecutive.com/in-depth_/partner-reports/stories-of-challenge-leisha-roche/" width="100px" align="left"/>
+        <mj-divider border-color="#778c86"> </mj-divider>
+      </mj-column>
+    </mj-section>
+
+       <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column  background-color="#fff" width="100%">
+
+      </mj-column>
+    </mj-section>
+           <mj-section  background-color="#000" >
+      <mj-column  background-color="#000" width="50%">
+						<mj-image width="200px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/AE_Logo_W.png" />
+      </mj-column>  <mj-column  background-color="#000" width="50%">
+									<mj-image width="200px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/IE_Logo_W.png" padding="0px"  />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+     		<mj-text>footer</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
