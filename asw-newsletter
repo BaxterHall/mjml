@@ -1,0 +1,527 @@
+<mjml>
+  <mj-head>
+    <mj-title>OHY NEWSLETTER</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  <mj-style>
+ 	.menu {
+	color: #ffffff;
+	font-family: arial;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+}
+	.date {
+	color: #4E4D4D;
+	font-family: arial;
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: right;
+	margin-right: 20px;
+	margin-top: 7px;
+}
+		hr.style-one { border: 0; height: 1px; background: #999999; background-image: linear-gradient(to right, #ffffff, #999999, #ffffff);
+	}
+	hr.style-two { border: 0; height: 1px; background: #d6d4d4; background-image: linear-gradient(to right, #ffffff, #d6d4d4, #ffffff);	
+	}
+	.rule {
+	-webkit-box-shadow: 0 1px #939598E;
+	box-shadow: 0 1px #939598;
+	padding-right: 0px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+	h1 {
+	color: #c2151c;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	text-align: left;
+	font-weight: bold;
+	padding-right: 0px;
+	margin-top: 5px;
+	margin-right: 15px;
+	margin-left: 33px;
+	
+}
+	h2 {
+	color: #b11116;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	text-align: left;
+	text-transform: none;
+	-webkit-box-shadow: 0 1px #939598E;
+	box-shadow: 0 1px #939598;
+	font-weight: normal;
+	padding-right: 0px;
+
+}
+	h3 {
+	color: #b11116;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 2px;
+	text-align: left;
+	text-transform: none;
+	-webkit-box-shadow: 0 1px #939598E;
+	box-shadow: 0 1px #939598;
+	font-weight: normal;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-right: 25px;
+	margin-left: 30px;
+}
+	h4 {
+	color: #777777;
+	font-size: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: center;}
+	
+	p {
+	font-family: arial;
+	font-weight: normal;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-left: 25px;
+	margin-right: 30px;
+	vertical-align: top;
+}
+	.newsbody {
+	color: #333;
+	font-size: 13px;
+	line-height: 15px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+	.eplink {
+	color: #111;
+	font-size: 14px;
+	line-height: 14px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+	.hed {
+	color: #c2151c;
+	font-size: 15px;
+	line-height: 16px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+	.subhead {
+	color: #f6891f;
+	font-size: 13px;
+	line-height: 13px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: normal;
+}
+	
+	
+	img {text-decoration: none; border: 0px}
+	
+	
+	.menu2 {
+	color: #666666;
+	font-family: arial;
+	font-size: 8pt;
+	font-weight: light;
+	text-align: left;
+}
+	.menu3 {
+	color: #666666;
+	font-family: arial;
+	font-size: 7pt;
+	font-weight: light;
+	text-align: right;
+	}
+	.menu4 {
+	color: #555;
+	font-family: arial;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: right;
+}
+	.callout2 {
+	color: #595A65;
+	font-family: arial;
+	font-size: 12px;
+	text-align: center;
+}
+
+	a:link {
+	text-decoration: none;
+	
+}
+	a:visited {
+	text-decoration: none;
+}
+	a:hover {
+	text-decoration: none;
+	color: #ed1c24;
+}
+	a:active {
+	text-decoration: none;
+}
+	.footer_text2 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #0099cc;
+	text-align: center;
+	margin: 0px;
+}
+	p, a, li, td { -webkit-text-size-adjust:none; }
+
+    .leader1-mobile,
+    .leader2-mobile {
+        display: none;
+        mso-hide: all;
+    }
+      @media all and (max-width: 480px) {
+
+        .no-padding-xs,
+        .no-padding-xs__td td[style="vertical-align:top;padding:15px 20px;"],
+        .email-title-wrapper td {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .desktopLb {
+          display: none !important;
+        }
+
+        .mobileLb {
+          display: block !important;
+          align: center !important;
+        }
+
+        .newsImg {
+          display: none !important;
+        }
+
+        .BGImg {
+          display: none !important;
+        }
+
+      }
+    
+    .leader1,
+    .leader2 {
+          display: none !important;
+          mso-hide: all !important;
+        }
+
+    .leader1-mobile,
+    .leader2-mobile  {
+          display: inline-block !important;
+    }
+	
+
+      @media all and (min-width: 480px) {
+        .email-title-wrapper td {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+    </mj-style>
+   <mj-style inline="inline">
+
+
+ 
+
+
+
+    </mj-style>
+    <mj-preview><?php echo $_preview_text; ?></mj-preview>
+  </mj-head>'
+    <mj-body background-color="#E4E7EC"  width="680px">
+    <!-- Logo Banner -->
+    <mj-section padding="0px" border-bottom="2px solid #B11116">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.autoserviceworld.com/wp-content/uploads/2021/03/CARS_main5.jpg" href="<?php echo _nc_custom_builder_campaign_url( 'https://www.autoserviceworld.com/' ); ?>" /> 
+           
+      </mj-column>
+    </mj-section>
+      <!-- Guy Banner -->
+        <mj-section padding="0px">
+      <mj-column padding="0px" width="100%">
+        <mj-image padding="0px" src="https://www.autoserviceworld.com/wp-content/uploads/2021/03/main-banner-1.jpg" href="<?php echo _nc_custom_builder_campaign_url( 'https://www.autoserviceworld.com/' ); ?>" /> 
+           
+      </mj-column>
+    </mj-section>
+   
+    <!-- End Main Image -->
+    <!-- Sponsors -->
+     <mj-section background-color="#fff">
+      <mj-column  padding="0px" width="75%">
+        <mj-text align="left"><a href="<?php echo _nc_custom_builder_campaign_url('https://www.linkedin.com/company/turnkey-media-ca/');?>" target="_blank"><img src="https://www.autoserviceworld.com/wp-content/uploads/2021/01/linkedin.gif" width="21" height="auto" alt="LinkedIn"/></a>
+          <a href="<?php  echo _nc_custom_builder_campaign_url('https://www.facebook.com/myCARSmagazine');?>" target="_blank"><img src="https://www.autoserviceworld.com/wp-content/uploads/2021/01/fb.gif" width="21" height="auto" alt="FB"/></a>|&nbsp;&nbsp;<a href="https://www.cfmediaview.com/ViewMessage.aspx?org=Turnkey&msg={msgid}" target="_blank" class="menu3">VIEW IN BROWSER</a></mj-text>
+      </mj-column>
+     
+           <mj-column  width="25%" padding="0px">
+        			<mj-text css-class="date">test<?php echo $vals['communication_builder_date']; ?></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Sponsors -->
+    <!-- LEADER 1 -->
+      
+        <?php if (in_array('Leaderboard 1', $adunits)) : ?>
+      <mj-section background-color="#fff" padding="0px" text-align="center" >
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.autoserviceworld.com/ad/em_CARS_RESP_LB_300x90_Top/728x90/" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_RESP_LB_300x90_Top&sz=728x90&c=<?php echo $rand; ?>"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.autoserviceworld.com/ad/em_CARS_RESP_LB_300x90_Top/300x90/" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_RESP_LB_300x90_Top&sz=300x90&c=<?php echo $rand; ?>"></mj-image>
+      </mj-column>
+    </mj-section>
+      <?php endif;?>
+    <!-- END LEADER 1 -->
+       [[--NEWGEN-HEADER-PLACEHOLDER--]]
+    <!-- Your Morning Update-->
+       <?php
+         $_item = [];
+        if (isset($droppable_feeds['Your Morning Update'])) {
+          $_item = $droppable_feeds['Your Morning Update'];
+          $_item = (!empty($_item['feeds'])) ? $_item['feeds'] : [];
+        };
+        if (!empty($_item)) :
+       ?>
+     <mj-section background-color="#fff">
+      <mj-column  width="100%">
+
+        <mj-text><h2>Your Morning Update</h2></mj-text>
+        <mj-text css-class="newsbody"><?php echo $_item[0]['summary']; ?></mj-text>
+      </mj-column>
+             
+    </mj-section>
+      <?php endif;?>
+    <!-- End  -->
+    <!-- News-->
+ <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column  width="100%">
+
+        <mj-text><h2>News</h2></mj-text>
+      </mj-column>
+             
+    </mj-section>
+      <mj-section background-color="#fff" padding-top="0px">
+      <mj-column  width="50%">
+
+        <mj-text> <a href="<?php echo $content_items[0]['url']?>" class="eplink" target="_blank"><?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[0]));
+                                        echo $content_items[0]['title'];?></a><br/>
+                <span class="newsbody"> <?php echo strlen($content_items[0]['summary']) > 109 ? substr($content_items[0]['summary'], 0, 109)."..." : $content_items[0]['summary']; ?></span>
+          </mj-text>
+          <mj-text>   <a href="<?php echo $content_items[0]['url']?>" target="_blank" style="color: #0099cc; text-decoration: none; font-size: 12px;">Read More »</a></mj-text>
+            <mj-text> <a href="<?php echo $content_items[1]['url']?>" class="eplink" target="_blank"><?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[1]));
+                                        echo $content_items[1]['title'];?></a><br/>
+                <span class="newsbody"> <?php echo strlen($content_items[1]['summary']) > 109 ? substr($content_items[1]['summary'], 0, 109)."..." : $content_items[1]['summary']; ?></span></mj-text>
+               <mj-text>   <a href="<?php echo $content_items[1]['url']?>" target="_blank" style="color: #0099cc; text-decoration: none; font-size: 12px;">Read More »</a></mj-text>
+      </mj-column>
+       <?php if (in_array('Big Box 1', $adunits)) : ?>
+       <mj-column  width="50%">
+         
+					<mj-image width="300px" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_BB_1&sz=300x250&c=<?php echo $rand; ?>" href="https://www.autoserviceworld.com/ad/em_CARS_BB_1/300x250/"></mj-image>
+      
+      </mj-column>
+        <?php endif;?>
+    </mj-section>
+      <!-- Big Box 2 section -->
+            <mj-section background-color="#fff" padding-top="0px">
+      <mj-column  width="50%">
+
+        <mj-text> <a href="<?php echo $content_items[2]['url']?>" class="eplink" target="_blank"><?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[2]));
+                                        echo $content_items[2]['title'];?></a><br/>
+                <span class="newsbody"> <?php echo strlen($content_items[2]['summary']) > 109 ? substr($content_items[2]['summary'], 0, 109)."..." : $content_items[2]['summary']; ?></span>
+          </mj-text>
+          <mj-text>   <a href="<?php echo $content_items[2]['url']?>" target="_blank" style="color: #0099cc; text-decoration: none; font-size: 12px;">Read More »</a></mj-text>
+            <mj-text> <a href="<?php echo $content_items[3]['url']?>" class="eplink" target="_blank"><?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[3]));
+                                        echo $content_items[1]['title'];?></a><br/>
+                <span class="newsbody"> <?php echo strlen($content_items[3]['summary']) > 109 ? substr($content_items[3]['summary'], 0, 109)."..." : $content_items[3]['summary']; ?></span></mj-text>
+               <mj-text>   <a href="<?php echo $content_items[3]['url']?>" target="_blank" style="color: #0099cc; text-decoration: none; font-size: 12px;">Read More »</a></mj-text>
+      </mj-column>
+       <?php if (in_array('Big Box 2', $adunits)) : ?>
+       <mj-column  width="50%">
+         
+					<mj-image width="300px" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_BB_2&sz=300x250&c=<?php echo $rand; ?>" href="https://www.autoserviceworld.com/ad/em_CARS_BB_2/300x250/"></mj-image>
+      
+      </mj-column>
+        <?php endif;?>
+    </mj-section>
+    <!-- END S1R2 -->
+     <?php   $_item = [];
+        if (isset($droppable_feeds['Sponsored Section'])) {
+          $_item = $droppable_feeds['Sponsored Section'];
+          $_item = (!empty($_item['feeds'])) ? $_item['feeds'] : [];
+        };
+        if (!empty($_item)) {
+       ?>   
+        <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column  width="100%">
+
+        <mj-text><h4>Sponsored</h4></mj-text>
+      </mj-column>
+             
+    </mj-section>
+       <mj-section background-color="#fff" padding-top="0px">
+      <mj-column  width="25%">
+
+        <mj-text><a href="<?php echo $_item[0]['url'];?>" target="_blank"><img src="<?php echo $_item[0]['image'];?>" width="110" height="auto" alt="sponsor logo"/></a></mj-text>
+      </mj-column>
+          <mj-column  width="75%">
+
+        <mj-text><span class="newslinks"><a href="<?php echo $_item[0]['url'];?>" target="_blank" class="eplink"><?php echo $_item[0]['title'];?></a></span><br/>
+                <span class="newsbody"><?php echo $_item[0]['summary'];?></span><br/></mj-text>
+      </mj-column>
+             
+    </mj-section>
+         <?php };?>
+    <!-- LEADER 2 -->
+       <?php if (in_array('Leaderboard 2', $adunits)) : ?>
+      <mj-section background-color="#fff" padding="0px" text-align="center" >
+      <mj-column width="100%">
+        <mj-image css-class="desktopLb" align="center" padding="0px" href="https://www.autoserviceworld.com/ad/em_CARS_RESP_LB_300x90_Bottom/728x90/" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_RESP_LB_300x90_Bottom&sz=728x90&c=<?php echo $rand; ?>"></mj-image>
+        <mj-image css-class="mobileLb" align="center" padding="0px" width="300px" href="https://www.autoserviceworld.com/ad/em_CARS_RESP_LB_300x90_Bottom/300x90/" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_RESP_LB_300x90_Bottom&sz=300x90&c=<?php echo $rand; ?>"></mj-image>
+      </mj-column>
+    </mj-section>
+	<?php endif;?>
+ <mj-section background-color="#fff" padding-top="0px">
+      <mj-column  width="50%">
+
+        <mj-text> <a href="<?php echo $content_items[0]['url']?>" class="eplink" target="_blank"><?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[4]));
+                                        echo $content_items[4]['title'];?></a><br/>
+                <span class="newsbody"> <?php echo strlen($content_items[4]['summary']) > 109 ? substr($content_items[4]['summary'], 0, 109)."..." : $content_items[4]['summary']; ?></span>
+          </mj-text>
+          <mj-text>   <a href="<?php echo $content_items[4]['url']?>" target="_blank" style="color: #0099cc; text-decoration: none; font-size: 12px;">Read More »</a></mj-text>
+            <mj-text> <a href="<?php echo $content_items[5]['url']?>" class="eplink" target="_blank"><?php print theme('nc_custom_templates_inline_native_article', array('article' => $content_items[5]));
+                                        echo $content_items[5]['title'];?></a><br/>
+                <span class="newsbody"> <?php echo strlen($content_items[5]['summary']) > 109 ? substr($content_items[5]['summary'], 0, 109)."..." : $content_items[5]['summary']; ?></span></mj-text>
+               <mj-text>   <a href="<?php echo $content_items[5]['url']?>" target="_blank" style="color: #0099cc; text-decoration: none; font-size: 12px;">Read More »</a></mj-text>
+      </mj-column>
+       <?php if (in_array('Big Box 3', $adunits)) : ?>
+       <mj-column  width="50%">
+         
+					<mj-image width="300px" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_BB_3&sz=300x250&c=<?php echo $rand; ?>" href="https://www.autoserviceworld.com/ad/em_CARS_BB_3/300x250/"></mj-image>
+      
+      </mj-column>
+        <?php endif;?>
+    </mj-section>
+    
+       <!-- ASW Conversations-->
+     <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column  width="100%">
+
+        <mj-text><a href="<?php echo _nc_custom_builder_campaign_url('https://www.autoserviceworld.com/category/podcast/');?>" style="color:#b11116;"><h2>ASW Conversations</h2></a></mj-text>
+      
+      </mj-column>
+             
+    </mj-section>
+      <mj-section background-color="#fff" padding-top="0px">
+      <mj-column  width="25%">
+
+        <mj-text><a href="<?php echo $feeds['features'][0]->link; ?>" target="_blank"><img src="<?php echo $feeds['features'][0]->image; ?>" width="145" height="auto" alt="image"/></a></mj-text>
+      
+      	</mj-column>
+       <mj-column  width="75%">
+
+        <mj-text> <a href="<?php echo $feeds['features'][0]->link; ?>" class="eplink" target="_blank"><?php echo $feeds['features'][0]->title; ?></a><br/>
+                <span class="newsbody"><?php echo $feeds['features'][0]->description; ?> </span><br/></mj-text>
+      
+      </mj-column>
+             
+    </mj-section>
+           <?php  if (in_array('Big Box 4', $adunits)) : ?>
+    
+           <mj-section background-color="#fff" padding-top="0px">
+      <mj-column  width="100%">
+
+        	<mj-image width="300px" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_BB_4&sz=300x250&c=<?php echo $rand; ?>" href="https://www.autoserviceworld.com/ad/em_CARS_BB_4/300x250/"></mj-image>
+      	</mj-column>
+       
+             
+    </mj-section>
+    <?php endif;?>
+      <!-- Products -->
+          <!-- ASW Conversations-->
+     <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column  width="100%">
+
+        <mj-text><h2><a href="<?php echo _nc_custom_builder_campaign_url( 'https://www.autoserviceworld.com/news_products/' ); ?>"style="color:#b11116;">Products</a></h2></mj-text>
+      
+      </mj-column>
+             
+    </mj-section>
+      <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">
+      <mj-column  width="25%">
+
+        <mj-text><a href="<?php echo $feeds['products'][0]->link; ?>" target="_blank"><img src="<?php echo $feeds['products'][0]->image; ?>" width="135" height="auto" alt="image"/></a></mj-text>
+      
+      	</mj-column>
+       <mj-column  width="75%">
+
+        <mj-text>  <a href="<?php echo $feeds['products'][0]->link; ?>" class="eplink" target="_blank"><?php echo $feeds['products'][0]->title; ?></a><br/>
+                <span class="newsbody"><?php echo $feeds['products'][0]->description; ?></span><br/>
+            <a href="<?php echo $feeds['products'][0]->link; ?>" target="_blank" style="color: #0099cc; text-decoration: none; font-size: 12px;">Read More »</a></mj-text>
+      
+      </mj-column>
+             
+    </mj-section>
+            <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">
+      <mj-column  width="25%">
+
+        <mj-text><a href="<?php echo $feeds['products'][1]->link; ?>" target="_blank"><img src="<?php echo $feeds['products'][1]->image; ?>" width="135" height="auto" alt="image"/></a></mj-text>
+      
+      	</mj-column>
+       <mj-column  width="75%">
+
+        <mj-text>  <a href="<?php echo $feeds['products'][1]->link; ?>" class="eplink" target="_blank"><?php echo $feeds['products'][1]->title; ?></a><br/>
+                <span class="newsbody"><?php echo $feeds['products'][1]->description; ?></span><br/>
+            <a href="<?php echo $feeds['products'][1]->link; ?>" target="_blank" style="color: #0099cc; text-decoration: none; font-size: 12px;">Read More »</a></mj-text>
+      
+      </mj-column>
+             
+    </mj-section>
+
+           <?php  if (in_array('Big Box 5', $adunits)) : ?>
+    
+           <mj-section background-color="#fff" padding-top="0px">
+      <mj-column  width="100%">
+
+        	<mj-image width="300px" src="https://securepubads.g.doubleclick.net/gampad/ad?iu=/95740733/em_CARS_BB_5&sz=300x250&c=<?php echo $rand; ?>" href="https://www.autoserviceworld.com/ad/em_CARS_BB_5/300x250/"></mj-image>
+      	</mj-column>
+       
+             
+    </mj-section>
+    <?php endif;?>
+        <?php if (!empty($feeds['events'])) :?>
+            <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column  width="100%">
+
+        <mj-text><h2><a href="<?php echo _nc_custom_builder_campaign_url( 'https://www.autoserviceworld.com/events/' ); ?>" style="color:#b11116;">Events</a></h2></mj-text>
+      
+      </mj-column>
+             
+    </mj-section>
+      <?php for ( $i = 0; $i < count( $feeds['events'] ); $i ++ ): ?>
+       <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">
+      <mj-column  padding-top="0px" padding-bottom="0px"width="100%">
+
+        <mj-text> <a href="<?php echo $feeds['events'][ $i ]->link; ?>" class="eplink" target="_blank"><?php echo $feeds['events'][ $i ]->title; ?></a><br/>
+				  <span class="newsbody"><?php echo $feeds['events'][ $i ]->eventstart; ?></span><br/></mj-text>
+      
+      </mj-column>
+             
+    </mj-section>
+    <?php endfor;?>
+    <?phpendif;?>
+    <mj-section background-color="#fff" padding-top="0px" padding-bottom="0px">
+      <mj-column  width="100%">
+
+        <mj-text><h5 align="center" class="footer_text2" style ="margin: 0px 5px 0px 0px; font-weight: normal; font-size: 10px;  color: #858585"><a href="https://www.cfmediaview.com/ViewMessage.aspx?org=Turnkey&msg={msgid}" target="_blank" class="footer_text2">View in Browser</a><br/>
+          This email was sent to: [email] by CARS and Jobber News Magazines.</h5></mj-text>
+      
+        <mj-text align="center"> <a href="<?php echo _nc_custom_builder_campaign_url('https://www.autoserviceworld.com');?>" target="_blank"><img src="https://www.autoserviceworld.com/wp-content/uploads/2021/01/Turnkey_logo.png" width="170" height="auto" alt="Turnkey logo"/></a></mj-text>
+         <mj-text><h5 align="center" style ="margin: 0px 10px 0px 0px; font-weight: normal; font-size: 10px;  color: #858585">&#169; 2021 Turnkey Media Solutions Inc. <br/>
+                <br/><a href="<?php echo _nc_custom_builder_campaign_url( 'https://www.autoserviceworld.com/advertise/');?>" target="_blank" class="footer_text2">Advertise</a> | <a href="<?php echo _nc_custom_builder_campaign_url( 'https://www.autoserviceworld.com/contacts/');?>" target="_blank" class="footer_text2">Contact Us</a></h5>
+              <h5 align="center" style ="margin: 0px 10px 0px 0px; font-weight: normal; font-size: 10px;  color: #858585"><br/>
+              </h5></mj-text>
+      	</mj-column>
+      
+             
+    </mj-section>
+  </mj-body>
+</mjml>
