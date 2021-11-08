@@ -1,0 +1,162 @@
+<mjml>
+  <mj-head>
+    <mj-title>IE</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+    <mj-preview>Partner Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding-top="0px" padding-bottom="0px" background-color="#000">
+      <mj-column background-color="#fff" width="100%">
+        		<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/header.png" href="https://www.investmentexecutive.com/microsite/women-in-finance-series/" padding="0px"/>
+
+      </mj-column>
+       
+    </mj-section>
+        <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="10px" background-color="#fff" width="100%">
+        <mj-text color="#55616d" font-size="25px" font-weight="700" align="left">Time to transform your
+investment advisory practice?</mj-text>
+        <mj-text color="#55616d" font-size="18px" font-weight="400" align="left">
+        In this partner Report, nine Wellington-Altus investment advisors share their reasons
+          for choosing independence, partnership and a culture that enables growth.</mj-text>
+			
+        
+      </mj-column>
+    </mj-section>
+        <mj-section  padding-top="5px" padding-bottom="5px" background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+        		<mj-image padding="0px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/banner.png" />
+
+      </mj-column>
+       
+    </mj-section>
+
+        <mj-section padding-top="0px"background-color="#fff" padding-bottom="0px">
+      <mj-column padding-top="0px" background-color="#fff" width="50%">
+     		   		<mj-image padding="0px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/button.png"  href="https://www.investmentexecutive.com/feature/a-partner-report-from-wellington-altus/" />
+     
+      </mj-column>
+               <mj-column padding-top="10px" background-color="#fff" width="50%">
+       		<mj-image padding="0px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/logo.png" href="https://advisor.wellington-altus.ca/joinwellington/" width="200px"/>
+      </mj-column>
+    </mj-section>
+            <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+      <mj-column padding-top="10px" background-color="#f5f5f5" width="100%">
+        <mj-text color="#000" font-size="20px" font-weight="700" align="left">Bank-owned SUV or independent race car?</mj-text>
+        <mj-text color="#55616d" font-size="16px" padding-top="0px" font-weight="700" align="left">
+        A culture of partnership drives advisor passion at Wellington-Altus.</mj-text>
+			
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+               <mj-column  background-color="#f5f5f5" width="50%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/box1.png" href="https://www.investmentexecutive.com/in-depth_/partner-reports/bank-owned-suv-or-independent-race-car/"/>
+
+      </mj-column>
+           <mj-column background-color="#f5f5f5" width="50%">
+              <mj-text color="#55616d" font-size="15px" font-weight="400" align="left">
+A culture of partnership drives advisor passion
+at Wellington-Altus</mj-text>
+	<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/readmore.png" href="https://www.investmentexecutive.com/in-depth_/partner-reports/bank-owned-suv-or-independent-race-car/" width="105px" align="left"/>
+
+      </mj-column>
+     
+    </mj-section> 
+    <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+      <mj-column padding-top="5px" background-color="#f5f5f5" width="100%">
+  		<mj-divider border-color="#8e9295" width="100%"> </mj-divider>
+      </mj-column>
+    </mj-section>
+
+            <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+      <mj-column padding-top="10px" background-color="#f5f5f5" width="100%">
+        <mj-text color="#000" font-size="20px" font-weight="700" align="left">Cross-sell banking products or go independent?</mj-text>
+        <mj-text color="#55616d" font-size="16px" padding-top="0px" font-weight="700" align="left">
+        An innovative, tech-savvy mindset enables advisor success at Wellington-Altus.</mj-text>
+			
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+               <mj-column  background-color="#f5f5f5" width="50%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/box3.png" href="https://www.investmentexecutive.com/in-depth_/partner-reports/cross-sell-banking-products-or-go-independent//"/>
+
+      </mj-column>
+           <mj-column background-color="#f5f5f5" width="50%">
+              <mj-text color="#55616d" font-size="15px" font-weight="400" align="left">
+Pressured to cross-sell banking products at his
+old firm, Colin Ryan put the emphasis back on
+better client service at Wellington-Altus. Shaun
+Hauser and Kelly Demo share their insights too.</mj-text>
+	<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/readmore.png" href="https://www.investmentexecutive.com/in-depth_/partner-reports/cross-sell-banking-products-or-go-independent/" width="105px" align="left"/>
+
+      </mj-column>
+     
+    </mj-section> 
+    <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+      <mj-column padding-top="5px" background-color="#f5f5f5" width="100%">
+  		<mj-divider border-color="#8e9295" width="100%"> </mj-divider>
+      </mj-column>
+    </mj-section>
+
+            <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+      <mj-column padding-top="10px" background-color="#f5f5f5" width="100%">
+        <mj-text color="#000" font-size="20px" font-weight="700" align="left">Stagnant service model or growth mindset?</mj-text>
+        <mj-text color="#55616d" font-size="16px" padding-top="0px" font-weight="700" align="left">
+       Independence and a focus on enablement help</mj-text>
+			
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+               <mj-column  background-color="#f5f5f5" width="50%">
+      			<mj-image css-class="noBottom" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/box3.png" href="https://www.investmentexecutive.com/in-depth_/partner-reports/stagnant-service-model-or-growth-mindset//"/>
+
+      </mj-column>
+           <mj-column background-color="#f5f5f5" width="50%">
+              <mj-text color="#55616d" font-size="15px" font-weight="400" align="left">
+Leaving a stagnant service model and outdated
+technology behind, Maili Wong and her clients
+are thriving at Wellington-Altus. Jordy Chilcott
+and Martin Pelletier share their insights too.</mj-text>
+	<mj-image src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/readmore.png" href="https://www.investmentexecutive.com/in-depth_/partner-reports/stagnant-service-model-or-growth-mindset/" width="105px" align="left"/>
+
+      </mj-column>
+     
+    </mj-section> 
+    
+    <mj-section padding-top="0px"background-color="#f5f5f5" padding-bottom="0px">
+      <mj-column padding-top="5px" background-color="#f5f5f5" width="100%">
+  		<mj-divider border-color="#8e9295" width="100%"> </mj-divider>
+      </mj-column>
+    </mj-section>
+            <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column  background-color="#fff" width="50%">
+     		   		<mj-image padding-top="5px"src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/ielogo.png" align="left" href="https://www.investmentexecutive.com/" width="159px" />
+     
+      </mj-column>
+               <mj-column padding-top="0px" background-color="#fff" width="50%">
+       		      <mj-text color="#818181" font-size="12px" font-weight="400" align="left">
+<em>Partner Reports is a space made available for businesses
+who wish to publish content for financial professionals. Investment
+Executive journalists are not involved in writing these articles.</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+     		<mj-text>footer</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
