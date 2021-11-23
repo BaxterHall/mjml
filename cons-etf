@@ -1,0 +1,101 @@
+<mjml>
+  <mj-head>
+      <mj-preview>TABLE RONDE VIRTUELLE&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</mj-preview>
+     <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:25% !important; display:inline-block !important; }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        
+        <mj-text>
+         TABLE RONDE VIRTUELLE: Faites des FNB les alliés de votre croissance
+
+
+ 
+
+Jeudi le 9 décembre 2021 de 13h à 14h HE
+
+
+ 
+
+Inscrivez-vous maintenant et obtenez une UFC
+
+
+ 
+
+(CSF en attente d’approbation)
+        
+        
+        </mj-text>
+
+				<mj-image href="https://attendee.gotowebinar.com/register/6815355128991939086?source=eDirect+1" padding="0px" src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/11/header.jpg"></mj-image>
+        
+        <mj-text padding-left="0px" padding-right="0px" padding-top="15px" padding-bottom="15px" color="white" container-background-color="#57c1b4" font-weight="bold" align="center" font-size="18px">Obtenez une UFC de la CSF (en attente d’approbation)</mj-text>
+        
+        <mj-text font-size="20px" padding-top="20px" font-weight="bold" color="#0b1137">Apprenez comment développer vos affaires  en utilisant les FNB</mj-text>
+        
+        <mj-text font-size="16px" line-height="24px">Il y a maintenant plus de 1 000 FNB cotés au Canada, ce qui rends plus difficile que jamais de savoir quels produits conviennent à vos clients. Devriez-vous vous inquiéter des FNB dont le volume de transactions est faible ? Les FNB thématiques, ESG et alternatifs liquides sont-ils à la hauteur de leur popularité ? Les FNB peuvent-ils vous aider à attirer des investisseurs autonomes au sein de votre clientèle ? Dans cette table ronde virtuelle organisée par <em>Finance et Investissement</em> et <em>Conseiller</em>, des experts du secteur des FNB donnent leur avis sur ce marché et offrent des conseils pour vous aider à développer vos affaires.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    
+
+    <mj-section>
+      <mj-column>
+        <mj-image width="150px" align="left" src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/11/Laurent-Boukobza-1.png"></mj-image>
+				<mj-text font-size="18px" color="#0b1137" font-weight="bold" padding-bottom="0px">Laurent Boukobza</mj-text>
+        <mj-text font-size="14px" line-height="18px" color="#57c1b4" font-weight="500">Vice-Président, Stratège FNBs,  Placements Mac</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="150px" align="left" src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/11/Alain_Desbiens-1.png"></mj-image>
+				<mj-text font-size="18px" color="#0b1137" font-weight="bold" padding-bottom="0px">Alain Desbiens </mj-text>
+        <mj-text font-size="14px" line-height="18px" color="#57c1b4" font-weight="500">Directeur, FNB, BMO  Gestion mondiale d’actifs</mj-text>
+      </mj-column>
+    </mj-section>
+    
+
+
+    
+            <mj-section>
+         <mj-column>
+        <mj-image css-class="centerMe" width="150px" align="right" src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/11/Yves-Rebetez-2.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text>&nbsp;</mj-text>
+ <mj-text font-weight="bold" font-size="16px" color="#555" padding-bottom="0px">Modérée par : </mj-text>
+				<mj-text align="left" font-size="18px" color="#0b1137" font-weight="bold" padding-bottom="0px">Yves Rebetez </mj-text>
+        <mj-text font-size="14px" line-height="18px" color="#57c1b4" font-weight="500">Partenaire, CREDO Consulting, Inc.</mj-text>
+              </mj-column></mj-section>
+              
+              
+     <mj-section>
+        <mj-column background-color="#e31e28">
+       <mj-button font-size="18px" href="https://attendee.gotowebinar.com/register/7551957550081469968?source=eDirect+1" border="1px solid white" background-color="#e31e28" border-radius="0px"><b>Inscrivez-vous !</b></mj-button>
+       </mj-column>      
+		</mj-section>  
+              
+    <mj-section padding-top="0px">
+       <mj-column padding-top="0px">
+      		<mj-image src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/11/footer.jpg">
+         
+         
+          </mj-image>
+      </mj-column>           
+    </mj-section>          
+     <mj-section padding-top="0px" background-color="#fff">
+      <mj-column background-color="#fff" width="100%">
+
+     		<mj-text>footer</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    
+  </mj-body>
+</mjml>
